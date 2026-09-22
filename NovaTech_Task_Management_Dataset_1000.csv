@@ -1,0 +1,1001 @@
+Task ID,Task Name,Project,Department,Assigned To,Priority,Status,Created Date,Due Date,Completed Date,Estimated Hours,Actual Hours,Task Category,Client,Complexity,Sprint,Completion %,Risk Level,Comments
+TSK-0001,Update Knowledge Base,Customer Support Automation,Customer Support,Lucy Moraa,High,In Progress,2025-02-14,2025-02-19,,9,9,Design,Internal,Medium,Sprint 9,43,High,Client feedback pending
+TSK-0002,Customer Survey,Customer Support Automation,Customer Support,Victor Kiptoo,High,In Progress,2025-03-23,2025-04-03,,16,15,Testing,Internal,Hard,Sprint 2,78,Low,Ready for review
+TSK-0003,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,High,Completed,2025-07-13,2025-07-28,2025-07-28,10,12,Design,Internal,Medium,Sprint 1,100,Low,Client feedback pending
+TSK-0004,Automate Payroll,Finance Automation,Finance,John Kamau,Low,Completed,2025-03-25,2025-04-03,2025-04-06,8,11,Finance,Internal,Medium,Sprint 10,100,Medium,Blocked by dependency
+TSK-0005,UI Testing,Mobile App Development,IT,Brian Otieno,Medium,Not Started,2025-12-17,2025-12-24,,12,0,Design,Internal,Medium,Sprint 6,0,Medium,Ready for review
+TSK-0006,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-05-16,2025-06-05,2025-06-07,23,23,Finance,External,Hard,Sprint 10,100,Low,Ready for review
+TSK-0007,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,Medium,In Progress,2025-03-23,2025-04-05,,13,10,Marketing,External,Hard,Sprint 9,68,Low,On track
+TSK-0008,Resolve Tickets,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-01-02,2025-01-07,2025-01-09,4,2,Support,External,Easy,Sprint 11,100,Low,Client feedback pending
+TSK-0009,Content Review,Website Redesign,Marketing,Grace Chebet,Low,Not Started,2025-09-08,2025-09-21,,17,0,Design,Internal,Hard,Sprint 4,0,Medium,Awaiting approval
+TSK-0010,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Low,Completed,2025-10-09,2025-10-20,2025-10-21,3,2,HR,Internal,Easy,Sprint 12,100,Medium,Requires testing
+TSK-0011,Keyword Research,Marketing Campaign,Sales,George Odhiambo,Low,Completed,2025-01-11,2025-01-24,2025-01-23,6,4,Development,Internal,Easy,Sprint 4,100,Low,Awaiting approval
+TSK-0012,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,High,Completed,2025-10-20,2025-11-01,2025-11-02,9,8,Development,Internal,Medium,Sprint 11,100,Medium,Ready for review
+TSK-0013,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Medium,Not Started,2025-06-23,2025-06-28,,2,0,HR,External,Easy,Sprint 3,0,Low,Ready for review
+TSK-0014,Design Landing Page,Website Redesign,Marketing,Grace Chebet,Medium,Overdue,2025-10-04,2025-10-11,,6,8,Marketing,External,Medium,Sprint 4,66,Low,Ready for review
+TSK-0015,CRM Testing,CRM Implementation,IT,James Mwangi,High,In Progress,2025-10-12,2025-10-20,,7,6,HR,Internal,Medium,Sprint 12,33,Low,High priority follow-up
+TSK-0016,Sales Process Mapping,CRM Implementation,IT,Diana Wanjiku,Low,Completed,2025-04-06,2025-04-11,2025-04-12,2,1,HR,Internal,Easy,Sprint 10,100,Medium,On track
+TSK-0017,Deploy Beta Version,Mobile App Development,IT,Ian Kibet,Medium,Completed,2025-06-10,2025-06-14,2025-06-17,3,6,Testing,External,Easy,Sprint 6,100,Medium,Awaiting approval
+TSK-0018,Configure CRM Database,CRM Implementation,IT,Faith Njeri,High,Completed,2025-02-05,2025-02-09,2025-02-10,3,7,HR,External,Easy,Sprint 10,100,High,On track
+TSK-0019,Update Knowledge Base,Customer Support Automation,Human Resources,Ruth Nyambura,High,Overdue,2025-05-25,2025-06-03,,7,9,Finance,External,Medium,Sprint 9,83,Low,Documentation updated
+TSK-0020,Screen CVs,HR Recruitment,Operations,Kelvin Mutua,Medium,Overdue,2025-03-08,2025-03-18,,4,9,Marketing,Internal,Easy,Sprint 2,85,Low,Awaiting approval
+TSK-0021,Resolve Tickets,Customer Support Automation,Customer Support,Christine Auma,Medium,Completed,2025-01-21,2025-01-27,2025-01-30,4,2,Testing,External,Easy,Sprint 10,100,Low,Blocked by dependency
+TSK-0022,Accessibility Testing,Website Redesign,Operations,Winnie Chebet,High,In Progress,2025-12-09,2025-12-15,,8,5,Development,External,Medium,Sprint 4,85,High,Client feedback pending
+TSK-0023,Automate Payroll,Finance Automation,Human Resources,Carol Chepkemoi,High,In Progress,2025-02-05,2025-02-18,,8,5,Support,External,Medium,Sprint 1,73,Low,Awaiting approval
+TSK-0024,Screen CVs,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-11-07,2025-11-20,2025-11-19,6,6,Development,External,Medium,Sprint 1,100,Low,Client feedback pending
+TSK-0025,Onboard Employee,HR Recruitment,Human Resources,Carol Chepkemoi,High,Overdue,2025-06-08,2025-06-17,,8,13,Design,External,Medium,Sprint 11,48,Low,Ready for review
+TSK-0026,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Completed,2025-04-18,2025-05-08,2025-05-11,21,21,Marketing,External,Hard,Sprint 8,100,Low,Client feedback pending
+TSK-0027,Build Dashboard,Mobile App Development,IT,Mercy Achieng,Medium,Completed,2025-02-17,2025-02-26,2025-02-25,11,10,Development,Internal,Medium,Sprint 4,100,Medium,Documentation updated
+TSK-0028,UI Testing,Mobile App Development,IT,Diana Wanjiku,Low,Completed,2025-07-24,2025-07-28,2025-07-26,7,11,Marketing,Internal,Medium,Sprint 3,100,Low,Documentation updated
+TSK-0029,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Medium,Overdue,2025-11-01,2025-11-17,,12,18,Marketing,External,Medium,Sprint 3,72,High,Documentation updated
+TSK-0030,Design Banner,Marketing Campaign,Marketing,Grace Chebet,Medium,Completed,2025-02-09,2025-02-18,2025-02-18,7,9,Development,Internal,Medium,Sprint 3,100,Low,Client feedback pending
+TSK-0031,Launch Email Campaign,Marketing Campaign,Marketing,Allan Mwangi,High,Completed,2025-04-16,2025-04-30,2025-05-03,9,7,Support,External,Medium,Sprint 8,100,Low,On track
+TSK-0032,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-09-07,2025-09-24,,18,18,Testing,External,Hard,Sprint 12,54,High,Blocked by dependency
+TSK-0033,Expense Review,Finance Automation,Finance,Anne Muthoni,Medium,Overdue,2025-02-12,2025-02-18,,7,8,Marketing,External,Medium,Sprint 4,56,Medium,Documentation updated
+TSK-0034,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,Medium,Overdue,2025-01-10,2025-01-17,,6,12,Support,Internal,Easy,Sprint 1,44,Low,Client feedback pending
+TSK-0035,Update Homepage,Website Redesign,Customer Support,Kelvin Ouma,High,In Progress,2025-12-25,2026-01-03,,12,12,Support,Internal,Medium,Sprint 5,79,Low,Awaiting approval
+TSK-0036,Deploy Beta Version,Mobile App Development,IT,Kevin Kiptoo,Medium,Not Started,2025-02-08,2025-02-17,,11,0,Development,External,Medium,Sprint 11,0,Medium,Awaiting approval
+TSK-0037,Invoice Validation,Finance Automation,Operations,Kelvin Mutua,Medium,In Progress,2025-01-07,2025-01-11,,5,2,Finance,External,Easy,Sprint 12,53,Medium,Blocked by dependency
+TSK-0038,Design Banner,Marketing Campaign,Marketing,Peter Kariuki,Medium,Overdue,2025-10-31,2025-11-09,,15,18,Design,External,Hard,Sprint 10,68,Low,Ready for review
+TSK-0039,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-11-02,2025-11-13,2025-11-12,4,2,Design,External,Easy,Sprint 8,100,Low,Client feedback pending
+TSK-0040,Customer Survey,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-06-06,2025-06-18,2025-06-20,6,6,Marketing,External,Easy,Sprint 6,100,Medium,Documentation updated
+TSK-0041,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-12-20,2025-12-31,2025-12-31,7,10,HR,External,Medium,Sprint 2,100,High,Client feedback pending
+TSK-0042,Conduct Interview,HR Recruitment,Human Resources,Esther Kemunto,High,Completed,2025-10-11,2025-10-21,2025-10-19,4,8,Development,External,Easy,Sprint 8,100,High,Documentation updated
+TSK-0043,Design Banner,Marketing Campaign,Marketing,Sarah Wambui,Low,Completed,2025-02-07,2025-02-19,2025-02-18,22,21,Support,External,Hard,Sprint 2,100,Low,Client feedback pending
+TSK-0044,Sales Process Mapping,CRM Implementation,IT,Diana Wanjiku,Medium,In Progress,2025-08-15,2025-09-01,,21,19,HR,Internal,Hard,Sprint 10,66,Low,Awaiting approval
+TSK-0045,Invoice Validation,Finance Automation,Finance,Anne Muthoni,Medium,Completed,2025-01-02,2025-01-14,2025-01-15,5,5,Development,Internal,Easy,Sprint 5,100,Low,Requires testing
+TSK-0046,Update Knowledge Base,Customer Support Automation,IT,Ian Kibet,Low,In Progress,2025-04-12,2025-04-19,,6,5,Testing,Internal,Medium,Sprint 2,88,Medium,On track
+TSK-0047,Content Review,Website Redesign,Marketing,Peter Kariuki,Low,Completed,2025-07-26,2025-08-08,2025-08-09,10,8,HR,Internal,Medium,Sprint 7,100,Low,High priority follow-up
+TSK-0048,Build Dashboard,Mobile App Development,IT,James Mwangi,Low,Overdue,2025-12-11,2025-12-19,,10,14,Finance,External,Medium,Sprint 5,73,High,Blocked by dependency
+TSK-0049,UI Testing,Mobile App Development,IT,Mercy Achieng,Low,Completed,2025-02-23,2025-03-07,2025-03-07,8,11,Marketing,Internal,Medium,Sprint 8,100,Low,Awaiting approval
+TSK-0050,Prepare Offer Letter,HR Recruitment,Human Resources,Ruth Nyambura,Low,Overdue,2025-08-25,2025-09-05,,5,8,Support,External,Easy,Sprint 11,79,High,Documentation updated
+TSK-0051,Expense Review,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-01-15,2025-01-25,2025-01-25,15,17,Development,External,Hard,Sprint 2,100,Low,Client feedback pending
+TSK-0052,Automate Payroll,Finance Automation,Finance,John Kamau,Medium,In Progress,2025-09-05,2025-09-17,,7,6,Design,Internal,Medium,Sprint 2,54,Low,Requires testing
+TSK-0053,Invoice Validation,Finance Automation,Finance,Eric Kiprono,Low,Completed,2025-06-02,2025-06-21,2025-06-20,22,23,HR,External,Hard,Sprint 6,100,Low,High priority follow-up
+TSK-0054,UI Testing,Mobile App Development,IT,Diana Wanjiku,Low,Overdue,2025-07-16,2025-08-04,,24,25,Finance,External,Hard,Sprint 12,60,Low,Ready for review
+TSK-0055,Keyword Research,Marketing Campaign,Operations,Winnie Chebet,Low,Completed,2025-02-21,2025-03-11,2025-03-09,20,23,Design,External,Hard,Sprint 11,100,Low,Blocked by dependency
+TSK-0056,Create User Roles,CRM Implementation,IT,Kevin Kiptoo,Medium,Completed,2025-12-12,2025-12-23,2025-12-25,6,4,HR,Internal,Easy,Sprint 4,100,Low,Requires testing
+TSK-0057,Design Landing Page,Website Redesign,Marketing,Cynthia Mutiso,Medium,In Progress,2025-06-03,2025-06-05,,2,0,Testing,External,Easy,Sprint 3,52,Low,Client feedback pending
+TSK-0058,Build Dashboard,Mobile App Development,IT,Ian Kibet,High,Completed,2025-05-04,2025-05-15,2025-05-16,14,17,Testing,External,Hard,Sprint 5,100,Medium,On track
+TSK-0059,Expense Review,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-11-24,2025-12-07,2025-12-07,11,10,Marketing,External,Medium,Sprint 2,100,Medium,Client feedback pending
+TSK-0060,Design Banner,Marketing Campaign,Marketing,Peter Kariuki,Low,Completed,2025-05-21,2025-06-02,2025-06-04,22,25,Marketing,External,Hard,Sprint 4,100,Medium,High priority follow-up
+TSK-0061,SEO Optimization,Website Redesign,Marketing,Peter Kariuki,Medium,In Progress,2025-11-18,2025-11-24,,11,9,Marketing,Internal,Medium,Sprint 10,80,Medium,High priority follow-up
+TSK-0062,Resolve Tickets,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-07-07,2025-07-13,2025-07-13,6,10,Marketing,External,Easy,Sprint 12,100,Medium,High priority follow-up
+TSK-0063,Automate Payroll,Finance Automation,Finance,John Kamau,Medium,Completed,2025-07-23,2025-08-03,2025-08-01,8,8,HR,Internal,Medium,Sprint 8,100,Medium,High priority follow-up
+TSK-0064,Automation Testing,Customer Support Automation,Customer Support,Lucy Moraa,Medium,In Progress,2025-08-30,2025-09-10,,10,9,Development,External,Medium,Sprint 12,71,Medium,Requires testing
+TSK-0065,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Completed,2025-10-03,2025-10-13,2025-10-16,9,12,Finance,External,Medium,Sprint 10,100,Low,Blocked by dependency
+TSK-0066,Campaign Analysis,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Not Started,2025-08-16,2025-08-20,,5,0,Finance,External,Easy,Sprint 9,0,Low,High priority follow-up
+TSK-0067,Configure CRM Database,CRM Implementation,IT,Brian Otieno,Low,Overdue,2025-11-24,2025-12-03,,6,8,Support,Internal,Easy,Sprint 2,48,Low,Client feedback pending
+TSK-0068,Build Dashboard,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-03-16,2025-03-27,2025-03-25,16,19,Support,Internal,Hard,Sprint 3,100,Low,On track
+TSK-0069,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,High,Completed,2025-09-27,2025-10-06,2025-10-07,2,6,Testing,Internal,Easy,Sprint 8,100,Medium,Client feedback pending
+TSK-0070,Deploy Beta Version,Mobile App Development,IT,Mercy Achieng,High,In Progress,2025-07-25,2025-08-04,,5,2,Development,External,Easy,Sprint 10,34,High,Blocked by dependency
+TSK-0071,Sales Process Mapping,CRM Implementation,IT,Faith Njeri,Medium,Completed,2025-08-21,2025-09-01,2025-09-04,18,16,Support,Internal,Hard,Sprint 7,100,Medium,Documentation updated
+TSK-0072,Accessibility Testing,Website Redesign,Marketing,Cynthia Mutiso,Medium,Completed,2025-07-11,2025-07-18,2025-07-16,11,15,Development,Internal,Medium,Sprint 7,100,Medium,Awaiting approval
+TSK-0073,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,High,Not Started,2025-07-30,2025-08-12,,12,0,Support,Internal,Medium,Sprint 5,0,Medium,Requires testing
+TSK-0074,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-07-08,2025-07-19,2025-07-18,2,6,Marketing,Internal,Easy,Sprint 10,100,Medium,Requires testing
+TSK-0075,Create User Roles,CRM Implementation,IT,Ian Kibet,Low,Completed,2025-12-03,2025-12-06,2025-12-04,5,8,HR,Internal,Easy,Sprint 7,100,Low,Ready for review
+TSK-0076,Design Banner,Marketing Campaign,Marketing,Linda Atieno,Medium,In Progress,2025-01-27,2025-02-09,,7,7,Development,External,Medium,Sprint 8,73,Low,Ready for review
+TSK-0077,Design Banner,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-12-14,2025-12-23,2025-12-21,9,8,Marketing,Internal,Medium,Sprint 1,100,Low,Client feedback pending
+TSK-0078,Conduct Interview,HR Recruitment,Operations,Winnie Chebet,High,Completed,2025-03-08,2025-03-17,2025-03-19,10,12,Support,External,Medium,Sprint 2,100,Low,Ready for review
+TSK-0079,Prepare Budget Forecast,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-07-27,2025-08-07,2025-08-05,8,8,Design,External,Medium,Sprint 12,100,Low,High priority follow-up
+TSK-0080,Migrate Customer Records,CRM Implementation,IT,James Mwangi,Medium,Completed,2025-06-23,2025-06-27,2025-06-25,3,5,Finance,Internal,Easy,Sprint 9,100,High,Client feedback pending
+TSK-0081,Automate Payroll,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-12-02,2025-12-11,2025-12-12,2,6,HR,External,Easy,Sprint 11,100,Low,High priority follow-up
+TSK-0082,Financial Report,Finance Automation,Human Resources,Esther Kemunto,High,Completed,2025-01-29,2025-02-08,2025-02-09,10,11,Development,Internal,Medium,Sprint 6,100,Low,Requires testing
+TSK-0083,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Medium,Completed,2025-01-22,2025-02-01,2025-02-01,12,14,Marketing,Internal,Medium,Sprint 1,100,Medium,Documentation updated
+TSK-0084,Configure CRM Database,CRM Implementation,Operations,Samuel Kiptoo,Medium,Completed,2025-08-13,2025-08-19,2025-08-19,6,6,Testing,External,Easy,Sprint 7,100,Low,High priority follow-up
+TSK-0085,Create Chatbot,Customer Support Automation,Customer Support,Lucy Moraa,High,Completed,2025-12-03,2025-12-15,2025-12-13,12,14,Finance,Internal,Medium,Sprint 6,100,Low,Requires testing
+TSK-0086,Update Knowledge Base,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Not Started,2025-06-18,2025-07-02,,11,0,Development,External,Medium,Sprint 9,0,Low,High priority follow-up
+TSK-0087,Migrate Customer Records,CRM Implementation,IT,Brian Otieno,High,In Progress,2025-03-21,2025-03-24,,2,2,Testing,Internal,Easy,Sprint 10,72,High,Ready for review
+TSK-0088,Content Review,Website Redesign,Marketing,Allan Mwangi,Low,Completed,2025-12-13,2025-12-22,2025-12-25,9,13,Marketing,Internal,Medium,Sprint 9,100,Low,Client feedback pending
+TSK-0089,Schedule Interviews,HR Recruitment,Operations,Mercy Naliaka,Medium,Not Started,2025-05-25,2025-06-11,,20,0,Design,Internal,Hard,Sprint 10,0,Low,Blocked by dependency
+TSK-0090,Invoice Validation,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-05-26,2025-06-07,2025-06-08,14,16,Design,External,Hard,Sprint 2,100,High,Client feedback pending
+TSK-0091,Prepare Budget Forecast,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-02-11,2025-02-20,2025-02-18,7,11,Finance,External,Medium,Sprint 3,100,Low,Blocked by dependency
+TSK-0092,CRM Testing,CRM Implementation,IT,Mercy Achieng,Medium,Completed,2025-01-03,2025-01-10,2025-01-09,6,8,Finance,External,Medium,Sprint 2,100,Low,Requires testing
+TSK-0093,Update Homepage,Website Redesign,Marketing,Sarah Wambui,Medium,In Progress,2025-09-13,2025-09-27,,10,9,Design,External,Medium,Sprint 7,75,Low,On track
+TSK-0094,UI Testing,Mobile App Development,IT,Faith Njeri,High,In Progress,2025-09-27,2025-10-11,,10,10,Support,External,Medium,Sprint 1,54,Low,Ready for review
+TSK-0095,Conduct Interview,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-10-25,2025-11-03,2025-11-05,7,7,Support,Internal,Medium,Sprint 11,100,Medium,Documentation updated
+TSK-0096,Update Knowledge Base,Customer Support Automation,Customer Support,Kelvin Ouma,High,In Progress,2025-01-23,2025-01-31,,6,3,HR,External,Medium,Sprint 5,82,Low,On track
+TSK-0097,Invoice Validation,Finance Automation,Finance,Sheila Atieno,Low,Completed,2025-07-08,2025-07-20,2025-07-21,9,9,Design,External,Medium,Sprint 12,100,Low,Documentation updated
+TSK-0098,Screen CVs,HR Recruitment,Customer Support,Lucy Moraa,Medium,Completed,2025-10-07,2025-10-13,2025-10-13,8,11,Testing,External,Medium,Sprint 8,100,Medium,Ready for review
+TSK-0099,Accessibility Testing,Website Redesign,Marketing,Linda Atieno,High,Overdue,2025-05-21,2025-05-31,,6,9,Support,Internal,Medium,Sprint 1,72,High,Blocked by dependency
+TSK-0100,Prepare Budget Forecast,Finance Automation,Finance,Eric Kiprono,High,Completed,2025-10-18,2025-10-31,2025-10-31,10,10,Marketing,Internal,Medium,Sprint 10,100,Low,Blocked by dependency
+TSK-0101,Fix Bugs,Mobile App Development,IT,Kevin Kiptoo,High,Completed,2025-07-18,2025-07-26,2025-07-29,6,7,Design,External,Medium,Sprint 12,100,Low,Documentation updated
+TSK-0102,Accessibility Testing,Website Redesign,Marketing,Sarah Wambui,High,In Progress,2025-06-13,2025-06-28,,13,11,Testing,Internal,Hard,Sprint 12,87,Medium,Blocked by dependency
+TSK-0103,Prepare Budget Forecast,Finance Automation,Finance,Anne Muthoni,Low,In Progress,2025-07-04,2025-07-15,,6,5,Development,Internal,Easy,Sprint 5,69,Low,Ready for review
+TSK-0104,Customer Survey,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Overdue,2025-11-25,2025-12-05,,2,5,Support,Internal,Easy,Sprint 3,48,High,Ready for review
+TSK-0105,Develop Login API,Mobile App Development,IT,Mercy Achieng,Medium,Completed,2025-04-26,2025-04-30,2025-04-30,4,3,Finance,External,Easy,Sprint 3,100,High,Requires testing
+TSK-0106,Build Dashboard,Mobile App Development,IT,Faith Njeri,Medium,In Progress,2025-11-06,2025-11-09,,4,4,Development,External,Easy,Sprint 11,35,Medium,Client feedback pending
+TSK-0107,Financial Report,Finance Automation,Finance,John Kamau,Low,Completed,2025-05-06,2025-05-12,2025-05-15,8,6,Design,External,Medium,Sprint 7,100,Low,Documentation updated
+TSK-0108,Launch Email Campaign,Marketing Campaign,Marketing,Peter Kariuki,High,In Progress,2025-07-24,2025-08-08,,12,12,Design,External,Medium,Sprint 2,50,High,Requires testing
+TSK-0109,Create Social Media Posts,Marketing Campaign,Marketing,Sarah Wambui,High,Completed,2025-03-23,2025-04-03,2025-04-02,10,14,Design,External,Medium,Sprint 9,100,Low,Documentation updated
+TSK-0110,Create Social Media Posts,Marketing Campaign,Finance,John Kamau,Low,Completed,2025-06-30,2025-07-16,2025-07-18,16,20,Finance,External,Hard,Sprint 5,100,Low,On track
+TSK-0111,Invoice Validation,Finance Automation,Finance,Anne Muthoni,Medium,In Progress,2025-10-19,2025-10-31,,7,5,Marketing,External,Medium,Sprint 9,34,Low,Requires testing
+TSK-0112,Prepare Budget Forecast,Finance Automation,Sales,Dennis Oloo,High,Completed,2025-10-13,2025-10-23,2025-10-25,12,14,Marketing,Internal,Medium,Sprint 1,100,High,On track
+TSK-0113,Content Review,Website Redesign,Marketing,Cynthia Mutiso,Medium,In Progress,2025-11-10,2025-11-23,,7,5,Testing,External,Medium,Sprint 12,67,Low,Requires testing
+TSK-0114,Create Social Media Posts,Marketing Campaign,Human Resources,Carol Chepkemoi,Low,In Progress,2025-12-19,2026-01-02,,19,18,Development,External,Hard,Sprint 3,76,Medium,Ready for review
+TSK-0115,Content Review,Website Redesign,Marketing,Sarah Wambui,Low,Completed,2025-03-19,2025-03-28,2025-03-30,5,9,HR,External,Easy,Sprint 12,100,Low,On track
+TSK-0116,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,High,In Progress,2025-03-30,2025-04-13,,10,8,Support,External,Medium,Sprint 10,73,Low,Documentation updated
+TSK-0117,Update Homepage,Website Redesign,Human Resources,Carol Chepkemoi,Low,Not Started,2025-12-20,2026-01-04,,19,0,HR,External,Hard,Sprint 5,0,Medium,Awaiting approval
+TSK-0118,UI Testing,Mobile App Development,IT,Diana Wanjiku,Low,Not Started,2025-05-28,2025-06-11,,19,0,Finance,External,Hard,Sprint 4,0,Low,Client feedback pending
+TSK-0119,Automate Payroll,Finance Automation,Finance,Sheila Atieno,High,In Progress,2025-09-29,2025-10-01,,3,3,Testing,External,Easy,Sprint 2,56,Low,Blocked by dependency
+TSK-0120,CRM Testing,CRM Implementation,Marketing,Cynthia Mutiso,Medium,Completed,2025-11-27,2025-12-13,2025-12-12,13,15,Finance,Internal,Hard,Sprint 3,100,Low,Ready for review
+TSK-0121,Financial Report,Finance Automation,Finance,John Kamau,Medium,Completed,2025-05-29,2025-06-11,2025-06-13,6,4,Testing,External,Medium,Sprint 8,100,High,Documentation updated
+TSK-0122,Update Homepage,Website Redesign,Finance,Sheila Atieno,Low,Completed,2025-04-06,2025-04-16,2025-04-18,11,14,Support,Internal,Medium,Sprint 3,100,Medium,Ready for review
+TSK-0123,Prepare Budget Forecast,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-05-08,2025-05-21,2025-05-22,18,22,Testing,External,Hard,Sprint 5,100,Low,On track
+TSK-0124,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-12-27,2026-01-03,2026-01-03,4,6,Design,Internal,Easy,Sprint 3,100,Medium,Documentation updated
+TSK-0125,SEO Optimization,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-12-07,2025-12-23,2025-12-21,12,14,Marketing,External,Medium,Sprint 2,100,Medium,Awaiting approval
+TSK-0126,Sales Process Mapping,CRM Implementation,Customer Support,Kelvin Ouma,Medium,Completed,2025-12-15,2026-01-02,2025-12-31,21,23,Marketing,Internal,Hard,Sprint 8,100,Low,Blocked by dependency
+TSK-0127,Develop Login API,Mobile App Development,IT,Faith Njeri,Medium,In Progress,2025-05-11,2025-05-26,,11,11,Marketing,External,Medium,Sprint 12,32,Low,Awaiting approval
+TSK-0128,Develop Login API,Mobile App Development,IT,Diana Wanjiku,High,Completed,2025-11-27,2025-12-07,2025-12-08,5,6,Development,Internal,Easy,Sprint 11,100,Medium,High priority follow-up
+TSK-0129,CRM Testing,CRM Implementation,IT,Faith Njeri,Medium,In Progress,2025-01-12,2025-01-23,,4,1,Marketing,Internal,Easy,Sprint 4,64,Low,Documentation updated
+TSK-0130,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,High,In Progress,2025-01-09,2025-01-14,,7,7,HR,Internal,Medium,Sprint 4,58,High,On track
+TSK-0131,Launch Email Campaign,Marketing Campaign,Marketing,Peter Kariuki,Medium,In Progress,2025-04-30,2025-05-13,,6,4,Testing,Internal,Easy,Sprint 11,45,High,Client feedback pending
+TSK-0132,Campaign Analysis,Marketing Campaign,Marketing,Sarah Wambui,Low,Overdue,2025-08-07,2025-08-19,,12,18,Marketing,External,Hard,Sprint 12,82,Medium,Ready for review
+TSK-0133,Launch Email Campaign,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-12-29,2026-01-08,2026-01-10,19,20,Marketing,Internal,Hard,Sprint 7,100,Low,Client feedback pending
+TSK-0134,Prepare Offer Letter,HR Recruitment,Human Resources,Ruth Nyambura,Low,Completed,2025-05-18,2025-06-02,2025-05-31,11,15,Development,Internal,Medium,Sprint 10,100,Low,Client feedback pending
+TSK-0135,Design Banner,Marketing Campaign,Marketing,Linda Atieno,Low,Completed,2025-03-02,2025-03-23,2025-03-26,23,22,Marketing,Internal,Hard,Sprint 9,100,High,High priority follow-up
+TSK-0136,Expense Review,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-08-27,2025-09-10,2025-09-10,12,11,Testing,External,Medium,Sprint 7,100,High,On track
+TSK-0137,Develop Login API,Mobile App Development,Sales,Irene Njeri,High,Not Started,2025-03-20,2025-03-31,,8,0,HR,Internal,Medium,Sprint 8,0,Low,High priority follow-up
+TSK-0138,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-10-07,2025-10-11,,7,7,Support,Internal,Medium,Sprint 11,83,Low,On track
+TSK-0139,Automate Payroll,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-01-31,2025-02-13,2025-02-14,6,9,Marketing,Internal,Easy,Sprint 1,100,Low,Ready for review
+TSK-0140,Create User Roles,CRM Implementation,IT,Ian Kibet,Medium,Completed,2025-08-09,2025-08-21,2025-08-20,6,5,Design,External,Medium,Sprint 6,100,Medium,Requires testing
+TSK-0141,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-02-11,2025-02-21,2025-02-22,6,8,Marketing,Internal,Medium,Sprint 11,100,Low,On track
+TSK-0142,Customer Survey,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-09-28,2025-10-15,2025-10-16,15,15,Development,Internal,Hard,Sprint 11,100,High,Requires testing
+TSK-0143,Build Dashboard,Mobile App Development,IT,James Mwangi,Low,Completed,2025-12-31,2026-01-11,2026-01-13,16,15,HR,External,Hard,Sprint 11,100,Medium,High priority follow-up
+TSK-0144,Create Social Media Posts,Marketing Campaign,Marketing,Grace Chebet,Medium,Not Started,2025-02-08,2025-02-20,,4,0,HR,External,Easy,Sprint 6,0,Low,On track
+TSK-0145,Customer Survey,Customer Support Automation,Customer Support,Sharon Wairimu,High,Completed,2025-10-27,2025-11-09,2025-11-09,6,10,Design,Internal,Medium,Sprint 2,100,Low,Requires testing
+TSK-0146,Update Homepage,Website Redesign,Marketing,Allan Mwangi,Medium,Completed,2025-06-07,2025-06-14,2025-06-12,5,4,Development,Internal,Easy,Sprint 7,100,Low,Documentation updated
+TSK-0147,Develop Login API,Mobile App Development,IT,Diana Wanjiku,High,Completed,2025-06-16,2025-06-25,2025-06-26,5,9,Development,Internal,Easy,Sprint 10,100,Medium,Blocked by dependency
+TSK-0148,Resolve Tickets,Customer Support Automation,Customer Support,Kelvin Ouma,High,Completed,2025-08-04,2025-08-08,2025-08-08,4,4,Design,External,Easy,Sprint 10,100,Low,Client feedback pending
+TSK-0149,Create Social Media Posts,Marketing Campaign,Marketing,Linda Atieno,Low,Completed,2025-06-18,2025-07-02,2025-07-01,8,8,Testing,Internal,Medium,Sprint 8,100,Medium,High priority follow-up
+TSK-0150,Accessibility Testing,Website Redesign,Human Resources,Carol Chepkemoi,Low,In Progress,2025-07-21,2025-07-28,,6,5,Support,Internal,Medium,Sprint 12,73,Low,Documentation updated
+TSK-0151,Create Chatbot,Customer Support Automation,Customer Support,Lucy Moraa,Low,In Progress,2025-11-21,2025-11-27,,7,4,Marketing,Internal,Medium,Sprint 8,80,Low,Documentation updated
+TSK-0152,UI Testing,Mobile App Development,IT,Faith Njeri,Medium,In Progress,2025-10-02,2025-10-09,,11,10,Finance,External,Medium,Sprint 3,72,High,On track
+TSK-0153,Fix Bugs,Mobile App Development,Sales,Stella Wambui,Low,Completed,2025-09-19,2025-10-02,2025-10-01,6,7,Testing,External,Easy,Sprint 8,100,Low,Blocked by dependency
+TSK-0154,Conduct Interview,HR Recruitment,Finance,John Kamau,Medium,Not Started,2025-03-14,2025-03-24,,4,0,Support,Internal,Easy,Sprint 9,0,High,Documentation updated
+TSK-0155,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-06-25,2025-07-10,2025-07-13,24,23,HR,Internal,Hard,Sprint 9,100,Low,Blocked by dependency
+TSK-0156,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-07-22,2025-07-27,,2,0,Marketing,External,Easy,Sprint 1,67,Medium,Client feedback pending
+TSK-0157,Design Landing Page,Website Redesign,Marketing,Allan Mwangi,Medium,In Progress,2025-04-11,2025-04-22,,6,4,Marketing,External,Medium,Sprint 10,68,Low,Awaiting approval
+TSK-0158,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,High,In Progress,2025-10-30,2025-11-12,,14,14,Testing,Internal,Hard,Sprint 3,45,High,High priority follow-up
+TSK-0159,Customer Survey,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-10-03,2025-10-16,2025-10-16,10,9,Design,External,Medium,Sprint 8,100,Low,On track
+TSK-0160,Financial Report,Finance Automation,Finance,John Kamau,High,Overdue,2025-09-11,2025-09-27,,19,25,Marketing,External,Hard,Sprint 3,93,Medium,Awaiting approval
+TSK-0161,Build Dashboard,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-08-23,2025-09-05,2025-09-07,11,13,Development,Internal,Medium,Sprint 5,100,Low,High priority follow-up
+TSK-0162,UI Testing,Mobile App Development,IT,Mercy Achieng,Medium,Not Started,2025-05-07,2025-05-17,,4,0,Testing,External,Easy,Sprint 2,0,Medium,Documentation updated
+TSK-0163,Automate Payroll,Finance Automation,Operations,Winnie Chebet,Low,In Progress,2025-11-20,2025-11-26,,7,6,Design,Internal,Medium,Sprint 10,82,Medium,High priority follow-up
+TSK-0164,Build Dashboard,Mobile App Development,IT,Faith Njeri,High,In Progress,2025-09-21,2025-09-29,,2,2,Support,Internal,Easy,Sprint 12,47,Low,Blocked by dependency
+TSK-0165,Update Homepage,Website Redesign,Marketing,Linda Atieno,Medium,In Progress,2025-05-18,2025-05-24,,9,9,HR,External,Medium,Sprint 12,55,Medium,High priority follow-up
+TSK-0166,Create Social Media Posts,Marketing Campaign,Human Resources,Ruth Nyambura,Medium,Completed,2025-02-02,2025-02-13,2025-02-12,9,10,Testing,External,Medium,Sprint 5,100,Low,High priority follow-up
+TSK-0167,UI Testing,Mobile App Development,IT,Faith Njeri,Medium,Overdue,2025-11-17,2025-11-26,,13,17,Development,External,Hard,Sprint 4,69,Low,Blocked by dependency
+TSK-0168,Create Chatbot,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-03-26,2025-04-04,2025-04-07,9,12,Support,Internal,Medium,Sprint 7,100,High,Awaiting approval
+TSK-0169,Customer Survey,Customer Support Automation,Customer Support,Kelvin Ouma,High,In Progress,2025-01-05,2025-01-18,,12,11,Development,Internal,Medium,Sprint 7,60,Low,Awaiting approval
+TSK-0170,Resolve Tickets,Customer Support Automation,IT,Kevin Kiptoo,Low,Completed,2025-03-10,2025-03-30,2025-03-28,20,22,Finance,Internal,Hard,Sprint 8,100,Medium,High priority follow-up
+TSK-0171,Customer Survey,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Completed,2025-03-13,2025-03-21,2025-03-21,2,3,Testing,Internal,Easy,Sprint 4,100,High,Requires testing
+TSK-0172,Automation Testing,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,In Progress,2025-12-04,2025-12-24,,20,19,Marketing,External,Hard,Sprint 11,77,Medium,On track
+TSK-0173,Financial Report,Finance Automation,Marketing,Cynthia Mutiso,High,Completed,2025-01-07,2025-01-18,2025-01-20,8,9,Testing,Internal,Medium,Sprint 8,100,Medium,Awaiting approval
+TSK-0174,Create User Roles,CRM Implementation,IT,James Mwangi,High,Not Started,2025-05-27,2025-06-12,,18,0,Finance,External,Hard,Sprint 2,0,Low,Blocked by dependency
+TSK-0175,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,Low,Not Started,2025-10-28,2025-11-05,,2,0,Finance,Internal,Easy,Sprint 1,0,Low,Client feedback pending
+TSK-0176,Sales Process Mapping,CRM Implementation,IT,Diana Wanjiku,Medium,Completed,2025-03-03,2025-03-09,2025-03-08,11,12,Testing,External,Medium,Sprint 3,100,Medium,High priority follow-up
+TSK-0177,Design Landing Page,Website Redesign,Marketing,Linda Atieno,Medium,Completed,2025-02-02,2025-02-14,2025-02-15,21,22,HR,External,Hard,Sprint 1,100,Low,Documentation updated
+TSK-0178,Automate Payroll,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-04-27,2025-05-01,2025-04-30,6,4,Marketing,External,Medium,Sprint 7,100,Medium,Blocked by dependency
+TSK-0179,Content Review,Website Redesign,Operations,Kelvin Mutua,Low,In Progress,2025-05-08,2025-05-18,,11,11,Testing,Internal,Medium,Sprint 9,66,Low,On track
+TSK-0180,Design Landing Page,Website Redesign,Marketing,Peter Kariuki,Low,Completed,2025-06-09,2025-06-20,2025-06-18,6,6,Design,External,Medium,Sprint 10,100,Low,Requires testing
+TSK-0181,Resolve Tickets,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-10-07,2025-10-20,2025-10-18,12,11,HR,External,Hard,Sprint 11,100,Low,On track
+TSK-0182,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-01-31,2025-02-03,2025-02-01,3,2,Support,External,Easy,Sprint 12,100,Low,High priority follow-up
+TSK-0183,Create Social Media Posts,Marketing Campaign,IT,Faith Njeri,Medium,In Progress,2025-02-01,2025-02-10,,11,9,Support,External,Medium,Sprint 7,46,Medium,High priority follow-up
+TSK-0184,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,Low,Completed,2025-02-24,2025-03-11,2025-03-12,19,17,HR,External,Hard,Sprint 4,100,Low,Documentation updated
+TSK-0185,Screen CVs,HR Recruitment,Human Resources,Ruth Nyambura,High,In Progress,2025-01-21,2025-02-01,,17,17,Design,External,Hard,Sprint 7,75,Medium,On track
+TSK-0186,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Overdue,2025-02-18,2025-02-24,,6,7,Development,Internal,Medium,Sprint 3,40,Medium,Client feedback pending
+TSK-0187,Expense Review,Finance Automation,Finance,John Kamau,Medium,Overdue,2025-04-12,2025-04-16,,5,8,Development,External,Easy,Sprint 1,47,High,Blocked by dependency
+TSK-0188,UI Testing,Mobile App Development,IT,Ian Kibet,Medium,Completed,2025-04-06,2025-04-13,2025-04-11,8,10,HR,Internal,Medium,Sprint 11,100,Low,Requires testing
+TSK-0189,Keyword Research,Marketing Campaign,Marketing,Peter Kariuki,High,Completed,2025-09-27,2025-10-07,2025-10-05,3,4,Support,External,Easy,Sprint 8,100,Low,Documentation updated
+TSK-0190,Prepare Offer Letter,HR Recruitment,Customer Support,Lucy Moraa,High,Completed,2025-05-24,2025-06-08,2025-06-08,12,16,HR,Internal,Medium,Sprint 3,100,Low,Awaiting approval
+TSK-0191,Content Review,Website Redesign,Marketing,Linda Atieno,Low,Overdue,2025-04-23,2025-05-03,,6,9,Support,Internal,Easy,Sprint 3,93,High,Client feedback pending
+TSK-0192,Fix Bugs,Mobile App Development,IT,Ian Kibet,Low,Completed,2025-10-16,2025-10-29,2025-10-31,10,10,Design,External,Medium,Sprint 1,100,High,Awaiting approval
+TSK-0193,Configure CRM Database,CRM Implementation,IT,Brian Otieno,Medium,Completed,2025-03-08,2025-03-21,2025-03-19,14,12,Design,Internal,Hard,Sprint 2,100,Low,High priority follow-up
+TSK-0194,CRM Testing,CRM Implementation,IT,Ian Kibet,Medium,Completed,2025-08-12,2025-08-20,2025-08-23,11,13,Finance,External,Medium,Sprint 4,100,High,Blocked by dependency
+TSK-0195,Design Banner,Marketing Campaign,Marketing,Allan Mwangi,High,In Progress,2025-07-20,2025-08-06,,14,12,Support,Internal,Hard,Sprint 11,88,High,Awaiting approval
+TSK-0196,Create Social Media Posts,Marketing Campaign,Marketing,Allan Mwangi,High,Not Started,2025-02-15,2025-02-22,,4,0,Design,Internal,Easy,Sprint 12,0,High,Awaiting approval
+TSK-0197,Screen CVs,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-07-31,2025-08-13,2025-08-14,9,7,Support,External,Medium,Sprint 10,100,Low,Client feedback pending
+TSK-0198,SEO Optimization,Website Redesign,Marketing,Sarah Wambui,High,Completed,2025-07-12,2025-07-22,2025-07-20,3,3,HR,External,Easy,Sprint 12,100,Low,On track
+TSK-0199,Keyword Research,Marketing Campaign,Marketing,Peter Kariuki,High,Completed,2025-12-23,2026-01-04,2026-01-04,6,9,Testing,External,Easy,Sprint 4,100,Low,Awaiting approval
+TSK-0200,CRM Testing,CRM Implementation,IT,Faith Njeri,High,Completed,2025-12-05,2025-12-11,2025-12-09,9,8,Design,External,Medium,Sprint 2,100,Low,Documentation updated
+TSK-0201,Financial Report,Finance Automation,Finance,Eric Kiprono,Medium,In Progress,2025-04-05,2025-04-10,,4,1,Testing,External,Easy,Sprint 8,32,Medium,Requires testing
+TSK-0202,Update Homepage,Website Redesign,Customer Support,Christine Auma,Medium,In Progress,2025-10-05,2025-10-11,,5,5,Marketing,External,Easy,Sprint 9,83,Low,Documentation updated
+TSK-0203,Develop Login API,Mobile App Development,Finance,Sheila Atieno,Medium,Overdue,2025-09-22,2025-09-28,,6,7,Marketing,Internal,Easy,Sprint 3,88,Medium,Client feedback pending
+TSK-0204,Financial Report,Finance Automation,Finance,John Kamau,High,In Progress,2025-03-17,2025-03-22,,6,6,HR,External,Easy,Sprint 9,54,Medium,High priority follow-up
+TSK-0205,Prepare Budget Forecast,Finance Automation,Finance,Eric Kiprono,Medium,In Progress,2025-08-01,2025-08-14,,7,7,Development,Internal,Medium,Sprint 5,89,Low,High priority follow-up
+TSK-0206,Keyword Research,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-11-13,2025-11-23,2025-11-21,6,7,Testing,Internal,Easy,Sprint 1,100,Low,Documentation updated
+TSK-0207,Conduct Interview,HR Recruitment,IT,Kevin Kiptoo,High,Overdue,2025-04-27,2025-05-16,,23,26,Finance,External,Hard,Sprint 10,57,Medium,Awaiting approval
+TSK-0208,Accessibility Testing,Website Redesign,Marketing,Cynthia Mutiso,Medium,Overdue,2025-03-23,2025-04-12,,23,27,Support,Internal,Hard,Sprint 3,48,Medium,Client feedback pending
+TSK-0209,Automate Payroll,Finance Automation,Finance,John Kamau,High,Completed,2025-07-08,2025-07-15,2025-07-18,10,8,Design,External,Medium,Sprint 8,100,Low,Documentation updated
+TSK-0210,SEO Optimization,Website Redesign,Finance,Sheila Atieno,High,Overdue,2025-05-26,2025-06-02,,9,14,Design,Internal,Medium,Sprint 11,89,Medium,Client feedback pending
+TSK-0211,Automation Testing,Customer Support Automation,Customer Support,Sharon Wairimu,High,In Progress,2025-03-09,2025-03-22,,24,23,HR,External,Hard,Sprint 12,46,Low,Requires testing
+TSK-0212,Keyword Research,Marketing Campaign,Operations,Samuel Kiptoo,High,Completed,2025-07-23,2025-08-04,2025-08-07,6,10,Support,External,Medium,Sprint 9,100,Medium,Requires testing
+TSK-0213,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-12-02,2025-12-14,2025-12-13,7,5,Support,External,Medium,Sprint 11,100,Low,High priority follow-up
+TSK-0214,Customer Survey,Customer Support Automation,Customer Support,Christine Auma,Low,Completed,2025-01-19,2025-01-28,2025-01-28,11,14,Finance,Internal,Medium,Sprint 11,100,Low,Documentation updated
+TSK-0215,Update Knowledge Base,Customer Support Automation,Customer Support,Lucy Moraa,Low,Overdue,2025-03-07,2025-03-18,,4,6,Testing,Internal,Easy,Sprint 4,83,Low,High priority follow-up
+TSK-0216,Accessibility Testing,Website Redesign,Marketing,Linda Atieno,Medium,Completed,2025-03-02,2025-03-14,2025-03-16,5,7,Development,External,Easy,Sprint 4,100,Low,Awaiting approval
+TSK-0217,Financial Report,Finance Automation,Finance,Sheila Atieno,High,Overdue,2025-07-29,2025-08-07,,6,12,Support,Internal,Easy,Sprint 8,51,Low,High priority follow-up
+TSK-0218,Create Chatbot,Customer Support Automation,Human Resources,Ruth Nyambura,Medium,Completed,2025-03-23,2025-04-06,2025-04-05,24,26,Marketing,External,Hard,Sprint 7,100,Medium,Ready for review
+TSK-0219,Campaign Analysis,Marketing Campaign,Marketing,Sarah Wambui,High,Completed,2025-09-29,2025-10-01,2025-10-04,3,6,Design,Internal,Easy,Sprint 12,100,Low,High priority follow-up
+TSK-0220,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-05-29,2025-06-18,2025-06-20,20,20,Marketing,Internal,Hard,Sprint 6,100,Low,Documentation updated
+TSK-0221,Prepare Offer Letter,HR Recruitment,Human Resources,Esther Kemunto,High,Completed,2025-01-12,2025-01-21,2025-01-21,14,17,Finance,Internal,Hard,Sprint 7,100,Low,Requires testing
+TSK-0222,Expense Review,Finance Automation,Finance,John Kamau,Low,In Progress,2025-12-20,2025-12-31,,9,9,Testing,External,Medium,Sprint 12,65,Low,Blocked by dependency
+TSK-0223,Design Landing Page,Website Redesign,Marketing,Allan Mwangi,High,In Progress,2025-11-07,2025-11-20,,9,9,Development,Internal,Medium,Sprint 8,48,Low,Client feedback pending
+TSK-0224,Deploy Beta Version,Mobile App Development,IT,Kevin Kiptoo,Low,Completed,2025-10-08,2025-10-19,2025-10-19,7,6,Development,Internal,Medium,Sprint 11,100,Low,Awaiting approval
+TSK-0225,Migrate Customer Records,CRM Implementation,Sales,Stella Wambui,Low,In Progress,2025-05-12,2025-05-18,,3,0,Development,Internal,Easy,Sprint 1,33,Medium,Requires testing
+TSK-0226,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,High,In Progress,2025-12-06,2025-12-15,,3,1,Finance,Internal,Easy,Sprint 6,86,High,High priority follow-up
+TSK-0227,Accessibility Testing,Website Redesign,Marketing,Cynthia Mutiso,High,Completed,2025-11-29,2025-12-07,2025-12-06,14,12,Marketing,External,Hard,Sprint 10,100,Medium,Documentation updated
+TSK-0228,Content Review,Website Redesign,Marketing,Linda Atieno,High,In Progress,2025-03-08,2025-03-21,,13,10,Development,External,Hard,Sprint 11,32,High,High priority follow-up
+TSK-0229,Sales Process Mapping,CRM Implementation,IT,Ian Kibet,Medium,Completed,2025-12-09,2025-12-24,2025-12-22,10,11,Finance,Internal,Medium,Sprint 8,100,High,High priority follow-up
+TSK-0230,Update Knowledge Base,Customer Support Automation,Customer Support,Sharon Wairimu,Low,Completed,2025-11-26,2025-12-13,2025-12-12,19,17,Support,External,Hard,Sprint 6,100,Low,Client feedback pending
+TSK-0231,Schedule Interviews,HR Recruitment,IT,Faith Njeri,Medium,Completed,2025-08-16,2025-08-30,2025-08-31,13,13,Development,External,Hard,Sprint 12,100,Low,On track
+TSK-0232,Sales Process Mapping,CRM Implementation,IT,James Mwangi,Medium,Overdue,2025-11-23,2025-12-07,,20,26,Marketing,External,Hard,Sprint 6,82,High,On track
+TSK-0233,Invoice Validation,Finance Automation,Finance,Eric Kiprono,Medium,In Progress,2025-08-20,2025-08-27,,6,6,Testing,External,Medium,Sprint 9,51,Medium,High priority follow-up
+TSK-0234,Customer Survey,Customer Support Automation,Customer Support,Kelvin Ouma,High,In Progress,2025-11-09,2025-11-19,,7,6,Support,Internal,Medium,Sprint 12,59,Low,High priority follow-up
+TSK-0235,Sales Process Mapping,CRM Implementation,IT,James Mwangi,High,Overdue,2025-09-16,2025-09-29,,9,15,HR,External,Medium,Sprint 10,43,Medium,Documentation updated
+TSK-0236,Deploy Beta Version,Mobile App Development,IT,Brian Otieno,High,Overdue,2025-11-07,2025-11-16,,4,9,Support,Internal,Easy,Sprint 5,84,Medium,Ready for review
+TSK-0237,Schedule Interviews,HR Recruitment,Finance,Anne Muthoni,Medium,In Progress,2025-12-26,2026-01-10,,12,11,Design,External,Medium,Sprint 11,42,Low,High priority follow-up
+TSK-0238,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,In Progress,2025-10-15,2025-10-27,,10,8,Support,External,Medium,Sprint 1,86,Medium,Awaiting approval
+TSK-0239,Configure CRM Database,CRM Implementation,IT,James Mwangi,High,In Progress,2025-05-09,2025-05-15,,3,2,HR,Internal,Easy,Sprint 6,78,Low,Documentation updated
+TSK-0240,Sales Process Mapping,CRM Implementation,IT,Ian Kibet,Low,In Progress,2025-12-23,2025-12-29,,11,8,Marketing,External,Medium,Sprint 9,54,Low,On track
+TSK-0241,Sales Process Mapping,CRM Implementation,IT,Brian Otieno,Low,Overdue,2025-11-21,2025-12-06,,12,18,Design,Internal,Medium,Sprint 5,78,Low,Documentation updated
+TSK-0242,Update Homepage,Website Redesign,IT,Brian Otieno,Medium,Completed,2025-05-16,2025-05-22,2025-05-20,3,3,Marketing,Internal,Easy,Sprint 1,100,Low,Blocked by dependency
+TSK-0243,Prepare Offer Letter,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-09-27,2025-09-30,2025-10-02,3,2,Marketing,External,Easy,Sprint 2,100,Medium,High priority follow-up
+TSK-0244,SEO Optimization,Website Redesign,Sales,George Odhiambo,Medium,Completed,2025-10-15,2025-11-01,2025-11-02,22,21,Finance,Internal,Hard,Sprint 1,100,Medium,High priority follow-up
+TSK-0245,Design Banner,Marketing Campaign,IT,Diana Wanjiku,Medium,Completed,2025-07-11,2025-07-29,2025-07-30,20,18,Testing,Internal,Hard,Sprint 6,100,Medium,Awaiting approval
+TSK-0246,Sales Process Mapping,CRM Implementation,IT,Mercy Achieng,Medium,In Progress,2025-04-20,2025-04-26,,5,2,Support,Internal,Easy,Sprint 12,71,Medium,Blocked by dependency
+TSK-0247,Configure CRM Database,CRM Implementation,IT,Kevin Kiptoo,High,Completed,2025-10-22,2025-11-07,2025-11-08,18,21,Marketing,External,Hard,Sprint 6,100,Medium,On track
+TSK-0248,Create Social Media Posts,Marketing Campaign,Marketing,Peter Kariuki,Medium,In Progress,2025-12-25,2026-01-06,,20,18,Finance,External,Hard,Sprint 10,80,Medium,Awaiting approval
+TSK-0249,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-03-11,2025-03-26,,12,10,Design,External,Medium,Sprint 11,70,Medium,High priority follow-up
+TSK-0250,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,High,Completed,2025-02-13,2025-02-22,2025-02-21,7,8,Finance,Internal,Medium,Sprint 3,100,Medium,Blocked by dependency
+TSK-0251,Update Homepage,Website Redesign,Marketing,Linda Atieno,High,In Progress,2025-10-09,2025-10-16,,11,9,Development,External,Medium,Sprint 2,72,Low,Client feedback pending
+TSK-0252,Resolve Tickets,Customer Support Automation,Customer Support,Lucy Moraa,High,In Progress,2025-04-10,2025-04-18,,4,2,HR,Internal,Easy,Sprint 10,74,Medium,High priority follow-up
+TSK-0253,Automate Payroll,Finance Automation,Finance,Eric Kiprono,High,Completed,2025-08-12,2025-08-17,2025-08-20,4,7,Testing,External,Easy,Sprint 8,100,Medium,Documentation updated
+TSK-0254,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,High,In Progress,2025-03-13,2025-03-18,,6,6,Development,Internal,Easy,Sprint 10,87,Low,Ready for review
+TSK-0255,Expense Review,Finance Automation,Finance,John Kamau,High,Overdue,2025-03-18,2025-04-01,,9,15,Testing,Internal,Medium,Sprint 8,94,Medium,Awaiting approval
+TSK-0256,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,Low,Overdue,2025-09-21,2025-09-28,,9,14,Finance,Internal,Medium,Sprint 12,76,Low,Documentation updated
+TSK-0257,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-07-04,2025-07-07,2025-07-05,5,8,Testing,Internal,Easy,Sprint 12,100,Low,Requires testing
+TSK-0258,Financial Report,Finance Automation,Finance,Anne Muthoni,Medium,Completed,2025-09-22,2025-10-05,2025-10-06,9,9,Support,External,Medium,Sprint 8,100,Medium,Documentation updated
+TSK-0259,UI Testing,Mobile App Development,IT,Brian Otieno,High,Completed,2025-04-06,2025-04-12,2025-04-15,8,7,Marketing,External,Medium,Sprint 12,100,Low,Awaiting approval
+TSK-0260,Launch Email Campaign,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,In Progress,2025-03-07,2025-03-15,,10,10,HR,Internal,Medium,Sprint 1,87,Low,Blocked by dependency
+TSK-0261,Onboard Employee,HR Recruitment,Customer Support,Sharon Wairimu,Low,In Progress,2025-05-26,2025-06-14,,19,16,Marketing,Internal,Hard,Sprint 4,85,Medium,Ready for review
+TSK-0262,Build Dashboard,Mobile App Development,IT,Faith Njeri,Medium,Completed,2025-08-21,2025-08-28,2025-08-29,6,7,Design,Internal,Easy,Sprint 1,100,Medium,Client feedback pending
+TSK-0263,Build Dashboard,Mobile App Development,Customer Support,Sharon Wairimu,Medium,Completed,2025-09-30,2025-10-08,2025-10-09,13,16,Design,Internal,Hard,Sprint 11,100,Medium,Ready for review
+TSK-0264,Develop Login API,Mobile App Development,IT,Mercy Achieng,Medium,Completed,2025-07-15,2025-08-06,2025-08-04,24,25,Design,External,Hard,Sprint 8,100,Low,Client feedback pending
+TSK-0265,Invoice Validation,Finance Automation,Finance,Eric Kiprono,High,In Progress,2025-03-02,2025-03-15,,18,16,Testing,Internal,Hard,Sprint 3,56,Medium,Ready for review
+TSK-0266,Automation Testing,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-04-15,2025-04-26,2025-04-27,5,4,Testing,External,Easy,Sprint 5,100,Medium,Requires testing
+TSK-0267,UI Testing,Mobile App Development,IT,Ian Kibet,Medium,Overdue,2025-08-17,2025-08-29,,6,10,Testing,Internal,Medium,Sprint 3,90,Medium,Ready for review
+TSK-0268,Update Knowledge Base,Customer Support Automation,Customer Support,Christine Auma,Medium,In Progress,2025-07-09,2025-07-17,,2,0,Finance,External,Easy,Sprint 12,69,Low,On track
+TSK-0269,Financial Report,Finance Automation,Sales,Stella Wambui,High,Overdue,2025-04-10,2025-04-29,,21,26,Design,Internal,Hard,Sprint 11,84,Medium,On track
+TSK-0270,Schedule Interviews,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-07-27,2025-07-31,2025-08-03,7,10,Development,Internal,Medium,Sprint 9,100,Medium,Requires testing
+TSK-0271,Resolve Tickets,Customer Support Automation,Customer Support,Lucy Moraa,Low,Completed,2025-07-26,2025-08-01,2025-08-02,6,8,Development,Internal,Medium,Sprint 9,100,Low,Requires testing
+TSK-0272,Onboard Employee,HR Recruitment,Operations,Samuel Kiptoo,Low,Completed,2025-10-16,2025-10-28,2025-10-29,12,15,Marketing,Internal,Medium,Sprint 8,100,High,Awaiting approval
+TSK-0273,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,Low,Completed,2025-12-25,2025-12-30,2025-12-31,7,10,Finance,External,Medium,Sprint 2,100,Medium,Blocked by dependency
+TSK-0274,Campaign Analysis,Marketing Campaign,Marketing,Grace Chebet,High,Not Started,2025-09-13,2025-09-20,,7,0,Support,External,Medium,Sprint 4,0,High,Client feedback pending
+TSK-0275,Update Homepage,Website Redesign,Operations,Samuel Kiptoo,Medium,Completed,2025-09-10,2025-09-22,2025-09-20,6,10,Marketing,External,Easy,Sprint 10,100,High,High priority follow-up
+TSK-0276,Keyword Research,Marketing Campaign,Customer Support,Lucy Moraa,High,In Progress,2025-10-23,2025-11-02,,6,3,HR,Internal,Medium,Sprint 9,90,Low,High priority follow-up
+TSK-0277,Keyword Research,Marketing Campaign,Operations,Winnie Chebet,Low,In Progress,2025-01-07,2025-01-13,,9,7,HR,External,Medium,Sprint 3,53,Medium,Requires testing
+TSK-0278,SEO Optimization,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-07-10,2025-07-17,2025-07-18,4,3,HR,Internal,Easy,Sprint 10,100,Medium,Client feedback pending
+TSK-0279,Automate Payroll,Finance Automation,Finance,Sheila Atieno,Medium,Overdue,2025-03-18,2025-03-23,,5,9,Design,External,Easy,Sprint 8,71,Medium,Requires testing
+TSK-0280,Prepare Offer Letter,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-11-19,2025-11-26,2025-11-26,2,2,Testing,External,Easy,Sprint 6,100,Low,On track
+TSK-0281,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,High,Completed,2025-05-26,2025-06-08,2025-06-09,8,12,Finance,External,Medium,Sprint 2,100,Low,Ready for review
+TSK-0282,Build Dashboard,Mobile App Development,IT,Ian Kibet,Low,In Progress,2025-11-10,2025-11-18,,13,12,Design,External,Hard,Sprint 6,51,Low,Requires testing
+TSK-0283,Resolve Tickets,Customer Support Automation,Customer Support,Sharon Wairimu,Low,In Progress,2025-09-24,2025-10-04,,14,14,Finance,Internal,Hard,Sprint 11,38,Medium,Requires testing
+TSK-0284,Update Knowledge Base,Customer Support Automation,Customer Support,Christine Auma,High,Completed,2025-10-08,2025-10-16,2025-10-18,2,6,Development,Internal,Easy,Sprint 5,100,High,Blocked by dependency
+TSK-0285,Create User Roles,CRM Implementation,IT,Diana Wanjiku,High,In Progress,2025-09-27,2025-10-06,,6,4,Marketing,External,Medium,Sprint 9,85,Low,Requires testing
+TSK-0286,Deploy Beta Version,Mobile App Development,IT,Ian Kibet,High,In Progress,2025-10-16,2025-10-30,,10,8,Testing,External,Medium,Sprint 9,88,Medium,Client feedback pending
+TSK-0287,Invoice Validation,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-03-11,2025-03-22,2025-03-20,4,7,Marketing,External,Easy,Sprint 5,100,Medium,On track
+TSK-0288,Expense Review,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-10-15,2025-10-22,2025-10-25,9,12,Finance,External,Medium,Sprint 7,100,Low,Client feedback pending
+TSK-0289,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,Medium,Overdue,2025-05-26,2025-06-10,,16,18,Development,Internal,Hard,Sprint 3,94,Medium,Requires testing
+TSK-0290,CRM Testing,CRM Implementation,IT,Faith Njeri,High,In Progress,2025-01-26,2025-01-31,,6,4,Design,External,Easy,Sprint 12,47,Low,On track
+TSK-0291,Accessibility Testing,Website Redesign,Marketing,Sarah Wambui,High,Completed,2025-07-10,2025-07-23,2025-07-23,24,22,Support,Internal,Hard,Sprint 1,100,Low,Requires testing
+TSK-0292,Automate Payroll,Finance Automation,Finance,Eric Kiprono,High,Overdue,2025-03-04,2025-03-24,,24,26,Development,Internal,Hard,Sprint 8,87,Medium,Awaiting approval
+TSK-0293,UI Testing,Mobile App Development,IT,Brian Otieno,Medium,Not Started,2025-01-22,2025-02-02,,13,0,Marketing,External,Hard,Sprint 4,0,Low,High priority follow-up
+TSK-0294,Migrate Customer Records,CRM Implementation,Marketing,Sarah Wambui,Medium,Completed,2025-03-03,2025-03-06,2025-03-04,5,7,Support,External,Easy,Sprint 12,100,Low,Blocked by dependency
+TSK-0295,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,Medium,In Progress,2025-11-17,2025-11-23,,6,6,Marketing,Internal,Medium,Sprint 6,38,High,High priority follow-up
+TSK-0296,Prepare Budget Forecast,Finance Automation,Sales,Irene Njeri,Medium,Completed,2025-09-06,2025-09-17,2025-09-20,5,6,Design,Internal,Easy,Sprint 9,100,High,High priority follow-up
+TSK-0297,Onboard Employee,HR Recruitment,Human Resources,Carol Chepkemoi,Low,Completed,2025-06-01,2025-06-11,2025-06-09,4,8,Finance,External,Easy,Sprint 12,100,Low,Blocked by dependency
+TSK-0298,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,High,In Progress,2025-07-18,2025-07-31,,10,9,Testing,External,Medium,Sprint 7,69,Medium,High priority follow-up
+TSK-0299,Configure CRM Database,CRM Implementation,IT,Ian Kibet,High,Not Started,2025-02-24,2025-02-27,,5,0,HR,External,Easy,Sprint 11,0,Low,Documentation updated
+TSK-0300,Fix Bugs,Mobile App Development,IT,Faith Njeri,High,Completed,2025-04-17,2025-05-01,2025-05-04,12,10,Testing,External,Medium,Sprint 6,100,Low,On track
+TSK-0301,Prepare Budget Forecast,Finance Automation,Finance,John Kamau,Low,Completed,2025-02-21,2025-02-26,2025-02-25,3,5,Finance,Internal,Easy,Sprint 10,100,Medium,Blocked by dependency
+TSK-0302,Develop Login API,Mobile App Development,IT,Diana Wanjiku,Medium,Completed,2025-08-07,2025-08-13,2025-08-15,7,8,HR,External,Medium,Sprint 11,100,Medium,Blocked by dependency
+TSK-0303,Fix Bugs,Mobile App Development,Finance,Sheila Atieno,Medium,Not Started,2025-11-21,2025-12-08,,23,0,HR,Internal,Hard,Sprint 10,0,Low,Client feedback pending
+TSK-0304,Design Banner,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-01-18,2025-02-02,2025-02-01,12,12,Development,External,Hard,Sprint 4,100,Low,Client feedback pending
+TSK-0305,Expense Review,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-08-24,2025-09-01,2025-09-01,7,9,Design,Internal,Medium,Sprint 5,100,Low,Requires testing
+TSK-0306,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,Medium,In Progress,2025-12-20,2026-01-05,,13,11,Finance,External,Hard,Sprint 2,32,Low,On track
+TSK-0307,Financial Report,Finance Automation,Finance,Eric Kiprono,Low,Completed,2025-11-05,2025-11-24,2025-11-22,24,24,HR,Internal,Hard,Sprint 6,100,Medium,Blocked by dependency
+TSK-0308,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,High,In Progress,2025-11-01,2025-11-10,,10,7,Support,External,Medium,Sprint 3,48,Low,Blocked by dependency
+TSK-0309,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-03-08,2025-03-16,2025-03-17,9,10,Finance,Internal,Medium,Sprint 9,100,Medium,Client feedback pending
+TSK-0310,SEO Optimization,Website Redesign,Marketing,Cynthia Mutiso,Medium,Completed,2025-07-07,2025-07-15,2025-07-17,4,7,Development,External,Easy,Sprint 3,100,Low,High priority follow-up
+TSK-0311,Deploy Beta Version,Mobile App Development,Operations,Mercy Naliaka,High,Completed,2025-07-11,2025-07-24,2025-07-22,23,26,Development,Internal,Hard,Sprint 10,100,Low,Blocked by dependency
+TSK-0312,Invoice Validation,Finance Automation,Human Resources,Ruth Nyambura,Medium,Completed,2025-04-18,2025-04-30,2025-05-02,7,11,Testing,External,Medium,Sprint 10,100,Low,Blocked by dependency
+TSK-0313,Customer Survey,Customer Support Automation,Customer Support,Christine Auma,Medium,In Progress,2025-05-26,2025-06-06,,3,1,Marketing,Internal,Easy,Sprint 2,33,Low,Ready for review
+TSK-0314,Create Chatbot,Customer Support Automation,Customer Support,Lucy Moraa,High,Overdue,2025-07-14,2025-07-25,,11,15,HR,Internal,Medium,Sprint 3,95,Low,Client feedback pending
+TSK-0315,Develop Login API,Mobile App Development,Customer Support,Christine Auma,High,Completed,2025-03-22,2025-04-01,2025-04-01,8,11,Testing,Internal,Medium,Sprint 9,100,Low,Requires testing
+TSK-0316,Financial Report,Finance Automation,Finance,Sheila Atieno,Low,Overdue,2025-05-24,2025-06-01,,3,9,Development,External,Easy,Sprint 9,48,Medium,Client feedback pending
+TSK-0317,Keyword Research,Marketing Campaign,Marketing,Grace Chebet,Low,Overdue,2025-04-16,2025-04-25,,10,12,Finance,Internal,Medium,Sprint 7,59,Medium,Blocked by dependency
+TSK-0318,Create Chatbot,Customer Support Automation,Marketing,Linda Atieno,Medium,Not Started,2025-03-16,2025-03-24,,2,0,Marketing,External,Easy,Sprint 8,0,Low,Requires testing
+TSK-0319,Update Homepage,Website Redesign,Marketing,Sarah Wambui,High,In Progress,2025-10-18,2025-10-25,,7,6,Development,External,Medium,Sprint 2,73,Low,Documentation updated
+TSK-0320,Accessibility Testing,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-03-12,2025-03-20,2025-03-21,15,19,Development,External,Hard,Sprint 7,100,Low,Client feedback pending
+TSK-0321,Update Knowledge Base,Customer Support Automation,Customer Support,Kelvin Ouma,High,Not Started,2025-09-08,2025-09-21,,19,0,Marketing,External,Hard,Sprint 1,0,High,Ready for review
+TSK-0322,Automation Testing,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-09-24,2025-10-04,2025-10-03,19,21,HR,External,Hard,Sprint 12,100,Medium,On track
+TSK-0323,Develop Login API,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-05-27,2025-06-10,2025-06-12,18,16,Finance,Internal,Hard,Sprint 8,100,Medium,Documentation updated
+TSK-0324,Migrate Customer Records,CRM Implementation,IT,James Mwangi,Medium,Not Started,2025-07-31,2025-08-07,,9,0,Marketing,Internal,Medium,Sprint 8,0,Low,Awaiting approval
+TSK-0325,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,High,In Progress,2025-12-29,2026-01-12,,11,10,HR,External,Medium,Sprint 1,54,Low,Blocked by dependency
+TSK-0326,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,Low,Completed,2025-06-08,2025-06-15,2025-06-13,8,7,Design,Internal,Medium,Sprint 10,100,Low,Requires testing
+TSK-0327,CRM Testing,CRM Implementation,IT,Mercy Achieng,Medium,Completed,2025-10-29,2025-11-15,2025-11-13,18,20,HR,Internal,Hard,Sprint 4,100,Low,Requires testing
+TSK-0328,Build Dashboard,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-01-17,2025-01-28,2025-01-28,12,10,Development,Internal,Medium,Sprint 7,100,Low,Blocked by dependency
+TSK-0329,Content Review,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-07-04,2025-07-21,2025-07-21,24,24,Marketing,Internal,Hard,Sprint 7,100,Medium,Awaiting approval
+TSK-0330,Conduct Interview,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-01-30,2025-02-09,2025-02-07,2,3,Finance,External,Easy,Sprint 7,100,Low,High priority follow-up
+TSK-0331,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-04-03,2025-04-11,2025-04-10,7,5,Development,Internal,Medium,Sprint 8,100,Low,Awaiting approval
+TSK-0332,Customer Survey,Customer Support Automation,Operations,Mercy Naliaka,High,Completed,2025-11-24,2025-12-07,2025-12-05,16,16,Testing,External,Hard,Sprint 1,100,Low,Awaiting approval
+TSK-0333,Automation Testing,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-06-23,2025-06-26,2025-06-29,5,4,Marketing,Internal,Easy,Sprint 11,100,Low,Documentation updated
+TSK-0334,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-06-03,2025-06-14,2025-06-16,11,13,Development,Internal,Medium,Sprint 10,100,Medium,High priority follow-up
+TSK-0335,Prepare Budget Forecast,Finance Automation,Operations,Samuel Kiptoo,Low,Completed,2025-11-17,2025-11-30,2025-12-02,6,7,Design,Internal,Easy,Sprint 5,100,High,High priority follow-up
+TSK-0336,Create Chatbot,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-04-21,2025-04-27,2025-04-27,8,12,Development,Internal,Medium,Sprint 2,100,High,Documentation updated
+TSK-0337,Deploy Beta Version,Mobile App Development,IT,Diana Wanjiku,High,Completed,2025-06-08,2025-06-13,2025-06-15,7,10,Design,Internal,Medium,Sprint 12,100,High,On track
+TSK-0338,Create Social Media Posts,Marketing Campaign,Marketing,Peter Kariuki,High,Not Started,2025-02-14,2025-02-20,,9,0,HR,External,Medium,Sprint 1,0,Medium,Requires testing
+TSK-0339,Update Knowledge Base,Customer Support Automation,Human Resources,Esther Kemunto,High,Completed,2025-05-20,2025-05-30,2025-05-28,16,18,HR,Internal,Hard,Sprint 4,100,Medium,High priority follow-up
+TSK-0340,Fix Bugs,Mobile App Development,IT,Brian Otieno,Medium,Completed,2025-10-04,2025-10-08,2025-10-09,6,9,Development,Internal,Medium,Sprint 7,100,High,On track
+TSK-0341,Sales Process Mapping,CRM Implementation,IT,Brian Otieno,Low,In Progress,2025-07-02,2025-07-15,,8,8,Support,External,Medium,Sprint 10,89,Low,Blocked by dependency
+TSK-0342,Configure CRM Database,CRM Implementation,Sales,Stella Wambui,Medium,In Progress,2025-04-29,2025-05-07,,7,5,Design,External,Medium,Sprint 6,55,Low,Documentation updated
+TSK-0343,Create Social Media Posts,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-11-06,2025-11-11,2025-11-12,6,10,Finance,Internal,Easy,Sprint 6,100,Medium,Awaiting approval
+TSK-0344,Financial Report,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-09-04,2025-09-10,2025-09-13,5,7,Marketing,External,Easy,Sprint 10,100,Low,High priority follow-up
+TSK-0345,Develop Login API,Mobile App Development,IT,Brian Otieno,Medium,In Progress,2025-11-02,2025-11-14,,20,17,Testing,External,Hard,Sprint 2,41,Low,Awaiting approval
+TSK-0346,Resolve Tickets,Customer Support Automation,Operations,Mercy Naliaka,Medium,In Progress,2025-10-25,2025-10-29,,2,0,Testing,External,Easy,Sprint 10,64,Medium,Documentation updated
+TSK-0347,SEO Optimization,Website Redesign,Marketing,Linda Atieno,Medium,Overdue,2025-08-11,2025-08-15,,6,11,Marketing,Internal,Medium,Sprint 5,72,High,On track
+TSK-0348,Onboard Employee,HR Recruitment,IT,James Mwangi,Low,Completed,2025-05-01,2025-05-18,2025-05-21,21,21,Finance,External,Hard,Sprint 7,100,High,Ready for review
+TSK-0349,Launch Email Campaign,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-08-02,2025-08-09,2025-08-08,8,6,Development,Internal,Medium,Sprint 3,100,High,Documentation updated
+TSK-0350,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,High,Overdue,2025-12-23,2026-01-05,,21,25,Marketing,External,Hard,Sprint 7,72,High,High priority follow-up
+TSK-0351,Design Landing Page,Website Redesign,Marketing,Peter Kariuki,Medium,Overdue,2025-07-30,2025-08-03,,6,7,Marketing,External,Easy,Sprint 2,76,Medium,Documentation updated
+TSK-0352,Resolve Tickets,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-08-30,2025-09-19,2025-09-21,22,22,HR,Internal,Hard,Sprint 6,100,Low,On track
+TSK-0353,Campaign Analysis,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-05-29,2025-06-19,2025-06-22,23,23,Finance,External,Hard,Sprint 1,100,Medium,Documentation updated
+TSK-0354,Fix Bugs,Mobile App Development,IT,James Mwangi,Low,In Progress,2025-09-16,2025-09-22,,2,0,HR,External,Easy,Sprint 5,38,Low,Requires testing
+TSK-0355,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,Low,In Progress,2025-03-31,2025-04-10,,12,9,Support,Internal,Medium,Sprint 6,41,Low,Awaiting approval
+TSK-0356,Accessibility Testing,Website Redesign,Marketing,Grace Chebet,Medium,Completed,2025-11-23,2025-12-02,2025-11-30,7,10,Testing,Internal,Medium,Sprint 1,100,Medium,Blocked by dependency
+TSK-0357,Keyword Research,Marketing Campaign,Marketing,Linda Atieno,Medium,In Progress,2025-12-28,2026-01-04,,9,6,Testing,External,Medium,Sprint 7,30,Low,High priority follow-up
+TSK-0358,Develop Login API,Mobile App Development,IT,James Mwangi,Low,In Progress,2025-11-30,2025-12-13,,16,16,Finance,External,Hard,Sprint 8,46,Low,Client feedback pending
+TSK-0359,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,High,In Progress,2025-12-11,2025-12-13,,2,0,HR,Internal,Easy,Sprint 11,36,Medium,Documentation updated
+TSK-0360,Conduct Interview,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-12-03,2025-12-06,2025-12-09,3,1,Development,Internal,Easy,Sprint 7,100,High,Blocked by dependency
+TSK-0361,Create User Roles,CRM Implementation,IT,Kevin Kiptoo,Medium,Not Started,2025-05-22,2025-06-02,,11,0,Testing,Internal,Medium,Sprint 2,0,High,Requires testing
+TSK-0362,Invoice Validation,Finance Automation,Finance,Eric Kiprono,Low,Completed,2025-02-05,2025-02-22,2025-02-21,21,24,Marketing,Internal,Hard,Sprint 3,100,Low,Ready for review
+TSK-0363,Accessibility Testing,Website Redesign,Marketing,Sarah Wambui,Medium,Completed,2025-05-09,2025-05-14,2025-05-17,5,8,Development,Internal,Easy,Sprint 11,100,Medium,Ready for review
+TSK-0364,Prepare Offer Letter,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-08-12,2025-08-25,2025-08-27,23,22,Development,External,Hard,Sprint 12,100,Low,Documentation updated
+TSK-0365,Create User Roles,CRM Implementation,IT,Kevin Kiptoo,Medium,Completed,2025-02-16,2025-02-23,2025-02-24,10,14,Support,External,Medium,Sprint 11,100,High,Client feedback pending
+TSK-0366,Update Homepage,Website Redesign,Marketing,Cynthia Mutiso,High,Completed,2025-09-07,2025-09-12,2025-09-11,2,1,Design,Internal,Easy,Sprint 12,100,Medium,Client feedback pending
+TSK-0367,Design Banner,Marketing Campaign,Marketing,Peter Kariuki,Medium,Not Started,2025-01-09,2025-01-21,,12,0,Support,Internal,Hard,Sprint 7,0,High,Awaiting approval
+TSK-0368,Accessibility Testing,Website Redesign,Sales,Dennis Oloo,Low,Overdue,2025-04-30,2025-05-06,,6,10,Development,External,Medium,Sprint 10,81,Medium,On track
+TSK-0369,Design Landing Page,Website Redesign,Marketing,Grace Chebet,High,Completed,2025-08-22,2025-08-27,2025-08-25,7,5,Marketing,Internal,Medium,Sprint 2,100,Medium,Client feedback pending
+TSK-0370,Keyword Research,Marketing Campaign,Marketing,Allan Mwangi,High,Not Started,2025-04-20,2025-05-01,,10,0,Development,Internal,Medium,Sprint 5,0,Low,Blocked by dependency
+TSK-0371,Expense Review,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-11-20,2025-11-27,2025-11-25,9,10,Development,Internal,Medium,Sprint 1,100,Low,Blocked by dependency
+TSK-0372,Create User Roles,CRM Implementation,IT,Faith Njeri,Medium,Overdue,2025-04-16,2025-05-03,,16,20,Design,Internal,Hard,Sprint 10,66,Medium,On track
+TSK-0373,Deploy Beta Version,Mobile App Development,IT,Diana Wanjiku,Low,In Progress,2025-01-03,2025-01-12,,15,15,Testing,Internal,Hard,Sprint 8,69,Low,Client feedback pending
+TSK-0374,Schedule Interviews,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Not Started,2025-12-10,2025-12-19,,6,0,Testing,Internal,Medium,Sprint 7,0,Low,Requires testing
+TSK-0375,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-01-15,2025-01-22,2025-01-21,10,13,Marketing,External,Medium,Sprint 7,100,Low,Client feedback pending
+TSK-0376,Update Knowledge Base,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-04-13,2025-04-23,2025-04-25,5,6,Development,External,Easy,Sprint 3,100,Medium,Client feedback pending
+TSK-0377,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,High,In Progress,2025-04-14,2025-04-27,,7,7,Design,Internal,Medium,Sprint 8,47,High,Documentation updated
+TSK-0378,Launch Email Campaign,Marketing Campaign,Marketing,Linda Atieno,Low,In Progress,2025-11-10,2025-11-24,,20,20,Support,External,Hard,Sprint 4,56,Medium,Documentation updated
+TSK-0379,Financial Report,Finance Automation,Finance,John Kamau,Medium,Completed,2025-10-30,2025-11-11,2025-11-09,10,8,Marketing,Internal,Medium,Sprint 7,100,Medium,Ready for review
+TSK-0380,Keyword Research,Marketing Campaign,Sales,Emmanuel Karanja,Medium,Completed,2025-07-28,2025-08-10,2025-08-09,17,20,Development,Internal,Hard,Sprint 8,100,Medium,Requires testing
+TSK-0381,Content Review,Website Redesign,Marketing,Peter Kariuki,High,Completed,2025-07-27,2025-08-12,2025-08-15,17,20,Development,Internal,Hard,Sprint 7,100,High,High priority follow-up
+TSK-0382,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,Medium,In Progress,2025-12-17,2025-12-23,,10,8,Development,Internal,Medium,Sprint 7,86,Low,High priority follow-up
+TSK-0383,Design Banner,Marketing Campaign,Marketing,Linda Atieno,High,Completed,2025-04-15,2025-04-25,2025-04-23,3,6,Marketing,Internal,Easy,Sprint 12,100,Medium,Client feedback pending
+TSK-0384,Onboard Employee,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-09-06,2025-09-17,2025-09-20,6,8,Finance,External,Easy,Sprint 8,100,Low,High priority follow-up
+TSK-0385,Automate Payroll,Finance Automation,Finance,John Kamau,Low,Completed,2025-05-28,2025-06-03,2025-06-01,2,5,Design,External,Easy,Sprint 3,100,High,Client feedback pending
+TSK-0386,UI Testing,Mobile App Development,IT,Kevin Kiptoo,Low,Completed,2025-08-16,2025-08-19,2025-08-17,2,6,Support,Internal,Easy,Sprint 9,100,Low,High priority follow-up
+TSK-0387,Design Banner,Marketing Campaign,Marketing,Allan Mwangi,Medium,In Progress,2025-08-23,2025-09-02,,10,9,Testing,Internal,Medium,Sprint 8,80,Medium,High priority follow-up
+TSK-0388,Schedule Interviews,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-12-31,2026-01-06,2026-01-09,6,9,Finance,Internal,Easy,Sprint 3,100,High,Client feedback pending
+TSK-0389,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,High,Completed,2025-01-18,2025-01-26,2025-01-27,4,6,Design,External,Easy,Sprint 2,100,Medium,On track
+TSK-0390,Keyword Research,Marketing Campaign,Operations,Winnie Chebet,Low,Completed,2025-09-17,2025-10-03,2025-10-04,23,23,Support,Internal,Hard,Sprint 10,100,Medium,Documentation updated
+TSK-0391,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-04-23,2025-05-03,2025-05-01,8,10,Finance,Internal,Medium,Sprint 10,100,Low,Client feedback pending
+TSK-0392,Prepare Budget Forecast,Finance Automation,Human Resources,Esther Kemunto,High,Overdue,2025-09-20,2025-09-29,,7,12,HR,Internal,Medium,Sprint 11,78,High,High priority follow-up
+TSK-0393,Design Banner,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-08-17,2025-08-28,2025-08-31,6,7,Support,External,Medium,Sprint 5,100,Low,Blocked by dependency
+TSK-0394,Financial Report,Finance Automation,Finance,Eric Kiprono,High,In Progress,2025-09-01,2025-09-14,,6,3,Development,External,Easy,Sprint 11,35,Low,Requires testing
+TSK-0395,Campaign Analysis,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-10-11,2025-10-23,2025-10-23,5,6,HR,External,Easy,Sprint 4,100,Low,On track
+TSK-0396,Invoice Validation,Finance Automation,Finance,Sheila Atieno,Low,Overdue,2025-05-28,2025-06-04,,7,8,Support,External,Medium,Sprint 8,47,Medium,Awaiting approval
+TSK-0397,UI Testing,Mobile App Development,IT,Faith Njeri,Medium,Overdue,2025-12-22,2026-01-05,,8,9,Testing,Internal,Medium,Sprint 10,94,Low,On track
+TSK-0398,Update Homepage,Website Redesign,Marketing,Allan Mwangi,Medium,Completed,2025-07-02,2025-07-15,2025-07-18,8,6,HR,Internal,Medium,Sprint 11,100,Medium,Blocked by dependency
+TSK-0399,Expense Review,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-05-19,2025-06-08,2025-06-08,20,24,Design,Internal,Hard,Sprint 3,100,Medium,Requires testing
+TSK-0400,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-04-07,2025-04-19,2025-04-21,6,9,HR,Internal,Easy,Sprint 7,100,Medium,Documentation updated
+TSK-0401,Configure CRM Database,CRM Implementation,IT,Brian Otieno,Medium,Completed,2025-11-02,2025-11-11,2025-11-14,12,12,Development,Internal,Medium,Sprint 4,100,Medium,Blocked by dependency
+TSK-0402,Invoice Validation,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-02-27,2025-03-08,2025-03-09,2,1,Design,Internal,Easy,Sprint 1,100,Medium,On track
+TSK-0403,Create Social Media Posts,Marketing Campaign,Marketing,Linda Atieno,High,In Progress,2025-11-05,2025-11-15,,15,13,Development,Internal,Hard,Sprint 12,31,Medium,Requires testing
+TSK-0404,Deploy Beta Version,Mobile App Development,IT,Brian Otieno,Medium,In Progress,2025-10-24,2025-11-02,,10,8,Support,Internal,Medium,Sprint 12,40,Low,Awaiting approval
+TSK-0405,SEO Optimization,Website Redesign,Operations,Mercy Naliaka,Medium,Completed,2025-07-01,2025-07-14,2025-07-13,9,10,Development,External,Medium,Sprint 2,100,Low,Documentation updated
+TSK-0406,Create User Roles,CRM Implementation,IT,Diana Wanjiku,Medium,Completed,2025-03-01,2025-03-13,2025-03-16,5,5,Finance,External,Easy,Sprint 4,100,Low,Ready for review
+TSK-0407,Screen CVs,HR Recruitment,Finance,Anne Muthoni,Low,Overdue,2025-01-07,2025-01-20,,13,17,Finance,Internal,Hard,Sprint 2,73,Low,Blocked by dependency
+TSK-0408,Create Social Media Posts,Marketing Campaign,Marketing,Peter Kariuki,Medium,Overdue,2025-04-12,2025-04-21,,4,5,Support,External,Easy,Sprint 12,54,Low,Documentation updated
+TSK-0409,Prepare Offer Letter,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,In Progress,2025-09-19,2025-10-09,,24,24,Testing,External,Hard,Sprint 8,37,High,Client feedback pending
+TSK-0410,Create Chatbot,Customer Support Automation,IT,James Mwangi,Low,Completed,2025-11-06,2025-11-18,2025-11-20,4,2,Support,Internal,Easy,Sprint 11,100,Low,Documentation updated
+TSK-0411,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-10-07,2025-10-20,2025-10-18,12,13,Marketing,External,Medium,Sprint 7,100,High,Documentation updated
+TSK-0412,Campaign Analysis,Marketing Campaign,Marketing,Grace Chebet,Medium,In Progress,2025-08-09,2025-08-27,,23,20,Development,External,Hard,Sprint 11,78,Low,Documentation updated
+TSK-0413,Campaign Analysis,Marketing Campaign,Marketing,Grace Chebet,High,Completed,2025-12-13,2025-12-25,2025-12-23,12,10,HR,Internal,Medium,Sprint 3,100,Low,High priority follow-up
+TSK-0414,Conduct Interview,HR Recruitment,Customer Support,Christine Auma,Medium,Completed,2025-01-29,2025-02-10,2025-02-12,15,13,Finance,Internal,Hard,Sprint 5,100,Low,Awaiting approval
+TSK-0415,Screen CVs,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Overdue,2025-05-17,2025-06-01,,11,12,Marketing,External,Medium,Sprint 6,60,High,Awaiting approval
+TSK-0416,Invoice Validation,Finance Automation,Finance,Anne Muthoni,Medium,Overdue,2025-06-03,2025-06-15,,9,15,Support,Internal,Medium,Sprint 9,94,Low,Client feedback pending
+TSK-0417,Onboard Employee,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-10-24,2025-11-03,2025-11-01,10,12,Support,External,Medium,Sprint 7,100,Low,Client feedback pending
+TSK-0418,Onboard Employee,HR Recruitment,Human Resources,Carol Chepkemoi,Low,Completed,2025-07-25,2025-08-07,2025-08-10,10,14,HR,Internal,Medium,Sprint 1,100,Low,Blocked by dependency
+TSK-0419,UI Testing,Mobile App Development,IT,Ian Kibet,High,In Progress,2025-08-11,2025-08-23,,22,21,Marketing,Internal,Hard,Sprint 4,53,High,Blocked by dependency
+TSK-0420,Customer Survey,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Overdue,2025-07-31,2025-08-11,,16,19,HR,Internal,Hard,Sprint 7,83,Medium,Client feedback pending
+TSK-0421,Migrate Customer Records,CRM Implementation,IT,James Mwangi,Medium,Completed,2025-08-05,2025-08-13,2025-08-12,7,5,Testing,External,Medium,Sprint 11,100,High,Blocked by dependency
+TSK-0422,Create Chatbot,Customer Support Automation,Sales,Stella Wambui,High,Overdue,2025-02-02,2025-02-08,,8,12,Finance,Internal,Medium,Sprint 4,93,Low,Awaiting approval
+TSK-0423,Deploy Beta Version,Mobile App Development,IT,James Mwangi,Medium,In Progress,2025-09-12,2025-09-24,,21,19,Support,External,Hard,Sprint 12,51,Medium,Client feedback pending
+TSK-0424,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,High,Completed,2025-01-29,2025-02-05,2025-02-05,10,12,Marketing,External,Medium,Sprint 11,100,High,Client feedback pending
+TSK-0425,Prepare Offer Letter,HR Recruitment,Marketing,Linda Atieno,Medium,Overdue,2025-11-07,2025-11-09,,2,8,Finance,Internal,Easy,Sprint 5,90,High,Ready for review
+TSK-0426,Screen CVs,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-07-21,2025-07-29,2025-07-29,8,7,Support,Internal,Medium,Sprint 8,100,Low,High priority follow-up
+TSK-0427,Prepare Budget Forecast,Finance Automation,Finance,Eric Kiprono,High,Completed,2025-07-31,2025-08-11,2025-08-10,18,21,Testing,Internal,Hard,Sprint 6,100,Low,Ready for review
+TSK-0428,Fix Bugs,Mobile App Development,IT,Faith Njeri,Medium,Completed,2025-11-19,2025-11-24,2025-11-22,5,6,Design,External,Easy,Sprint 6,100,Medium,Awaiting approval
+TSK-0429,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,Low,In Progress,2025-09-02,2025-09-19,,14,12,Testing,Internal,Hard,Sprint 2,81,Low,Ready for review
+TSK-0430,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,High,Not Started,2025-11-17,2025-11-30,,19,0,Testing,Internal,Hard,Sprint 1,0,Medium,Ready for review
+TSK-0431,Build Dashboard,Mobile App Development,IT,Kevin Kiptoo,High,Completed,2025-09-27,2025-10-14,2025-10-12,19,18,Finance,Internal,Hard,Sprint 4,100,Low,Requires testing
+TSK-0432,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-12-13,2025-12-21,2025-12-20,3,1,Testing,External,Easy,Sprint 4,100,Medium,Documentation updated
+TSK-0433,Accessibility Testing,Website Redesign,Marketing,Allan Mwangi,High,Completed,2025-07-23,2025-08-08,2025-08-11,18,20,Testing,Internal,Hard,Sprint 2,100,High,On track
+TSK-0434,CRM Testing,CRM Implementation,IT,Brian Otieno,Low,Not Started,2025-11-03,2025-11-20,,16,0,HR,External,Hard,Sprint 5,0,High,Ready for review
+TSK-0435,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-08-28,2025-09-09,2025-09-10,6,5,Testing,Internal,Medium,Sprint 6,100,High,On track
+TSK-0436,SEO Optimization,Website Redesign,Marketing,Linda Atieno,Low,Completed,2025-05-16,2025-05-28,2025-05-28,18,21,Marketing,Internal,Hard,Sprint 9,100,Medium,Documentation updated
+TSK-0437,Migrate Customer Records,CRM Implementation,IT,James Mwangi,High,Completed,2025-03-01,2025-03-09,2025-03-12,5,7,Marketing,External,Easy,Sprint 8,100,Low,Awaiting approval
+TSK-0438,Prepare Budget Forecast,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-09-18,2025-09-30,2025-09-29,4,6,Development,Internal,Easy,Sprint 7,100,Medium,Awaiting approval
+TSK-0439,Design Landing Page,Website Redesign,Marketing,Allan Mwangi,Low,Completed,2025-07-21,2025-08-01,2025-07-31,10,8,Development,External,Medium,Sprint 12,100,Medium,Documentation updated
+TSK-0440,Campaign Analysis,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-08-20,2025-09-01,2025-08-31,4,3,Support,Internal,Easy,Sprint 11,100,Medium,Requires testing
+TSK-0441,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,Low,Completed,2025-07-24,2025-07-30,2025-07-31,6,10,Marketing,External,Medium,Sprint 11,100,Low,Blocked by dependency
+TSK-0442,CRM Testing,CRM Implementation,IT,Mercy Achieng,Medium,Not Started,2025-07-03,2025-07-20,,17,0,Design,External,Hard,Sprint 8,0,Medium,Ready for review
+TSK-0443,Keyword Research,Marketing Campaign,Marketing,Peter Kariuki,High,Completed,2025-11-19,2025-12-01,2025-12-01,6,7,Finance,Internal,Medium,Sprint 11,100,Low,Blocked by dependency
+TSK-0444,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,High,Completed,2025-06-03,2025-06-09,2025-06-08,3,5,Marketing,External,Easy,Sprint 10,100,Medium,On track
+TSK-0445,Deploy Beta Version,Mobile App Development,IT,James Mwangi,High,Completed,2025-10-19,2025-10-31,2025-10-29,4,8,HR,Internal,Easy,Sprint 2,100,Medium,Documentation updated
+TSK-0446,Design Landing Page,Website Redesign,Marketing,Cynthia Mutiso,High,Overdue,2025-08-21,2025-08-28,,5,8,Support,Internal,Easy,Sprint 4,95,Medium,Blocked by dependency
+TSK-0447,Create User Roles,CRM Implementation,IT,Faith Njeri,Low,Completed,2025-03-01,2025-03-12,2025-03-13,7,10,Marketing,External,Medium,Sprint 5,100,Low,High priority follow-up
+TSK-0448,Resolve Tickets,Customer Support Automation,Customer Support,Sharon Wairimu,High,Completed,2025-12-23,2025-12-28,2025-12-29,3,6,Design,Internal,Easy,Sprint 7,100,Medium,Client feedback pending
+TSK-0449,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,Medium,Completed,2025-12-26,2025-12-29,2025-12-30,5,7,Design,Internal,Easy,Sprint 5,100,Low,Ready for review
+TSK-0450,CRM Testing,CRM Implementation,IT,James Mwangi,Low,Overdue,2025-10-11,2025-10-21,,6,10,HR,External,Medium,Sprint 4,72,Medium,On track
+TSK-0451,Fix Bugs,Mobile App Development,IT,Faith Njeri,Medium,Completed,2025-03-01,2025-03-12,2025-03-13,10,13,Marketing,Internal,Medium,Sprint 3,100,High,Requires testing
+TSK-0452,Customer Survey,Customer Support Automation,Customer Support,Lucy Moraa,High,Completed,2025-11-05,2025-11-20,2025-11-21,16,20,Finance,External,Hard,Sprint 8,100,Low,Blocked by dependency
+TSK-0453,Develop Login API,Mobile App Development,IT,Ian Kibet,Medium,Completed,2025-02-21,2025-02-27,2025-02-26,5,7,Development,Internal,Easy,Sprint 6,100,Medium,Requires testing
+TSK-0454,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,High,Completed,2025-03-03,2025-03-11,2025-03-11,7,11,Testing,Internal,Medium,Sprint 9,100,Medium,Requires testing
+TSK-0455,Design Landing Page,Website Redesign,Operations,Kelvin Mutua,Low,Completed,2025-02-26,2025-03-14,2025-03-12,12,16,HR,Internal,Medium,Sprint 9,100,Medium,Awaiting approval
+TSK-0456,SEO Optimization,Website Redesign,Marketing,Grace Chebet,High,Completed,2025-02-20,2025-03-03,2025-03-02,11,9,Support,Internal,Medium,Sprint 8,100,Medium,Ready for review
+TSK-0457,Financial Report,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-08-01,2025-08-07,2025-08-06,4,8,Support,External,Easy,Sprint 4,100,Low,Blocked by dependency
+TSK-0458,Financial Report,Finance Automation,Finance,Eric Kiprono,Low,Completed,2025-08-15,2025-08-30,2025-08-28,12,10,Testing,External,Medium,Sprint 7,100,High,Blocked by dependency
+TSK-0459,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,Low,Completed,2025-12-05,2025-12-16,2025-12-19,8,11,HR,External,Medium,Sprint 12,100,Medium,High priority follow-up
+TSK-0460,Onboard Employee,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-10-06,2025-10-20,2025-10-23,12,12,Support,External,Medium,Sprint 4,100,Medium,Requires testing
+TSK-0461,CRM Testing,CRM Implementation,IT,Kevin Kiptoo,Medium,In Progress,2025-05-26,2025-06-05,,3,1,Testing,Internal,Easy,Sprint 1,63,High,On track
+TSK-0462,Automate Payroll,Finance Automation,Finance,Sheila Atieno,Low,Completed,2025-01-31,2025-02-13,2025-02-13,8,6,Development,Internal,Medium,Sprint 8,100,Medium,Requires testing
+TSK-0463,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,Low,Overdue,2025-11-18,2025-12-02,,21,24,Testing,Internal,Hard,Sprint 12,59,Medium,Ready for review
+TSK-0464,Fix Bugs,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-03-17,2025-03-28,2025-03-26,18,16,Marketing,Internal,Hard,Sprint 8,100,Low,Client feedback pending
+TSK-0465,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-10-27,2025-11-13,2025-11-16,18,19,Finance,External,Hard,Sprint 3,100,High,Blocked by dependency
+TSK-0466,UI Testing,Mobile App Development,IT,Ian Kibet,High,In Progress,2025-04-19,2025-04-28,,12,10,Development,External,Hard,Sprint 2,88,Low,Awaiting approval
+TSK-0467,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-09-06,2025-09-16,2025-09-18,14,15,Development,External,Hard,Sprint 5,100,Low,Client feedback pending
+TSK-0468,Design Landing Page,Website Redesign,Finance,John Kamau,Medium,Completed,2025-06-08,2025-06-18,2025-06-19,6,10,Finance,Internal,Easy,Sprint 3,100,Low,Documentation updated
+TSK-0469,Automate Payroll,Finance Automation,Finance,Eric Kiprono,Low,Completed,2025-07-29,2025-08-13,2025-08-15,18,16,Finance,External,Hard,Sprint 12,100,Medium,Requires testing
+TSK-0470,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,In Progress,2025-03-05,2025-03-18,,6,6,HR,Internal,Medium,Sprint 8,66,Medium,On track
+TSK-0471,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,Low,Completed,2025-10-24,2025-11-04,2025-11-06,5,5,Marketing,Internal,Easy,Sprint 8,100,Medium,On track
+TSK-0472,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-02-20,2025-02-26,2025-02-25,6,6,Support,Internal,Easy,Sprint 3,100,Low,Requires testing
+TSK-0473,Campaign Analysis,Marketing Campaign,Marketing,Sarah Wambui,Low,Completed,2025-02-20,2025-03-01,2025-03-01,7,8,Support,Internal,Medium,Sprint 1,100,Low,Client feedback pending
+TSK-0474,Update Homepage,Website Redesign,Marketing,Peter Kariuki,Medium,In Progress,2025-02-01,2025-02-12,,9,9,Development,External,Medium,Sprint 11,60,Low,Client feedback pending
+TSK-0475,Configure CRM Database,CRM Implementation,IT,Faith Njeri,High,Completed,2025-07-28,2025-08-17,2025-08-16,22,26,Design,External,Hard,Sprint 9,100,Low,Blocked by dependency
+TSK-0476,Expense Review,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-05-29,2025-06-09,2025-06-09,6,8,Testing,External,Medium,Sprint 6,100,Medium,Client feedback pending
+TSK-0477,Build Dashboard,Mobile App Development,Human Resources,Ruth Nyambura,Medium,Completed,2025-03-04,2025-03-14,2025-03-15,11,10,HR,External,Medium,Sprint 11,100,Low,High priority follow-up
+TSK-0478,Resolve Tickets,Customer Support Automation,Customer Support,Sharon Wairimu,High,Not Started,2025-11-03,2025-11-09,,6,0,Finance,Internal,Medium,Sprint 10,0,Low,Documentation updated
+TSK-0479,CRM Testing,CRM Implementation,Sales,Irene Njeri,Medium,In Progress,2025-02-11,2025-02-24,,10,10,Support,External,Medium,Sprint 10,52,Low,High priority follow-up
+TSK-0480,Create Social Media Posts,Marketing Campaign,Marketing,Allan Mwangi,High,Completed,2025-01-11,2025-01-19,2025-01-18,4,2,Support,External,Easy,Sprint 12,100,Low,Client feedback pending
+TSK-0481,SEO Optimization,Website Redesign,Human Resources,Ruth Nyambura,Medium,In Progress,2025-11-23,2025-12-06,,6,3,HR,Internal,Medium,Sprint 11,40,Low,Blocked by dependency
+TSK-0482,Configure CRM Database,CRM Implementation,IT,Ian Kibet,High,Not Started,2025-05-21,2025-06-02,,22,0,Finance,External,Hard,Sprint 11,0,High,Documentation updated
+TSK-0483,Create User Roles,CRM Implementation,Sales,Emmanuel Karanja,Medium,Not Started,2025-08-27,2025-08-30,,5,0,Finance,Internal,Easy,Sprint 1,0,Medium,Requires testing
+TSK-0484,Create Social Media Posts,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-04-26,2025-05-07,2025-05-06,15,15,Testing,Internal,Hard,Sprint 11,100,Medium,Awaiting approval
+TSK-0485,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Medium,In Progress,2025-02-25,2025-03-01,,7,5,Support,Internal,Medium,Sprint 2,63,Low,Documentation updated
+TSK-0486,Expense Review,Finance Automation,Finance,Eric Kiprono,High,Not Started,2025-12-22,2025-12-30,,14,0,Support,External,Hard,Sprint 1,0,Low,Requires testing
+TSK-0487,Develop Login API,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-02-19,2025-02-26,2025-02-28,6,10,Finance,Internal,Easy,Sprint 8,100,Low,Ready for review
+TSK-0488,Campaign Analysis,Marketing Campaign,Marketing,Peter Kariuki,High,In Progress,2025-09-22,2025-09-29,,10,10,HR,Internal,Medium,Sprint 10,30,Low,Client feedback pending
+TSK-0489,Fix Bugs,Mobile App Development,IT,Faith Njeri,Medium,Completed,2025-03-12,2025-03-20,2025-03-22,6,7,HR,External,Medium,Sprint 5,100,Low,Blocked by dependency
+TSK-0490,SEO Optimization,Website Redesign,Marketing,Peter Kariuki,High,Not Started,2025-03-16,2025-03-28,,7,0,Support,Internal,Medium,Sprint 7,0,Medium,High priority follow-up
+TSK-0491,Design Landing Page,Website Redesign,Sales,Irene Njeri,High,In Progress,2025-11-04,2025-11-20,,12,10,Testing,External,Medium,Sprint 6,69,High,Blocked by dependency
+TSK-0492,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Medium,Overdue,2025-08-27,2025-09-07,,7,13,Support,External,Medium,Sprint 12,89,Medium,Ready for review
+TSK-0493,SEO Optimization,Website Redesign,Marketing,Sarah Wambui,High,Completed,2025-08-14,2025-08-25,2025-08-23,11,9,Design,Internal,Medium,Sprint 5,100,Low,Blocked by dependency
+TSK-0494,SEO Optimization,Website Redesign,Sales,Irene Njeri,Low,Completed,2025-05-15,2025-05-19,2025-05-20,2,5,Support,Internal,Easy,Sprint 6,100,Low,Client feedback pending
+TSK-0495,Conduct Interview,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Not Started,2025-08-11,2025-08-21,,14,0,Support,Internal,Hard,Sprint 4,0,High,Ready for review
+TSK-0496,Customer Survey,Customer Support Automation,Customer Support,Victor Kiptoo,Low,Completed,2025-04-07,2025-04-13,2025-04-13,6,5,Development,External,Easy,Sprint 3,100,Medium,Documentation updated
+TSK-0497,Content Review,Website Redesign,Marketing,Cynthia Mutiso,High,Completed,2025-09-18,2025-10-06,2025-10-05,20,20,Finance,External,Hard,Sprint 9,100,Medium,Documentation updated
+TSK-0498,Automation Testing,Customer Support Automation,Finance,Sheila Atieno,Medium,Not Started,2025-04-23,2025-05-04,,9,0,Design,External,Medium,Sprint 7,0,Low,Ready for review
+TSK-0499,Fix Bugs,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-09-23,2025-10-04,2025-10-05,21,23,HR,External,Hard,Sprint 7,100,Low,Documentation updated
+TSK-0500,Keyword Research,Marketing Campaign,Marketing,Linda Atieno,High,Completed,2025-11-27,2025-12-03,2025-12-05,2,4,HR,Internal,Easy,Sprint 5,100,Low,Client feedback pending
+TSK-0501,Configure CRM Database,CRM Implementation,IT,Kevin Kiptoo,Medium,Completed,2025-12-16,2025-12-29,2025-12-28,7,11,Support,External,Medium,Sprint 1,100,Low,Requires testing
+TSK-0502,Prepare Offer Letter,HR Recruitment,Operations,Mercy Naliaka,Low,In Progress,2025-03-18,2025-03-24,,5,2,HR,External,Easy,Sprint 12,44,Medium,Documentation updated
+TSK-0503,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Not Started,2025-10-13,2025-10-27,,8,0,Support,Internal,Medium,Sprint 5,0,Low,On track
+TSK-0504,Design Banner,Marketing Campaign,Operations,Samuel Kiptoo,High,Completed,2025-12-20,2026-01-07,2026-01-05,17,19,Support,Internal,Hard,Sprint 3,100,Medium,Blocked by dependency
+TSK-0505,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-02-25,2025-03-07,2025-03-05,10,9,Development,Internal,Medium,Sprint 1,100,Low,Documentation updated
+TSK-0506,CRM Testing,CRM Implementation,IT,James Mwangi,High,Completed,2025-01-30,2025-02-07,2025-02-07,10,14,Marketing,External,Medium,Sprint 3,100,Low,Awaiting approval
+TSK-0507,Design Landing Page,Website Redesign,Marketing,Cynthia Mutiso,Medium,Overdue,2025-06-08,2025-06-18,,5,7,HR,External,Easy,Sprint 10,78,High,Client feedback pending
+TSK-0508,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,High,Not Started,2025-11-06,2025-11-21,,10,0,Marketing,External,Medium,Sprint 8,0,Medium,On track
+TSK-0509,Resolve Tickets,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,In Progress,2025-03-31,2025-04-12,,5,2,Marketing,Internal,Easy,Sprint 12,59,Medium,Awaiting approval
+TSK-0510,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,Low,Completed,2025-12-08,2025-12-23,2025-12-24,23,24,Support,Internal,Hard,Sprint 6,100,Medium,Awaiting approval
+TSK-0511,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-02-07,2025-02-18,2025-02-17,9,10,Development,Internal,Medium,Sprint 5,100,Low,Awaiting approval
+TSK-0512,Customer Survey,Customer Support Automation,Human Resources,Dennis Maina,Medium,Completed,2025-08-13,2025-08-20,2025-08-19,9,13,Development,Internal,Medium,Sprint 3,100,Medium,Requires testing
+TSK-0513,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,High,In Progress,2025-07-03,2025-07-07,,7,6,Finance,Internal,Medium,Sprint 11,58,Low,Awaiting approval
+TSK-0514,Create Social Media Posts,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-05-08,2025-05-13,2025-05-11,7,8,Development,Internal,Medium,Sprint 6,100,Low,Client feedback pending
+TSK-0515,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Overdue,2025-08-01,2025-08-10,,6,11,Design,Internal,Easy,Sprint 9,80,Low,Ready for review
+TSK-0516,Create Social Media Posts,Marketing Campaign,Marketing,Grace Chebet,Medium,Completed,2025-07-19,2025-07-25,2025-07-28,9,13,Testing,External,Medium,Sprint 1,100,Low,Awaiting approval
+TSK-0517,Accessibility Testing,Website Redesign,Marketing,Peter Kariuki,Low,Completed,2025-10-19,2025-11-02,2025-11-02,8,11,Finance,External,Medium,Sprint 11,100,High,Blocked by dependency
+TSK-0518,Prepare Offer Letter,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-09-19,2025-09-30,2025-09-29,21,19,HR,Internal,Hard,Sprint 5,100,Low,Client feedback pending
+TSK-0519,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,High,Completed,2025-07-12,2025-07-21,2025-07-24,11,13,Marketing,External,Medium,Sprint 3,100,Low,Requires testing
+TSK-0520,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-04-28,2025-05-09,2025-05-11,15,13,Finance,Internal,Hard,Sprint 11,100,Medium,Client feedback pending
+TSK-0521,Build Dashboard,Mobile App Development,Customer Support,Lucy Moraa,Medium,Completed,2025-04-09,2025-04-20,2025-04-19,14,12,Design,Internal,Hard,Sprint 4,100,Low,Awaiting approval
+TSK-0522,Launch Email Campaign,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-05-27,2025-06-03,2025-06-03,6,10,Support,External,Easy,Sprint 2,100,Low,High priority follow-up
+TSK-0523,Keyword Research,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,In Progress,2025-09-04,2025-09-17,,12,12,Testing,Internal,Medium,Sprint 9,78,Low,Blocked by dependency
+TSK-0524,Prepare Offer Letter,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-08-29,2025-09-02,2025-08-31,7,11,HR,External,Medium,Sprint 8,100,Low,Ready for review
+TSK-0525,Keyword Research,Marketing Campaign,Sales,George Odhiambo,Medium,In Progress,2025-01-20,2025-01-27,,9,8,Marketing,External,Medium,Sprint 12,78,Low,High priority follow-up
+TSK-0526,Fix Bugs,Mobile App Development,IT,Ian Kibet,Medium,In Progress,2025-05-05,2025-05-14,,17,16,HR,External,Hard,Sprint 11,46,Medium,Blocked by dependency
+TSK-0527,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,High,Completed,2025-12-28,2026-01-04,2026-01-05,6,5,Support,External,Medium,Sprint 5,100,Low,Requires testing
+TSK-0528,Deploy Beta Version,Mobile App Development,Sales,Stella Wambui,High,Completed,2025-02-15,2025-03-03,2025-03-02,21,21,Finance,Internal,Hard,Sprint 12,100,Medium,Ready for review
+TSK-0529,Customer Survey,Customer Support Automation,Customer Support,Kelvin Ouma,High,Completed,2025-12-02,2025-12-10,2025-12-09,11,11,Design,Internal,Medium,Sprint 4,100,Medium,Documentation updated
+TSK-0530,Accessibility Testing,Website Redesign,Marketing,Sarah Wambui,Medium,Completed,2025-04-09,2025-04-19,2025-04-22,4,6,Development,Internal,Easy,Sprint 2,100,Medium,Requires testing
+TSK-0531,Configure CRM Database,CRM Implementation,IT,Kevin Kiptoo,High,In Progress,2025-02-21,2025-02-25,,6,6,Design,Internal,Medium,Sprint 7,36,Medium,Requires testing
+TSK-0532,Campaign Analysis,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-05-03,2025-05-19,2025-05-21,18,16,Testing,External,Hard,Sprint 2,100,High,On track
+TSK-0533,Create Social Media Posts,Marketing Campaign,Finance,Anne Muthoni,Medium,Overdue,2025-05-08,2025-05-18,,4,9,Finance,Internal,Easy,Sprint 1,66,Medium,High priority follow-up
+TSK-0534,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Low,In Progress,2025-09-06,2025-09-13,,11,9,Marketing,Internal,Medium,Sprint 12,57,Low,Ready for review
+TSK-0535,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,Low,In Progress,2025-09-12,2025-09-25,,8,5,Marketing,Internal,Medium,Sprint 8,40,Low,Client feedback pending
+TSK-0536,Design Landing Page,Website Redesign,Marketing,Allan Mwangi,High,Not Started,2025-06-17,2025-06-23,,5,0,Finance,External,Easy,Sprint 11,0,High,Documentation updated
+TSK-0537,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Completed,2025-04-25,2025-05-07,2025-05-10,21,21,Marketing,External,Hard,Sprint 11,100,Low,Ready for review
+TSK-0538,Prepare Budget Forecast,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-04-07,2025-04-15,2025-04-15,10,11,HR,Internal,Medium,Sprint 5,100,Medium,On track
+TSK-0539,UI Testing,Mobile App Development,IT,Mercy Achieng,Low,Completed,2025-03-06,2025-03-21,2025-03-20,11,9,Marketing,Internal,Medium,Sprint 9,100,Medium,Documentation updated
+TSK-0540,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-12-07,2025-12-17,2025-12-19,10,13,Development,External,Medium,Sprint 12,100,Low,Documentation updated
+TSK-0541,Customer Survey,Customer Support Automation,Finance,Sheila Atieno,High,Overdue,2025-04-26,2025-04-30,,2,6,Marketing,External,Easy,Sprint 11,86,Medium,Blocked by dependency
+TSK-0542,CRM Testing,CRM Implementation,IT,Kevin Kiptoo,Medium,Not Started,2025-09-28,2025-10-13,,23,0,Finance,External,Hard,Sprint 2,0,Low,Blocked by dependency
+TSK-0543,Conduct Interview,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-05-30,2025-06-04,2025-06-07,3,6,Development,External,Easy,Sprint 12,100,Medium,Awaiting approval
+TSK-0544,Customer Survey,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Completed,2025-02-19,2025-02-27,2025-02-25,14,16,Finance,External,Hard,Sprint 10,100,High,Ready for review
+TSK-0545,Update Homepage,Website Redesign,Marketing,Cynthia Mutiso,High,Completed,2025-03-30,2025-04-07,2025-04-08,12,16,Support,External,Medium,Sprint 5,100,Medium,Documentation updated
+TSK-0546,Screen CVs,HR Recruitment,Human Resources,Ruth Nyambura,High,In Progress,2025-10-28,2025-11-11,,19,19,HR,Internal,Hard,Sprint 7,80,Low,Documentation updated
+TSK-0547,Automation Testing,Customer Support Automation,Customer Support,Lucy Moraa,High,Completed,2025-10-03,2025-10-08,2025-10-09,9,11,Support,External,Medium,Sprint 2,100,High,Awaiting approval
+TSK-0548,Automate Payroll,Finance Automation,Finance,John Kamau,Low,In Progress,2025-06-10,2025-06-21,,2,1,Design,Internal,Easy,Sprint 9,71,Low,Requires testing
+TSK-0549,Prepare Budget Forecast,Finance Automation,Finance,John Kamau,Medium,Completed,2025-12-03,2025-12-07,2025-12-09,7,11,Testing,External,Medium,Sprint 3,100,Low,Documentation updated
+TSK-0550,Automation Testing,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-05-02,2025-05-08,2025-05-07,2,1,HR,Internal,Easy,Sprint 10,100,Medium,High priority follow-up
+TSK-0551,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-08-22,2025-09-02,2025-09-05,8,7,HR,Internal,Medium,Sprint 2,100,Low,Requires testing
+TSK-0552,Resolve Tickets,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,In Progress,2025-03-20,2025-04-02,,12,12,Design,Internal,Medium,Sprint 5,68,Low,Awaiting approval
+TSK-0553,UI Testing,Mobile App Development,IT,Faith Njeri,High,In Progress,2025-05-20,2025-05-30,,12,10,Development,External,Medium,Sprint 4,30,Low,Ready for review
+TSK-0554,Migrate Customer Records,CRM Implementation,IT,James Mwangi,Medium,Overdue,2025-02-18,2025-03-04,,8,11,Testing,Internal,Medium,Sprint 1,75,Medium,Blocked by dependency
+TSK-0555,Conduct Interview,HR Recruitment,Finance,Anne Muthoni,Low,In Progress,2025-07-26,2025-08-07,,14,14,HR,Internal,Hard,Sprint 11,73,Medium,Blocked by dependency
+TSK-0556,SEO Optimization,Website Redesign,Marketing,Allan Mwangi,High,In Progress,2025-05-08,2025-05-27,,23,22,Testing,External,Hard,Sprint 9,58,Medium,Requires testing
+TSK-0557,Conduct Interview,HR Recruitment,Customer Support,Kelvin Ouma,Medium,Completed,2025-02-16,2025-02-23,2025-02-21,6,5,HR,Internal,Medium,Sprint 2,100,Medium,Requires testing
+TSK-0558,UI Testing,Mobile App Development,Operations,Kelvin Mutua,Medium,Not Started,2025-12-17,2025-12-27,,6,0,Development,Internal,Easy,Sprint 12,0,Low,On track
+TSK-0559,Resolve Tickets,Customer Support Automation,Customer Support,Victor Kiptoo,High,In Progress,2025-09-28,2025-10-16,,21,20,Support,Internal,Hard,Sprint 3,73,Medium,Awaiting approval
+TSK-0560,Screen CVs,HR Recruitment,Customer Support,Lucy Moraa,Medium,Completed,2025-12-14,2025-12-22,2025-12-22,12,12,Marketing,External,Medium,Sprint 5,100,Low,Client feedback pending
+TSK-0561,CRM Testing,CRM Implementation,IT,Faith Njeri,High,Completed,2025-01-19,2025-01-29,2025-01-29,19,17,HR,External,Hard,Sprint 6,100,Medium,Requires testing
+TSK-0562,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-09-28,2025-10-03,2025-10-04,7,5,Design,External,Medium,Sprint 4,100,Low,Documentation updated
+TSK-0563,Keyword Research,Marketing Campaign,Marketing,Linda Atieno,Low,Completed,2025-12-03,2025-12-11,2025-12-14,5,6,Development,External,Easy,Sprint 12,100,High,Client feedback pending
+TSK-0564,Migrate Customer Records,CRM Implementation,IT,James Mwangi,Medium,In Progress,2025-04-12,2025-04-22,,16,13,HR,External,Hard,Sprint 11,61,Low,Blocked by dependency
+TSK-0565,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-02-25,2025-03-10,,14,14,Finance,Internal,Hard,Sprint 1,79,Low,High priority follow-up
+TSK-0566,Keyword Research,Marketing Campaign,Sales,Emmanuel Karanja,Medium,Completed,2025-11-13,2025-11-17,2025-11-16,3,3,Support,Internal,Easy,Sprint 5,100,Low,Client feedback pending
+TSK-0567,Create Chatbot,Customer Support Automation,Marketing,Cynthia Mutiso,Medium,Completed,2025-10-30,2025-11-03,2025-11-04,3,1,Testing,Internal,Easy,Sprint 3,100,High,Ready for review
+TSK-0568,Configure CRM Database,CRM Implementation,IT,James Mwangi,Medium,Completed,2025-04-24,2025-04-29,2025-05-01,9,10,Finance,Internal,Medium,Sprint 5,100,High,Awaiting approval
+TSK-0569,Prepare Offer Letter,HR Recruitment,Human Resources,Carol Chepkemoi,High,Overdue,2025-12-05,2025-12-15,,4,7,Development,External,Easy,Sprint 3,78,Low,Requires testing
+TSK-0570,Create Social Media Posts,Marketing Campaign,Marketing,Linda Atieno,High,Completed,2025-06-19,2025-06-30,2025-07-03,11,15,HR,External,Medium,Sprint 4,100,High,Requires testing
+TSK-0571,Design Landing Page,Website Redesign,Marketing,Sarah Wambui,High,In Progress,2025-12-02,2025-12-11,,3,3,HR,External,Easy,Sprint 5,34,Medium,Documentation updated
+TSK-0572,Prepare Budget Forecast,Finance Automation,Finance,Anne Muthoni,High,Completed,2025-10-14,2025-10-20,2025-10-21,8,6,Marketing,External,Medium,Sprint 9,100,High,On track
+TSK-0573,Update Homepage,Website Redesign,Marketing,Allan Mwangi,High,Not Started,2025-04-08,2025-04-19,,5,0,Support,Internal,Easy,Sprint 3,0,High,Documentation updated
+TSK-0574,Financial Report,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-10-31,2025-11-09,2025-11-11,2,5,Finance,External,Easy,Sprint 5,100,Medium,Client feedback pending
+TSK-0575,Schedule Interviews,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-05-23,2025-05-25,2025-05-28,3,2,Support,Internal,Easy,Sprint 9,100,Medium,Awaiting approval
+TSK-0576,Sales Process Mapping,CRM Implementation,IT,Ian Kibet,Low,Completed,2025-05-16,2025-05-31,2025-05-31,21,19,Finance,Internal,Hard,Sprint 6,100,High,Client feedback pending
+TSK-0577,Create Chatbot,Customer Support Automation,Marketing,Linda Atieno,Medium,Not Started,2025-02-24,2025-03-14,,16,0,HR,Internal,Hard,Sprint 8,0,Medium,Client feedback pending
+TSK-0578,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-09-03,2025-09-15,,9,8,Support,Internal,Medium,Sprint 4,82,Low,Documentation updated
+TSK-0579,Create Chatbot,Customer Support Automation,Customer Support,Lucy Moraa,High,Overdue,2025-04-07,2025-04-20,,13,15,Finance,External,Hard,Sprint 2,69,Medium,Blocked by dependency
+TSK-0580,Automation Testing,Customer Support Automation,Customer Support,Christine Auma,High,Completed,2025-11-26,2025-11-29,2025-11-29,2,1,Finance,Internal,Easy,Sprint 1,100,Low,Awaiting approval
+TSK-0581,Develop Login API,Mobile App Development,IT,Kevin Kiptoo,High,Completed,2025-03-25,2025-04-01,2025-03-31,8,6,HR,External,Medium,Sprint 11,100,Low,Awaiting approval
+TSK-0582,Create User Roles,CRM Implementation,IT,Faith Njeri,High,Overdue,2025-04-25,2025-05-05,,7,9,Finance,External,Medium,Sprint 4,62,Low,Ready for review
+TSK-0583,Customer Survey,Customer Support Automation,Operations,Kelvin Mutua,High,Completed,2025-07-02,2025-07-05,2025-07-05,2,1,Development,Internal,Easy,Sprint 3,100,High,Ready for review
+TSK-0584,UI Testing,Mobile App Development,IT,Brian Otieno,High,In Progress,2025-06-28,2025-07-08,,8,6,Finance,Internal,Medium,Sprint 1,81,Medium,Blocked by dependency
+TSK-0585,Automate Payroll,Finance Automation,Finance,Sheila Atieno,Medium,In Progress,2025-02-04,2025-02-18,,18,17,Testing,Internal,Hard,Sprint 3,35,Low,Ready for review
+TSK-0586,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-12-01,2025-12-19,2025-12-20,18,20,HR,External,Hard,Sprint 9,100,Low,Client feedback pending
+TSK-0587,Keyword Research,Marketing Campaign,Marketing,Allan Mwangi,Medium,In Progress,2025-02-14,2025-02-24,,12,12,HR,External,Hard,Sprint 3,53,Low,Awaiting approval
+TSK-0588,Create User Roles,CRM Implementation,Human Resources,Esther Kemunto,Medium,Overdue,2025-08-04,2025-08-08,,7,13,Development,Internal,Medium,Sprint 7,48,High,On track
+TSK-0589,Create Chatbot,Customer Support Automation,Human Resources,Ruth Nyambura,Medium,Completed,2025-01-16,2025-01-25,2025-01-24,14,12,Development,External,Hard,Sprint 3,100,High,Blocked by dependency
+TSK-0590,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-11-27,2025-12-04,2025-12-02,8,11,Development,Internal,Medium,Sprint 9,100,Low,Blocked by dependency
+TSK-0591,CRM Testing,CRM Implementation,IT,Diana Wanjiku,Medium,Overdue,2025-12-30,2026-01-11,,14,15,Marketing,Internal,Hard,Sprint 12,73,Medium,Client feedback pending
+TSK-0592,Keyword Research,Marketing Campaign,Marketing,Grace Chebet,High,In Progress,2025-12-21,2026-01-01,,9,6,Development,External,Medium,Sprint 11,40,Medium,Ready for review
+TSK-0593,Design Landing Page,Website Redesign,Marketing,Sarah Wambui,Medium,In Progress,2025-03-25,2025-04-01,,6,6,Testing,Internal,Medium,Sprint 9,78,Low,Client feedback pending
+TSK-0594,Create Chatbot,Customer Support Automation,Marketing,Linda Atieno,Low,Completed,2025-01-24,2025-02-02,2025-01-31,8,8,Support,External,Medium,Sprint 7,100,Medium,Client feedback pending
+TSK-0595,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-02-21,2025-03-02,2025-02-28,12,14,Support,External,Medium,Sprint 8,100,Medium,On track
+TSK-0596,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-12-15,2025-12-24,2025-12-26,12,14,Finance,External,Medium,Sprint 8,100,High,Blocked by dependency
+TSK-0597,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Low,In Progress,2025-11-09,2025-11-22,,6,3,Support,Internal,Medium,Sprint 3,36,Low,Requires testing
+TSK-0598,UI Testing,Mobile App Development,Operations,Kelvin Mutua,High,Completed,2025-05-24,2025-06-03,2025-06-01,17,16,Finance,External,Hard,Sprint 5,100,Low,Documentation updated
+TSK-0599,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Low,Not Started,2025-05-27,2025-06-03,,9,0,Marketing,External,Medium,Sprint 9,0,Low,High priority follow-up
+TSK-0600,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,Medium,Overdue,2025-11-26,2025-12-12,,24,30,HR,Internal,Hard,Sprint 3,92,Low,Awaiting approval
+TSK-0601,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,High,Overdue,2025-08-28,2025-09-05,,12,13,Finance,Internal,Medium,Sprint 7,51,Low,Ready for review
+TSK-0602,SEO Optimization,Website Redesign,Marketing,Sarah Wambui,High,In Progress,2025-02-28,2025-03-11,,4,3,Marketing,Internal,Easy,Sprint 11,90,Medium,Client feedback pending
+TSK-0603,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-01-28,2025-02-10,2025-02-10,12,12,Finance,Internal,Medium,Sprint 2,100,Low,Blocked by dependency
+TSK-0604,Create User Roles,CRM Implementation,IT,James Mwangi,Low,Completed,2025-05-13,2025-05-21,2025-05-22,12,12,Support,External,Medium,Sprint 3,100,Low,Client feedback pending
+TSK-0605,Onboard Employee,HR Recruitment,Finance,Eric Kiprono,Medium,Completed,2025-12-21,2026-01-03,2026-01-05,9,8,Development,Internal,Medium,Sprint 6,100,Low,High priority follow-up
+TSK-0606,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,Medium,Completed,2025-05-15,2025-05-29,2025-05-28,12,15,Marketing,Internal,Hard,Sprint 1,100,Medium,Client feedback pending
+TSK-0607,Automation Testing,Customer Support Automation,Finance,Anne Muthoni,Medium,Completed,2025-10-23,2025-11-01,2025-11-01,17,17,HR,Internal,Hard,Sprint 12,100,High,Documentation updated
+TSK-0608,Resolve Tickets,Customer Support Automation,Finance,Eric Kiprono,Medium,Completed,2025-02-28,2025-03-10,2025-03-09,9,11,HR,Internal,Medium,Sprint 9,100,Medium,Ready for review
+TSK-0609,Keyword Research,Marketing Campaign,Marketing,Allan Mwangi,Medium,In Progress,2025-02-20,2025-02-28,,13,13,Marketing,Internal,Hard,Sprint 8,69,High,Awaiting approval
+TSK-0610,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Overdue,2025-10-10,2025-10-20,,5,6,Support,External,Easy,Sprint 7,62,Medium,Ready for review
+TSK-0611,Sales Process Mapping,CRM Implementation,Operations,Winnie Chebet,High,Overdue,2025-08-01,2025-08-03,,3,4,Design,External,Easy,Sprint 9,41,Medium,High priority follow-up
+TSK-0612,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-01-27,2025-02-07,2025-02-10,9,8,Marketing,External,Medium,Sprint 9,100,Low,Blocked by dependency
+TSK-0613,Launch Email Campaign,Marketing Campaign,Marketing,Allan Mwangi,Medium,In Progress,2025-11-18,2025-12-01,,20,18,Development,Internal,Hard,Sprint 1,43,Medium,Ready for review
+TSK-0614,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,High,In Progress,2025-07-15,2025-07-29,,23,20,Finance,External,Hard,Sprint 3,70,Low,Client feedback pending
+TSK-0615,Automation Testing,Customer Support Automation,Human Resources,Esther Kemunto,Low,In Progress,2025-05-14,2025-05-23,,13,13,HR,Internal,Hard,Sprint 2,70,Low,Documentation updated
+TSK-0616,Fix Bugs,Mobile App Development,IT,Brian Otieno,High,Completed,2025-04-17,2025-04-20,2025-04-21,5,3,Marketing,Internal,Easy,Sprint 4,100,Medium,Ready for review
+TSK-0617,Launch Email Campaign,Marketing Campaign,Sales,Stella Wambui,High,Completed,2025-11-07,2025-11-14,2025-11-15,2,4,HR,Internal,Easy,Sprint 3,100,Medium,Requires testing
+TSK-0618,Sales Process Mapping,CRM Implementation,IT,James Mwangi,High,Completed,2025-02-28,2025-03-04,2025-03-03,3,1,Finance,Internal,Easy,Sprint 5,100,High,Requires testing
+TSK-0619,Design Banner,Marketing Campaign,Marketing,Sarah Wambui,Medium,In Progress,2025-08-12,2025-08-21,,9,8,Finance,External,Medium,Sprint 7,42,Medium,Awaiting approval
+TSK-0620,Fix Bugs,Mobile App Development,IT,Faith Njeri,High,Completed,2025-08-17,2025-08-27,2025-08-27,10,12,Development,External,Medium,Sprint 7,100,Low,Client feedback pending
+TSK-0621,Develop Login API,Mobile App Development,IT,Ian Kibet,Medium,Overdue,2025-07-29,2025-08-18,,22,25,Development,Internal,Hard,Sprint 3,65,Low,High priority follow-up
+TSK-0622,Launch Email Campaign,Marketing Campaign,Marketing,Linda Atieno,High,In Progress,2025-03-04,2025-03-09,,8,6,Marketing,External,Medium,Sprint 4,43,Medium,Awaiting approval
+TSK-0623,Campaign Analysis,Marketing Campaign,Marketing,Grace Chebet,High,Completed,2025-12-10,2025-12-22,2025-12-25,10,14,Marketing,External,Medium,Sprint 6,100,High,Client feedback pending
+TSK-0624,Accessibility Testing,Website Redesign,Marketing,Cynthia Mutiso,High,Completed,2025-11-04,2025-11-10,2025-11-12,4,2,Testing,Internal,Easy,Sprint 11,100,Low,On track
+TSK-0625,Create Social Media Posts,Marketing Campaign,Marketing,Cynthia Mutiso,Low,Overdue,2025-02-05,2025-02-14,,5,11,Testing,External,Easy,Sprint 6,59,Medium,Ready for review
+TSK-0626,CRM Testing,CRM Implementation,IT,Kevin Kiptoo,Medium,Completed,2025-11-25,2025-12-11,2025-12-09,12,10,Design,Internal,Medium,Sprint 1,100,Low,Blocked by dependency
+TSK-0627,Migrate Customer Records,CRM Implementation,Operations,Mercy Naliaka,High,Completed,2025-10-03,2025-10-14,2025-10-12,12,10,Development,External,Hard,Sprint 2,100,Low,Requires testing
+TSK-0628,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,Medium,Not Started,2025-06-13,2025-06-26,,12,0,Finance,External,Medium,Sprint 11,0,Low,Awaiting approval
+TSK-0629,UI Testing,Mobile App Development,IT,Faith Njeri,Medium,Not Started,2025-04-26,2025-05-05,,8,0,Finance,Internal,Medium,Sprint 6,0,Medium,Client feedback pending
+TSK-0630,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,High,Completed,2025-08-28,2025-09-01,2025-09-01,5,4,Support,External,Easy,Sprint 5,100,Medium,Documentation updated
+TSK-0631,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,Low,Completed,2025-11-14,2025-11-24,2025-11-23,7,5,Testing,External,Medium,Sprint 3,100,High,Requires testing
+TSK-0632,Automate Payroll,Finance Automation,Finance,John Kamau,Medium,Completed,2025-08-24,2025-09-02,2025-09-05,3,5,Marketing,External,Easy,Sprint 5,100,Low,Awaiting approval
+TSK-0633,Build Dashboard,Mobile App Development,IT,Diana Wanjiku,High,Completed,2025-05-20,2025-05-30,2025-06-02,6,7,Design,External,Medium,Sprint 4,100,Low,Ready for review
+TSK-0634,Content Review,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-02-26,2025-03-02,2025-03-04,6,6,Design,Internal,Medium,Sprint 9,100,Medium,Awaiting approval
+TSK-0635,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-09-11,2025-09-27,2025-09-27,24,27,Testing,External,Hard,Sprint 12,100,Medium,On track
+TSK-0636,Sales Process Mapping,CRM Implementation,IT,Ian Kibet,Medium,Completed,2025-06-11,2025-06-24,2025-06-25,14,13,Development,External,Hard,Sprint 7,100,Low,High priority follow-up
+TSK-0637,Configure CRM Database,CRM Implementation,IT,Kevin Kiptoo,High,In Progress,2025-08-31,2025-09-07,,6,3,Development,Internal,Easy,Sprint 10,37,Low,Requires testing
+TSK-0638,Automate Payroll,Finance Automation,Finance,Anne Muthoni,Medium,Completed,2025-09-09,2025-09-25,2025-09-25,16,16,Marketing,Internal,Hard,Sprint 6,100,Low,Requires testing
+TSK-0639,Automation Testing,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-03-17,2025-03-26,2025-03-26,12,13,Development,Internal,Medium,Sprint 10,100,Medium,Ready for review
+TSK-0640,Schedule Interviews,HR Recruitment,Human Resources,Ruth Nyambura,Low,Completed,2025-11-17,2025-11-23,2025-11-23,6,9,Testing,External,Easy,Sprint 7,100,Low,Ready for review
+TSK-0641,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-08-21,2025-09-02,2025-09-02,12,10,Development,External,Medium,Sprint 11,100,Low,Blocked by dependency
+TSK-0642,Design Banner,Marketing Campaign,Marketing,Peter Kariuki,Medium,In Progress,2025-05-31,2025-06-08,,9,7,HR,Internal,Medium,Sprint 1,82,Low,Documentation updated
+TSK-0643,Screen CVs,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-09-15,2025-09-26,2025-09-25,13,16,Design,External,Hard,Sprint 10,100,Medium,Awaiting approval
+TSK-0644,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,High,In Progress,2025-02-20,2025-03-01,,8,7,Marketing,External,Medium,Sprint 10,66,Low,Blocked by dependency
+TSK-0645,Update Knowledge Base,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-11-18,2025-11-30,2025-12-01,10,8,Design,External,Medium,Sprint 12,100,Low,High priority follow-up
+TSK-0646,UI Testing,Mobile App Development,Sales,George Odhiambo,Medium,Completed,2025-10-14,2025-10-25,2025-10-24,18,20,Testing,Internal,Hard,Sprint 10,100,Low,High priority follow-up
+TSK-0647,SEO Optimization,Website Redesign,Marketing,Peter Kariuki,High,Overdue,2025-08-25,2025-08-30,,6,7,Support,Internal,Easy,Sprint 6,57,Medium,Awaiting approval
+TSK-0648,Invoice Validation,Finance Automation,Finance,Eric Kiprono,Low,Completed,2025-01-28,2025-02-11,2025-02-14,10,11,Design,Internal,Medium,Sprint 11,100,Medium,Blocked by dependency
+TSK-0649,Prepare Offer Letter,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-03-03,2025-03-10,2025-03-08,6,7,Development,External,Easy,Sprint 7,100,Low,On track
+TSK-0650,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,Low,Overdue,2025-12-15,2025-12-31,,12,13,Design,Internal,Medium,Sprint 3,67,Medium,Blocked by dependency
+TSK-0651,Automate Payroll,Finance Automation,Finance,Anne Muthoni,Medium,In Progress,2025-05-29,2025-06-05,,2,0,Marketing,Internal,Easy,Sprint 8,55,Low,Ready for review
+TSK-0652,Invoice Validation,Finance Automation,Finance,John Kamau,Medium,Completed,2025-11-27,2025-12-06,2025-12-05,6,7,Finance,External,Easy,Sprint 5,100,Low,On track
+TSK-0653,Update Homepage,Website Redesign,Marketing,Peter Kariuki,High,In Progress,2025-12-02,2025-12-16,,8,6,Finance,Internal,Medium,Sprint 5,59,Low,Requires testing
+TSK-0654,Keyword Research,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-09-17,2025-09-27,2025-09-29,8,10,Testing,External,Medium,Sprint 2,100,Medium,On track
+TSK-0655,Configure CRM Database,CRM Implementation,Marketing,Grace Chebet,Medium,Completed,2025-04-29,2025-05-09,2025-05-10,6,4,Development,External,Medium,Sprint 2,100,Low,On track
+TSK-0656,Invoice Validation,Finance Automation,Finance,Eric Kiprono,Medium,Overdue,2025-12-24,2026-01-10,,14,19,Design,External,Hard,Sprint 8,52,Low,Documentation updated
+TSK-0657,Update Knowledge Base,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Completed,2025-01-13,2025-01-22,2025-01-20,12,12,Support,External,Hard,Sprint 10,100,Low,Awaiting approval
+TSK-0658,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-11-13,2025-11-21,2025-11-22,12,13,Finance,External,Medium,Sprint 2,100,Low,Awaiting approval
+TSK-0659,Design Landing Page,Website Redesign,Marketing,Linda Atieno,High,Completed,2025-04-25,2025-05-08,2025-05-11,12,12,Development,Internal,Medium,Sprint 5,100,Low,Awaiting approval
+TSK-0660,Deploy Beta Version,Mobile App Development,IT,Mercy Achieng,Low,Completed,2025-12-24,2026-01-03,2026-01-06,10,8,Development,External,Medium,Sprint 7,100,Low,Requires testing
+TSK-0661,Update Homepage,Website Redesign,Marketing,Sarah Wambui,High,Overdue,2025-02-01,2025-02-15,,9,14,Support,Internal,Medium,Sprint 6,84,Medium,Awaiting approval
+TSK-0662,Create Social Media Posts,Marketing Campaign,Marketing,Peter Kariuki,Low,Completed,2025-02-23,2025-02-28,2025-03-03,2,2,Marketing,External,Easy,Sprint 5,100,Medium,Client feedback pending
+TSK-0663,Migrate Customer Records,CRM Implementation,IT,Mercy Achieng,Medium,Overdue,2025-10-10,2025-10-20,,6,12,Marketing,External,Medium,Sprint 9,48,Medium,Blocked by dependency
+TSK-0664,Create User Roles,CRM Implementation,IT,Faith Njeri,Medium,Completed,2025-02-17,2025-03-03,2025-03-06,15,19,Support,Internal,Hard,Sprint 1,100,Low,Client feedback pending
+TSK-0665,Automate Payroll,Finance Automation,Finance,John Kamau,Medium,Completed,2025-05-06,2025-05-16,2025-05-17,7,10,Development,Internal,Medium,Sprint 2,100,Medium,Requires testing
+TSK-0666,Fix Bugs,Mobile App Development,IT,Ian Kibet,Low,Overdue,2025-07-07,2025-07-15,,8,13,Testing,Internal,Medium,Sprint 1,57,Low,High priority follow-up
+TSK-0667,Keyword Research,Marketing Campaign,Marketing,Peter Kariuki,High,Completed,2025-04-29,2025-05-05,2025-05-03,4,4,Finance,Internal,Easy,Sprint 1,100,High,Client feedback pending
+TSK-0668,Create Chatbot,Customer Support Automation,Customer Support,Sharon Wairimu,High,Overdue,2025-06-03,2025-06-14,,2,6,Development,External,Easy,Sprint 7,71,Medium,Documentation updated
+TSK-0669,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,Medium,Completed,2025-06-28,2025-07-09,2025-07-09,10,14,Support,Internal,Medium,Sprint 1,100,Low,High priority follow-up
+TSK-0670,Create Chatbot,Customer Support Automation,Finance,Eric Kiprono,Low,Completed,2025-05-28,2025-06-16,2025-06-19,18,20,Support,External,Hard,Sprint 3,100,High,Ready for review
+TSK-0671,Launch Email Campaign,Marketing Campaign,Marketing,Grace Chebet,Low,Completed,2025-05-08,2025-05-22,2025-05-23,8,6,HR,External,Medium,Sprint 6,100,Low,Requires testing
+TSK-0672,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,High,Completed,2025-04-02,2025-04-14,2025-04-12,9,10,Development,External,Medium,Sprint 8,100,Low,Client feedback pending
+TSK-0673,Design Banner,Marketing Campaign,Marketing,Sarah Wambui,Low,Completed,2025-05-13,2025-05-25,2025-05-24,19,22,Design,Internal,Hard,Sprint 10,100,Low,On track
+TSK-0674,Update Homepage,Website Redesign,Marketing,Sarah Wambui,Medium,Overdue,2025-04-27,2025-05-07,,11,12,Support,External,Medium,Sprint 9,83,Low,On track
+TSK-0675,Develop Login API,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-10-20,2025-10-29,2025-10-27,4,7,Marketing,External,Easy,Sprint 3,100,Low,On track
+TSK-0676,Conduct Interview,HR Recruitment,Human Resources,Carol Chepkemoi,Low,Overdue,2025-05-31,2025-06-09,,6,7,Design,Internal,Medium,Sprint 2,58,High,Client feedback pending
+TSK-0677,Automate Payroll,Finance Automation,Finance,Sheila Atieno,Medium,In Progress,2025-11-29,2025-12-12,,6,3,Finance,Internal,Medium,Sprint 9,64,Low,On track
+TSK-0678,Deploy Beta Version,Mobile App Development,IT,Faith Njeri,Medium,Completed,2025-05-05,2025-05-23,2025-05-22,24,25,Testing,Internal,Hard,Sprint 12,100,Low,Client feedback pending
+TSK-0679,Design Banner,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-09-05,2025-09-15,2025-09-14,6,8,Support,Internal,Easy,Sprint 9,100,Low,Client feedback pending
+TSK-0680,Automate Payroll,Finance Automation,Sales,Dennis Oloo,Medium,In Progress,2025-07-29,2025-08-13,,10,7,Support,Internal,Medium,Sprint 3,70,Low,Documentation updated
+TSK-0681,Create User Roles,CRM Implementation,IT,Diana Wanjiku,Medium,In Progress,2025-01-18,2025-01-24,,6,6,HR,External,Medium,Sprint 7,38,Low,High priority follow-up
+TSK-0682,Update Homepage,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-10-30,2025-11-06,2025-11-04,13,16,Testing,External,Hard,Sprint 7,100,High,Documentation updated
+TSK-0683,Update Knowledge Base,Customer Support Automation,Human Resources,Dennis Maina,Medium,In Progress,2025-09-18,2025-10-01,,7,5,Finance,External,Medium,Sprint 7,73,Medium,High priority follow-up
+TSK-0684,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,High,In Progress,2025-01-25,2025-02-07,,6,3,Testing,External,Easy,Sprint 6,48,Low,Blocked by dependency
+TSK-0685,Update Homepage,Website Redesign,Marketing,Allan Mwangi,Medium,Completed,2025-06-27,2025-07-08,2025-07-08,13,14,Marketing,Internal,Hard,Sprint 3,100,Low,Requires testing
+TSK-0686,Schedule Interviews,HR Recruitment,Operations,Kelvin Mutua,Medium,Completed,2025-03-28,2025-04-07,2025-04-09,2,6,Design,Internal,Easy,Sprint 8,100,Medium,On track
+TSK-0687,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,Overdue,2025-12-28,2026-01-06,,2,5,Support,Internal,Easy,Sprint 5,45,Low,Awaiting approval
+TSK-0688,Screen CVs,HR Recruitment,Sales,Irene Njeri,High,Completed,2025-09-20,2025-09-27,2025-09-25,2,3,Development,External,Easy,Sprint 4,100,Medium,On track
+TSK-0689,Update Knowledge Base,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Overdue,2025-08-29,2025-09-07,,3,6,Design,Internal,Easy,Sprint 9,48,Low,Client feedback pending
+TSK-0690,Sales Process Mapping,CRM Implementation,IT,Diana Wanjiku,Medium,In Progress,2025-11-11,2025-11-17,,5,3,HR,Internal,Easy,Sprint 5,60,Medium,Client feedback pending
+TSK-0691,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-05-28,2025-06-03,2025-06-06,5,6,Development,Internal,Easy,Sprint 8,100,Low,High priority follow-up
+TSK-0692,Update Knowledge Base,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-07-30,2025-08-12,2025-08-14,16,15,Support,External,Hard,Sprint 1,100,Low,High priority follow-up
+TSK-0693,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-09-06,2025-09-08,2025-09-08,3,4,Marketing,Internal,Easy,Sprint 10,100,Low,Blocked by dependency
+TSK-0694,Develop Login API,Mobile App Development,IT,Ian Kibet,Low,In Progress,2025-01-11,2025-01-19,,12,10,Testing,Internal,Medium,Sprint 11,88,Medium,On track
+TSK-0695,Build Dashboard,Mobile App Development,IT,Faith Njeri,Low,Overdue,2025-05-29,2025-06-09,,8,10,Finance,Internal,Medium,Sprint 1,75,Medium,On track
+TSK-0696,Expense Review,Finance Automation,Finance,John Kamau,Medium,Completed,2025-04-28,2025-05-01,2025-05-02,3,6,Marketing,Internal,Easy,Sprint 12,100,Low,Requires testing
+TSK-0697,Expense Review,Finance Automation,Finance,John Kamau,Medium,In Progress,2025-10-05,2025-10-18,,7,4,Support,External,Medium,Sprint 6,42,Low,Ready for review
+TSK-0698,Fix Bugs,Mobile App Development,IT,Kevin Kiptoo,Medium,Completed,2025-07-12,2025-07-22,2025-07-23,13,15,Testing,External,Hard,Sprint 5,100,Medium,Client feedback pending
+TSK-0699,Keyword Research,Marketing Campaign,Marketing,Cynthia Mutiso,Low,In Progress,2025-10-23,2025-10-31,,9,6,Marketing,Internal,Medium,Sprint 11,53,Low,Requires testing
+TSK-0700,Screen CVs,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-02-12,2025-03-02,2025-03-04,21,24,Support,Internal,Hard,Sprint 1,100,Medium,Documentation updated
+TSK-0701,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,High,In Progress,2025-05-18,2025-06-01,,12,9,Finance,Internal,Medium,Sprint 6,50,High,Documentation updated
+TSK-0702,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,Low,Completed,2025-01-07,2025-01-10,2025-01-09,3,2,Marketing,Internal,Easy,Sprint 1,100,Low,Ready for review
+TSK-0703,Keyword Research,Marketing Campaign,Marketing,Peter Kariuki,High,Overdue,2025-03-02,2025-03-11,,8,13,HR,External,Medium,Sprint 10,60,Low,Blocked by dependency
+TSK-0704,Update Homepage,Website Redesign,Marketing,Allan Mwangi,Low,Not Started,2025-08-30,2025-09-05,,7,0,Design,External,Medium,Sprint 1,0,Medium,High priority follow-up
+TSK-0705,Create Social Media Posts,Marketing Campaign,Marketing,Cynthia Mutiso,Low,Completed,2025-02-18,2025-02-24,2025-02-22,9,11,Marketing,Internal,Medium,Sprint 2,100,Low,High priority follow-up
+TSK-0706,Resolve Tickets,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Not Started,2025-08-07,2025-08-16,,6,0,HR,External,Easy,Sprint 5,0,Medium,Client feedback pending
+TSK-0707,Migrate Customer Records,CRM Implementation,IT,James Mwangi,High,Completed,2025-10-28,2025-11-09,2025-11-11,5,5,Support,External,Easy,Sprint 4,100,Medium,Blocked by dependency
+TSK-0708,Configure CRM Database,CRM Implementation,IT,Brian Otieno,Low,In Progress,2025-01-01,2025-01-06,,4,1,Finance,External,Easy,Sprint 6,57,Low,Requires testing
+TSK-0709,Deploy Beta Version,Mobile App Development,IT,Brian Otieno,Medium,In Progress,2025-09-25,2025-10-10,,10,9,Finance,External,Medium,Sprint 12,40,Low,Blocked by dependency
+TSK-0710,Financial Report,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-11-30,2025-12-08,2025-12-09,4,8,Finance,External,Easy,Sprint 12,100,High,Ready for review
+TSK-0711,Accessibility Testing,Website Redesign,Marketing,Grace Chebet,Medium,Not Started,2025-07-04,2025-07-20,,12,0,Testing,External,Hard,Sprint 2,0,Low,High priority follow-up
+TSK-0712,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,High,In Progress,2025-12-23,2025-12-28,,8,8,Finance,External,Medium,Sprint 10,85,Low,Documentation updated
+TSK-0713,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Low,Completed,2025-03-20,2025-03-23,2025-03-24,3,7,Support,Internal,Easy,Sprint 1,100,High,Documentation updated
+TSK-0714,Create Chatbot,Customer Support Automation,Customer Support,Lucy Moraa,Low,Completed,2025-01-09,2025-01-26,2025-01-29,22,21,HR,External,Hard,Sprint 9,100,Medium,On track
+TSK-0715,Create Chatbot,Customer Support Automation,Customer Support,Christine Auma,High,In Progress,2025-03-30,2025-04-11,,5,4,HR,External,Easy,Sprint 3,74,Low,On track
+TSK-0716,Screen CVs,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-08-26,2025-09-01,2025-09-04,6,4,Design,External,Medium,Sprint 10,100,Medium,On track
+TSK-0717,Automate Payroll,Finance Automation,Finance,John Kamau,Medium,Completed,2025-06-07,2025-06-22,2025-06-22,24,22,Marketing,External,Hard,Sprint 3,100,High,Requires testing
+TSK-0718,Update Homepage,Website Redesign,Marketing,Cynthia Mutiso,Low,Completed,2025-05-13,2025-05-23,2025-05-23,5,7,Testing,External,Easy,Sprint 11,100,High,Documentation updated
+TSK-0719,Prepare Budget Forecast,Finance Automation,Finance,Anne Muthoni,Low,In Progress,2025-12-26,2026-01-02,,5,4,Finance,External,Easy,Sprint 2,51,Medium,Client feedback pending
+TSK-0720,Screen CVs,HR Recruitment,Human Resources,Carol Chepkemoi,Low,Completed,2025-08-28,2025-09-11,2025-09-12,8,11,HR,Internal,Medium,Sprint 6,100,Low,Awaiting approval
+TSK-0721,Update Knowledge Base,Customer Support Automation,Customer Support,Christine Auma,Medium,Completed,2025-07-03,2025-07-15,2025-07-14,7,11,Development,External,Medium,Sprint 10,100,Low,Documentation updated
+TSK-0722,UI Testing,Mobile App Development,IT,Diana Wanjiku,Medium,Completed,2025-09-05,2025-09-13,2025-09-15,8,6,Marketing,External,Medium,Sprint 5,100,Medium,Ready for review
+TSK-0723,Build Dashboard,Mobile App Development,IT,Faith Njeri,Low,Overdue,2025-04-12,2025-04-22,,14,20,Support,Internal,Hard,Sprint 2,61,High,Requires testing
+TSK-0724,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-03-30,2025-04-06,2025-04-05,8,12,Design,External,Medium,Sprint 2,100,Low,Client feedback pending
+TSK-0725,Design Landing Page,Website Redesign,Marketing,Linda Atieno,Medium,Completed,2025-12-24,2026-01-04,2026-01-05,9,12,Design,Internal,Medium,Sprint 7,100,Medium,Blocked by dependency
+TSK-0726,Prepare Offer Letter,HR Recruitment,Human Resources,Esther Kemunto,Medium,Overdue,2025-08-06,2025-08-18,,20,23,Finance,Internal,Hard,Sprint 4,71,Medium,Blocked by dependency
+TSK-0727,Invoice Validation,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-02-09,2025-02-16,2025-02-14,7,6,Testing,External,Medium,Sprint 2,100,Low,High priority follow-up
+TSK-0728,Launch Email Campaign,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-08-04,2025-08-22,2025-08-20,18,19,Support,Internal,Hard,Sprint 6,100,Low,Awaiting approval
+TSK-0729,Update Knowledge Base,Customer Support Automation,Operations,Kelvin Mutua,High,Completed,2025-09-06,2025-09-11,2025-09-11,9,10,Testing,Internal,Medium,Sprint 10,100,Low,Documentation updated
+TSK-0730,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,Low,Not Started,2025-08-06,2025-08-11,,6,0,Design,Internal,Easy,Sprint 6,0,Low,Requires testing
+TSK-0731,Accessibility Testing,Website Redesign,Marketing,Peter Kariuki,Medium,Completed,2025-08-24,2025-09-01,2025-09-01,4,5,Testing,External,Easy,Sprint 1,100,High,Requires testing
+TSK-0732,Design Landing Page,Website Redesign,Marketing,Cynthia Mutiso,Medium,Completed,2025-01-19,2025-01-26,2025-01-25,6,4,HR,Internal,Easy,Sprint 3,100,Low,Blocked by dependency
+TSK-0733,Resolve Tickets,Customer Support Automation,Customer Support,Lucy Moraa,Low,In Progress,2025-09-26,2025-10-01,,6,4,Development,Internal,Easy,Sprint 10,53,Medium,Awaiting approval
+TSK-0734,Create Social Media Posts,Marketing Campaign,Marketing,Allan Mwangi,High,In Progress,2025-04-05,2025-04-12,,11,8,Support,Internal,Medium,Sprint 10,37,Low,Requires testing
+TSK-0735,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-12-19,2025-12-30,2026-01-01,20,21,Design,External,Hard,Sprint 5,100,Low,On track
+TSK-0736,Launch Email Campaign,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-02-19,2025-03-03,2025-03-02,12,10,HR,External,Hard,Sprint 12,100,Medium,Documentation updated
+TSK-0737,Fix Bugs,Mobile App Development,IT,Faith Njeri,Medium,Completed,2025-06-13,2025-06-22,2025-06-23,12,16,Finance,External,Medium,Sprint 4,100,Low,Blocked by dependency
+TSK-0738,Create Chatbot,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-06-26,2025-07-06,2025-07-06,2,2,Testing,External,Easy,Sprint 8,100,Low,Documentation updated
+TSK-0739,Migrate Customer Records,CRM Implementation,IT,Faith Njeri,Medium,Completed,2025-05-26,2025-06-04,2025-06-05,11,13,Design,External,Medium,Sprint 10,100,Medium,Awaiting approval
+TSK-0740,Configure CRM Database,CRM Implementation,IT,Brian Otieno,Medium,Completed,2025-07-25,2025-08-01,2025-08-02,6,8,Testing,External,Easy,Sprint 6,100,Medium,Awaiting approval
+TSK-0741,Automation Testing,Customer Support Automation,Sales,George Odhiambo,Medium,Completed,2025-08-26,2025-09-07,2025-09-06,19,20,Testing,Internal,Hard,Sprint 9,100,Low,High priority follow-up
+TSK-0742,Prepare Budget Forecast,Finance Automation,Finance,Anne Muthoni,Medium,In Progress,2025-11-22,2025-12-02,,15,15,HR,External,Hard,Sprint 1,68,Low,High priority follow-up
+TSK-0743,UI Testing,Mobile App Development,IT,Faith Njeri,Medium,Not Started,2025-12-01,2025-12-07,,5,0,Support,Internal,Easy,Sprint 8,0,Medium,High priority follow-up
+TSK-0744,Update Knowledge Base,Customer Support Automation,Marketing,Cynthia Mutiso,High,Completed,2025-08-25,2025-09-15,2025-09-16,22,21,Support,Internal,Hard,Sprint 8,100,Low,Awaiting approval
+TSK-0745,Automate Payroll,Finance Automation,Finance,Sheila Atieno,High,In Progress,2025-12-16,2025-12-26,,5,2,Support,External,Easy,Sprint 5,34,Medium,Awaiting approval
+TSK-0746,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Overdue,2025-01-21,2025-02-01,,4,10,Marketing,External,Easy,Sprint 2,81,Medium,Awaiting approval
+TSK-0747,Update Homepage,Website Redesign,Operations,Kelvin Mutua,Medium,In Progress,2025-09-05,2025-09-12,,3,3,Finance,External,Easy,Sprint 4,59,Low,Requires testing
+TSK-0748,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-03-13,2025-03-19,,10,9,Testing,External,Medium,Sprint 12,86,Medium,Requires testing
+TSK-0749,Conduct Interview,HR Recruitment,Marketing,Peter Kariuki,Medium,Completed,2025-12-22,2025-12-28,2025-12-29,3,3,Finance,Internal,Easy,Sprint 1,100,Medium,Client feedback pending
+TSK-0750,Develop Login API,Mobile App Development,IT,Faith Njeri,High,In Progress,2025-07-27,2025-08-07,,10,9,Support,External,Medium,Sprint 9,67,High,High priority follow-up
+TSK-0751,Campaign Analysis,Marketing Campaign,Finance,Anne Muthoni,Medium,Completed,2025-02-03,2025-02-10,2025-02-09,7,6,Testing,Internal,Medium,Sprint 11,100,Medium,Client feedback pending
+TSK-0752,Onboard Employee,HR Recruitment,Human Resources,Ruth Nyambura,Low,In Progress,2025-11-17,2025-11-23,,8,6,HR,Internal,Medium,Sprint 1,65,Low,Documentation updated
+TSK-0753,Fix Bugs,Mobile App Development,IT,Brian Otieno,Medium,Completed,2025-04-27,2025-05-13,2025-05-13,12,14,Testing,Internal,Hard,Sprint 12,100,High,Client feedback pending
+TSK-0754,Automation Testing,Customer Support Automation,IT,Brian Otieno,High,Completed,2025-09-02,2025-09-05,2025-09-05,5,9,Finance,Internal,Easy,Sprint 4,100,Medium,Documentation updated
+TSK-0755,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,High,In Progress,2025-01-05,2025-01-17,,9,8,Support,External,Medium,Sprint 1,67,Low,Requires testing
+TSK-0756,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Completed,2025-11-27,2025-12-05,2025-12-05,8,8,Finance,External,Medium,Sprint 11,100,Low,Documentation updated
+TSK-0757,Configure CRM Database,CRM Implementation,Marketing,Cynthia Mutiso,High,Not Started,2025-02-03,2025-02-10,,11,0,Support,External,Medium,Sprint 6,0,Low,Blocked by dependency
+TSK-0758,Update Homepage,Website Redesign,Marketing,Grace Chebet,High,Completed,2025-12-17,2026-01-03,2026-01-06,15,14,Testing,Internal,Hard,Sprint 4,100,Low,Ready for review
+TSK-0759,Expense Review,Finance Automation,Finance,Anne Muthoni,Medium,Completed,2025-11-01,2025-11-12,2025-11-11,12,12,Marketing,External,Medium,Sprint 6,100,Low,Blocked by dependency
+TSK-0760,Conduct Interview,HR Recruitment,Human Resources,Carol Chepkemoi,Medium,Completed,2025-07-26,2025-08-02,2025-08-03,9,13,Testing,Internal,Medium,Sprint 12,100,Low,Client feedback pending
+TSK-0761,SEO Optimization,Website Redesign,Marketing,Linda Atieno,Low,Completed,2025-10-13,2025-10-22,2025-10-24,11,13,Marketing,External,Medium,Sprint 2,100,Low,Awaiting approval
+TSK-0762,Accessibility Testing,Website Redesign,Marketing,Allan Mwangi,Low,In Progress,2025-12-04,2025-12-23,,23,22,HR,External,Hard,Sprint 1,47,High,Awaiting approval
+TSK-0763,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,Medium,Not Started,2025-02-07,2025-02-16,,4,0,Support,Internal,Easy,Sprint 3,0,Low,Requires testing
+TSK-0764,UI Testing,Mobile App Development,IT,James Mwangi,High,Completed,2025-09-29,2025-10-08,2025-10-06,12,16,Support,External,Hard,Sprint 6,100,Low,Documentation updated
+TSK-0765,Customer Survey,Customer Support Automation,Marketing,Linda Atieno,High,Completed,2025-05-13,2025-05-16,2025-05-15,4,2,Finance,External,Easy,Sprint 7,100,High,Ready for review
+TSK-0766,Expense Review,Finance Automation,Finance,John Kamau,High,Not Started,2025-01-17,2025-01-29,,12,0,Support,External,Medium,Sprint 5,0,Medium,High priority follow-up
+TSK-0767,Automation Testing,Customer Support Automation,Customer Support,Christine Auma,High,Completed,2025-09-20,2025-10-01,2025-10-04,2,1,Support,Internal,Easy,Sprint 11,100,Low,Ready for review
+TSK-0768,Automate Payroll,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-09-28,2025-10-11,2025-10-11,6,4,HR,External,Medium,Sprint 1,100,Low,On track
+TSK-0769,SEO Optimization,Website Redesign,Marketing,Grace Chebet,Low,In Progress,2025-12-01,2025-12-17,,21,20,Support,Internal,Hard,Sprint 4,42,Medium,Requires testing
+TSK-0770,Content Review,Website Redesign,Marketing,Peter Kariuki,Low,Completed,2025-02-05,2025-02-11,2025-02-14,4,3,Design,External,Easy,Sprint 3,100,Low,Ready for review
+TSK-0771,Conduct Interview,HR Recruitment,Human Resources,Esther Kemunto,High,Overdue,2025-07-12,2025-07-27,,23,27,Marketing,External,Hard,Sprint 7,43,Low,Client feedback pending
+TSK-0772,Design Landing Page,Website Redesign,Marketing,Peter Kariuki,High,Completed,2025-03-04,2025-03-13,2025-03-14,15,18,HR,External,Hard,Sprint 12,100,Medium,High priority follow-up
+TSK-0773,Campaign Analysis,Marketing Campaign,Marketing,Sarah Wambui,Medium,Completed,2025-01-04,2025-01-13,2025-01-11,5,5,Testing,External,Easy,Sprint 2,100,Low,Ready for review
+TSK-0774,Prepare Budget Forecast,Finance Automation,Finance,Anne Muthoni,Medium,Overdue,2025-05-21,2025-06-01,,14,16,Development,Internal,Hard,Sprint 9,76,Low,Blocked by dependency
+TSK-0775,Design Landing Page,Website Redesign,Marketing,Sarah Wambui,Medium,Completed,2025-11-13,2025-11-26,2025-11-25,12,11,HR,Internal,Medium,Sprint 12,100,Low,Blocked by dependency
+TSK-0776,Schedule Interviews,HR Recruitment,IT,Mercy Achieng,High,Completed,2025-05-16,2025-05-21,2025-05-21,8,6,Marketing,Internal,Medium,Sprint 12,100,Low,Blocked by dependency
+TSK-0777,Campaign Analysis,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-04-25,2025-04-28,2025-04-29,2,3,Marketing,External,Easy,Sprint 3,100,Low,On track
+TSK-0778,Schedule Interviews,HR Recruitment,Human Resources,Carol Chepkemoi,High,Completed,2025-02-19,2025-03-12,2025-03-11,23,22,Design,Internal,Hard,Sprint 3,100,Medium,Client feedback pending
+TSK-0779,Customer Survey,Customer Support Automation,Customer Support,Christine Auma,High,In Progress,2025-12-04,2025-12-14,,4,2,Design,External,Easy,Sprint 7,78,Low,High priority follow-up
+TSK-0780,Customer Survey,Customer Support Automation,Customer Support,Christine Auma,Medium,In Progress,2025-11-21,2025-12-07,,24,23,Testing,Internal,Hard,Sprint 10,55,Low,Documentation updated
+TSK-0781,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Medium,Not Started,2025-08-14,2025-08-28,,11,0,Testing,External,Medium,Sprint 3,0,Low,Requires testing
+TSK-0782,Screen CVs,HR Recruitment,Finance,Eric Kiprono,Medium,Completed,2025-07-07,2025-07-21,2025-07-20,11,9,Design,External,Medium,Sprint 2,100,Low,Awaiting approval
+TSK-0783,Fix Bugs,Mobile App Development,IT,Brian Otieno,High,Completed,2025-09-16,2025-09-30,2025-09-29,20,24,Finance,Internal,Hard,Sprint 1,100,Low,Client feedback pending
+TSK-0784,Automation Testing,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-09-30,2025-10-14,2025-10-13,10,10,Design,Internal,Medium,Sprint 11,100,Low,Blocked by dependency
+TSK-0785,Update Knowledge Base,Customer Support Automation,Customer Support,Victor Kiptoo,Low,In Progress,2025-11-09,2025-11-16,,5,5,Marketing,External,Easy,Sprint 7,90,High,Ready for review
+TSK-0786,Design Banner,Marketing Campaign,Marketing,Grace Chebet,High,Completed,2025-11-10,2025-11-20,2025-11-19,6,5,Marketing,Internal,Medium,Sprint 4,100,Low,Ready for review
+TSK-0787,Financial Report,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-05-22,2025-06-05,2025-06-08,9,8,Design,External,Medium,Sprint 3,100,Low,Requires testing
+TSK-0788,Expense Review,Finance Automation,Finance,John Kamau,High,Completed,2025-12-05,2025-12-18,2025-12-21,8,10,Marketing,Internal,Medium,Sprint 2,100,Low,High priority follow-up
+TSK-0789,Conduct Interview,HR Recruitment,IT,Diana Wanjiku,High,Completed,2025-12-21,2025-12-31,2026-01-02,12,10,Development,External,Medium,Sprint 4,100,High,Documentation updated
+TSK-0790,Financial Report,Finance Automation,Finance,Eric Kiprono,High,Completed,2025-05-22,2025-06-07,2025-06-08,20,23,Support,External,Hard,Sprint 6,100,Medium,Awaiting approval
+TSK-0791,CRM Testing,CRM Implementation,IT,Mercy Achieng,High,Completed,2025-02-23,2025-03-10,2025-03-11,10,12,HR,External,Medium,Sprint 1,100,Medium,Awaiting approval
+TSK-0792,Deploy Beta Version,Mobile App Development,Sales,Emmanuel Karanja,High,Not Started,2025-12-30,2026-01-03,,6,0,Testing,External,Easy,Sprint 8,0,Medium,On track
+TSK-0793,Create Social Media Posts,Marketing Campaign,Sales,Stella Wambui,High,Completed,2025-05-30,2025-06-13,2025-06-13,12,12,Support,External,Medium,Sprint 6,100,Low,Client feedback pending
+TSK-0794,Conduct Interview,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Not Started,2025-04-18,2025-04-27,,6,0,Finance,External,Easy,Sprint 6,0,Medium,Blocked by dependency
+TSK-0795,Invoice Validation,Finance Automation,Finance,John Kamau,Medium,Completed,2025-06-12,2025-06-25,2025-06-28,23,24,Testing,External,Hard,Sprint 11,100,High,Blocked by dependency
+TSK-0796,Financial Report,Finance Automation,Finance,Sheila Atieno,Medium,Overdue,2025-03-28,2025-04-07,,13,18,HR,External,Hard,Sprint 9,59,Medium,Blocked by dependency
+TSK-0797,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,High,In Progress,2025-05-15,2025-06-01,,17,15,Design,External,Hard,Sprint 2,55,Medium,Requires testing
+TSK-0798,Fix Bugs,Mobile App Development,IT,James Mwangi,Low,Completed,2025-12-08,2025-12-14,2025-12-17,4,3,Design,Internal,Easy,Sprint 8,100,Medium,Client feedback pending
+TSK-0799,Design Landing Page,Website Redesign,Marketing,Grace Chebet,Low,Completed,2025-10-18,2025-10-31,2025-11-02,9,10,Finance,External,Medium,Sprint 12,100,Medium,Requires testing
+TSK-0800,Resolve Tickets,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-10-04,2025-10-18,2025-10-18,23,27,Support,Internal,Hard,Sprint 9,100,Low,Blocked by dependency
+TSK-0801,Sales Process Mapping,CRM Implementation,Operations,Mercy Naliaka,High,Overdue,2025-12-26,2026-01-09,,12,15,Support,Internal,Medium,Sprint 8,76,Medium,Documentation updated
+TSK-0802,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,High,Completed,2025-09-02,2025-09-11,2025-09-09,6,9,Testing,External,Medium,Sprint 12,100,High,On track
+TSK-0803,Update Knowledge Base,Customer Support Automation,Customer Support,Sharon Wairimu,Low,Completed,2025-12-12,2025-12-26,2025-12-28,8,9,Design,External,Medium,Sprint 1,100,Medium,On track
+TSK-0804,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,Medium,Completed,2025-03-24,2025-03-28,2025-03-27,3,1,Finance,External,Easy,Sprint 12,100,Low,Awaiting approval
+TSK-0805,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,Medium,In Progress,2025-08-31,2025-09-11,,17,17,Testing,Internal,Hard,Sprint 12,49,Low,Ready for review
+TSK-0806,Conduct Interview,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-06-23,2025-07-08,2025-07-08,13,11,HR,Internal,Hard,Sprint 9,100,Medium,On track
+TSK-0807,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Completed,2025-01-15,2025-01-20,2025-01-19,6,5,Finance,External,Easy,Sprint 3,100,Low,Client feedback pending
+TSK-0808,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-04-01,2025-04-05,2025-04-07,7,5,HR,Internal,Medium,Sprint 5,100,Medium,Requires testing
+TSK-0809,Sales Process Mapping,CRM Implementation,IT,Brian Otieno,Medium,Overdue,2025-11-10,2025-11-23,,9,13,Marketing,Internal,Medium,Sprint 11,90,Medium,Awaiting approval
+TSK-0810,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,Low,Completed,2025-01-31,2025-02-21,2025-02-19,22,26,HR,Internal,Hard,Sprint 11,100,Low,High priority follow-up
+TSK-0811,Deploy Beta Version,Mobile App Development,IT,Ian Kibet,Medium,In Progress,2025-03-11,2025-03-22,,12,9,Marketing,External,Medium,Sprint 2,55,Low,Documentation updated
+TSK-0812,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,Medium,Completed,2025-05-28,2025-06-06,2025-06-04,10,10,HR,Internal,Medium,Sprint 11,100,Medium,High priority follow-up
+TSK-0813,Create Chatbot,Customer Support Automation,Customer Support,Christine Auma,Low,Completed,2025-12-17,2025-12-31,2025-12-30,11,13,Testing,Internal,Medium,Sprint 4,100,Medium,Awaiting approval
+TSK-0814,Design Banner,Marketing Campaign,Marketing,Allan Mwangi,High,Completed,2025-01-08,2025-01-11,2025-01-11,2,1,Design,External,Easy,Sprint 3,100,Medium,Ready for review
+TSK-0815,Prepare Budget Forecast,Finance Automation,Finance,Eric Kiprono,High,In Progress,2025-08-05,2025-08-15,,11,10,Finance,External,Medium,Sprint 7,90,Low,On track
+TSK-0816,Launch Email Campaign,Marketing Campaign,Finance,Sheila Atieno,Low,Completed,2025-07-22,2025-08-04,2025-08-03,11,14,Finance,Internal,Medium,Sprint 2,100,Medium,Awaiting approval
+TSK-0817,CRM Testing,CRM Implementation,IT,Mercy Achieng,High,Completed,2025-12-15,2025-12-22,2025-12-22,5,9,HR,External,Easy,Sprint 2,100,Medium,Awaiting approval
+TSK-0818,Campaign Analysis,Marketing Campaign,Marketing,Sarah Wambui,Low,Completed,2025-09-03,2025-09-07,2025-09-08,6,5,Development,Internal,Medium,Sprint 4,100,Low,Ready for review
+TSK-0819,Build Dashboard,Mobile App Development,IT,Ian Kibet,Medium,In Progress,2025-04-07,2025-04-13,,11,11,Design,External,Medium,Sprint 5,90,Medium,Blocked by dependency
+TSK-0820,Prepare Offer Letter,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Not Started,2025-11-18,2025-11-30,,8,0,Development,External,Medium,Sprint 2,0,Low,Client feedback pending
+TSK-0821,Build Dashboard,Mobile App Development,IT,Faith Njeri,High,Not Started,2025-07-29,2025-08-11,,6,0,Finance,Internal,Easy,Sprint 12,0,Medium,High priority follow-up
+TSK-0822,Schedule Interviews,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-10-18,2025-10-20,2025-10-22,2,4,Development,Internal,Easy,Sprint 11,100,Low,Documentation updated
+TSK-0823,Deploy Beta Version,Mobile App Development,IT,Kevin Kiptoo,Medium,Overdue,2025-05-09,2025-05-19,,4,6,HR,External,Easy,Sprint 4,69,Low,Blocked by dependency
+TSK-0824,Prepare Offer Letter,HR Recruitment,Human Resources,Esther Kemunto,Low,Overdue,2025-06-03,2025-06-13,,6,12,Support,Internal,Medium,Sprint 7,74,Low,Blocked by dependency
+TSK-0825,Financial Report,Finance Automation,Finance,Anne Muthoni,Medium,Completed,2025-07-18,2025-07-28,2025-07-31,8,9,Design,Internal,Medium,Sprint 4,100,Low,Client feedback pending
+TSK-0826,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,Medium,Completed,2025-07-11,2025-07-23,2025-07-24,18,16,HR,External,Hard,Sprint 5,100,Medium,Ready for review
+TSK-0827,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,Low,In Progress,2025-08-15,2025-08-29,,15,14,Finance,Internal,Hard,Sprint 11,47,Low,Ready for review
+TSK-0828,Build Dashboard,Mobile App Development,IT,Brian Otieno,Medium,Completed,2025-09-07,2025-09-29,2025-10-01,24,27,Finance,Internal,Hard,Sprint 11,100,Low,Awaiting approval
+TSK-0829,Prepare Budget Forecast,Finance Automation,Finance,John Kamau,Low,Overdue,2025-07-02,2025-07-11,,11,14,Development,External,Medium,Sprint 10,93,Low,High priority follow-up
+TSK-0830,Fix Bugs,Mobile App Development,Finance,Eric Kiprono,Medium,Completed,2025-03-19,2025-03-29,2025-03-31,3,4,Design,External,Easy,Sprint 12,100,Medium,Requires testing
+TSK-0831,Update Knowledge Base,Customer Support Automation,Marketing,Sarah Wambui,Low,Completed,2025-08-31,2025-09-03,2025-09-05,5,8,Support,External,Easy,Sprint 8,100,High,Blocked by dependency
+TSK-0832,Design Banner,Marketing Campaign,Finance,Sheila Atieno,Low,Overdue,2025-06-03,2025-06-09,,5,11,Testing,Internal,Easy,Sprint 6,60,Low,Documentation updated
+TSK-0833,CRM Testing,CRM Implementation,IT,Faith Njeri,Low,Completed,2025-09-24,2025-09-28,2025-09-26,2,5,Design,External,Easy,Sprint 5,100,Medium,Documentation updated
+TSK-0834,Keyword Research,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-11-16,2025-11-18,2025-11-18,2,3,Design,External,Easy,Sprint 7,100,High,Ready for review
+TSK-0835,CRM Testing,CRM Implementation,IT,Kevin Kiptoo,High,Overdue,2025-07-28,2025-08-10,,17,22,Marketing,External,Hard,Sprint 5,52,Medium,Awaiting approval
+TSK-0836,Design Banner,Marketing Campaign,IT,Mercy Achieng,Low,Overdue,2025-02-24,2025-03-03,,3,4,HR,Internal,Easy,Sprint 2,49,Low,Awaiting approval
+TSK-0837,Create User Roles,CRM Implementation,IT,Ian Kibet,Low,In Progress,2025-08-24,2025-08-28,,4,4,Finance,Internal,Easy,Sprint 4,33,Medium,Awaiting approval
+TSK-0838,Design Landing Page,Website Redesign,Marketing,Sarah Wambui,Medium,In Progress,2025-07-18,2025-07-24,,4,1,Design,External,Easy,Sprint 10,82,Medium,Blocked by dependency
+TSK-0839,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Low,Completed,2025-04-01,2025-04-11,2025-04-13,3,2,Finance,Internal,Easy,Sprint 12,100,Low,Awaiting approval
+TSK-0840,Update Homepage,Website Redesign,Marketing,Linda Atieno,High,In Progress,2025-09-17,2025-09-25,,7,5,Design,Internal,Medium,Sprint 11,77,Medium,Requires testing
+TSK-0841,Screen CVs,HR Recruitment,Human Resources,Ruth Nyambura,High,Completed,2025-08-09,2025-08-22,2025-08-20,11,14,Finance,Internal,Medium,Sprint 6,100,Medium,High priority follow-up
+TSK-0842,Automation Testing,Customer Support Automation,Customer Support,Christine Auma,High,Overdue,2025-09-03,2025-09-15,,9,12,Finance,Internal,Medium,Sprint 4,74,Medium,Blocked by dependency
+TSK-0843,CRM Testing,CRM Implementation,IT,Diana Wanjiku,Low,Completed,2025-07-26,2025-08-12,2025-08-11,19,18,Finance,External,Hard,Sprint 7,100,High,On track
+TSK-0844,Financial Report,Finance Automation,Finance,Sheila Atieno,Low,In Progress,2025-12-05,2025-12-11,,7,6,Development,External,Medium,Sprint 8,36,Low,Blocked by dependency
+TSK-0845,Prepare Offer Letter,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Completed,2025-04-27,2025-05-15,2025-05-16,21,22,Support,Internal,Hard,Sprint 8,100,Medium,On track
+TSK-0846,Prepare Offer Letter,HR Recruitment,IT,Kevin Kiptoo,Medium,Completed,2025-04-21,2025-04-30,2025-05-03,9,8,Testing,External,Medium,Sprint 11,100,Low,Ready for review
+TSK-0847,Deploy Beta Version,Mobile App Development,IT,Brian Otieno,High,In Progress,2025-07-09,2025-07-16,,13,10,Marketing,Internal,Hard,Sprint 4,53,High,High priority follow-up
+TSK-0848,Customer Survey,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-04-10,2025-04-24,2025-04-23,8,11,HR,Internal,Medium,Sprint 4,100,Low,Documentation updated
+TSK-0849,Fix Bugs,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-02-11,2025-03-02,2025-03-05,19,19,Development,External,Hard,Sprint 7,100,Medium,Client feedback pending
+TSK-0850,Invoice Validation,Finance Automation,Finance,Anne Muthoni,Low,Completed,2025-06-17,2025-06-27,2025-06-29,4,3,Support,External,Easy,Sprint 6,100,Medium,Documentation updated
+TSK-0851,Schedule Interviews,HR Recruitment,Human Resources,Esther Kemunto,Low,In Progress,2025-04-10,2025-04-18,,6,5,Marketing,External,Easy,Sprint 12,80,Medium,On track
+TSK-0852,Conduct Interview,HR Recruitment,Human Resources,Esther Kemunto,High,In Progress,2025-08-27,2025-09-14,,22,21,Marketing,External,Hard,Sprint 2,68,Low,Requires testing
+TSK-0853,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-03-05,2025-03-15,2025-03-16,2,2,Design,External,Easy,Sprint 12,100,High,Ready for review
+TSK-0854,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,Medium,Completed,2025-05-25,2025-06-16,2025-06-14,24,26,Development,Internal,Hard,Sprint 8,100,Low,Awaiting approval
+TSK-0855,Sales Process Mapping,CRM Implementation,IT,James Mwangi,High,In Progress,2025-07-02,2025-07-10,,4,4,Marketing,Internal,Easy,Sprint 9,61,Low,Ready for review
+TSK-0856,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Overdue,2025-05-14,2025-05-26,,7,8,Finance,Internal,Medium,Sprint 8,43,Low,On track
+TSK-0857,Migrate Customer Records,CRM Implementation,IT,Brian Otieno,Low,Completed,2025-11-21,2025-11-29,2025-11-30,6,4,Finance,External,Medium,Sprint 9,100,Low,Awaiting approval
+TSK-0858,Migrate Customer Records,CRM Implementation,IT,James Mwangi,High,Completed,2025-07-08,2025-07-21,2025-07-20,12,11,HR,Internal,Medium,Sprint 11,100,Low,Requires testing
+TSK-0859,Schedule Interviews,HR Recruitment,Human Resources,Dennis Maina,Low,In Progress,2025-05-14,2025-05-21,,5,2,Marketing,External,Easy,Sprint 4,31,Low,Blocked by dependency
+TSK-0860,Configure CRM Database,CRM Implementation,IT,Mercy Achieng,Medium,Overdue,2025-06-02,2025-06-09,,3,7,Finance,Internal,Easy,Sprint 10,43,Medium,Requires testing
+TSK-0861,Design Landing Page,Website Redesign,Marketing,Linda Atieno,High,Completed,2025-07-18,2025-08-01,2025-07-31,9,10,Marketing,External,Medium,Sprint 11,100,Low,Client feedback pending
+TSK-0862,Configure CRM Database,CRM Implementation,IT,James Mwangi,Medium,Overdue,2025-06-05,2025-06-26,,23,25,Development,External,Hard,Sprint 4,46,High,Client feedback pending
+TSK-0863,Create Social Media Posts,Marketing Campaign,Marketing,Linda Atieno,High,In Progress,2025-03-03,2025-03-13,,4,3,Finance,Internal,Easy,Sprint 8,37,Low,Blocked by dependency
+TSK-0864,Migrate Customer Records,CRM Implementation,IT,Ian Kibet,Medium,Overdue,2025-01-12,2025-01-19,,9,11,Marketing,External,Medium,Sprint 1,44,Low,On track
+TSK-0865,Keyword Research,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-05-24,2025-06-06,2025-06-06,19,17,Finance,External,Hard,Sprint 4,100,Medium,Client feedback pending
+TSK-0866,Create Chatbot,Customer Support Automation,Customer Support,Christine Auma,Low,Overdue,2025-09-08,2025-09-14,,11,14,Development,External,Medium,Sprint 8,63,High,Documentation updated
+TSK-0867,Fix Bugs,Mobile App Development,IT,Ian Kibet,Medium,Completed,2025-07-28,2025-08-08,2025-08-09,10,10,Support,External,Medium,Sprint 3,100,Medium,Documentation updated
+TSK-0868,Customer Survey,Customer Support Automation,Customer Support,Lucy Moraa,High,Completed,2025-11-27,2025-12-08,2025-12-11,5,4,Development,External,Easy,Sprint 9,100,High,Blocked by dependency
+TSK-0869,Build Dashboard,Mobile App Development,IT,Ian Kibet,Low,Completed,2025-12-21,2026-01-01,2026-01-03,18,20,Development,Internal,Hard,Sprint 10,100,Medium,On track
+TSK-0870,Schedule Interviews,HR Recruitment,Sales,Irene Njeri,Medium,In Progress,2025-07-11,2025-07-22,,9,8,Testing,External,Medium,Sprint 12,66,Low,Awaiting approval
+TSK-0871,Update Homepage,Website Redesign,Marketing,Cynthia Mutiso,Low,Overdue,2025-09-16,2025-09-19,,2,8,Design,External,Easy,Sprint 5,59,Low,Client feedback pending
+TSK-0872,Build Dashboard,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-12-15,2025-12-24,2025-12-22,2,3,Testing,External,Easy,Sprint 1,100,Low,Requires testing
+TSK-0873,Conduct Interview,HR Recruitment,Human Resources,Esther Kemunto,Medium,In Progress,2025-01-22,2025-01-31,,6,4,Testing,External,Medium,Sprint 7,31,Medium,Awaiting approval
+TSK-0874,Design Banner,Marketing Campaign,Marketing,Peter Kariuki,Low,In Progress,2025-09-07,2025-09-24,,16,16,Design,Internal,Hard,Sprint 8,35,Low,Ready for review
+TSK-0875,Customer Survey,Customer Support Automation,Customer Support,Victor Kiptoo,High,Completed,2025-04-21,2025-04-28,2025-05-01,13,12,HR,Internal,Hard,Sprint 9,100,High,Documentation updated
+TSK-0876,Create User Roles,CRM Implementation,IT,Diana Wanjiku,Medium,Completed,2025-01-25,2025-02-09,2025-02-10,13,12,Marketing,External,Hard,Sprint 3,100,Medium,On track
+TSK-0877,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Medium,Not Started,2025-05-08,2025-05-12,,2,0,Support,External,Easy,Sprint 1,0,Low,Requires testing
+TSK-0878,Content Review,Website Redesign,Marketing,Allan Mwangi,Low,Completed,2025-03-01,2025-03-07,2025-03-10,7,9,HR,Internal,Medium,Sprint 8,100,Medium,Documentation updated
+TSK-0879,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Medium,Overdue,2025-08-03,2025-08-13,,6,11,Marketing,Internal,Medium,Sprint 2,84,Medium,Awaiting approval
+TSK-0880,Prepare Offer Letter,HR Recruitment,Sales,George Odhiambo,Medium,Overdue,2025-03-03,2025-03-19,,13,15,Design,External,Hard,Sprint 11,82,High,High priority follow-up
+TSK-0881,Build Dashboard,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-06-03,2025-06-11,2025-06-09,3,3,Development,Internal,Easy,Sprint 2,100,Low,Requires testing
+TSK-0882,Build Dashboard,Mobile App Development,IT,Kevin Kiptoo,High,Completed,2025-12-06,2025-12-14,2025-12-12,9,8,Marketing,Internal,Medium,Sprint 3,100,Low,Blocked by dependency
+TSK-0883,Financial Report,Finance Automation,Finance,John Kamau,Medium,Not Started,2025-07-31,2025-08-10,,7,0,Development,External,Medium,Sprint 1,0,Low,High priority follow-up
+TSK-0884,Invoice Validation,Finance Automation,Finance,Anne Muthoni,Medium,In Progress,2025-03-07,2025-03-28,,24,21,Support,Internal,Hard,Sprint 4,71,Medium,Requires testing
+TSK-0885,Campaign Analysis,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-03-16,2025-03-24,2025-03-24,2,3,Finance,External,Easy,Sprint 5,100,High,High priority follow-up
+TSK-0886,Prepare Offer Letter,HR Recruitment,Finance,Eric Kiprono,Medium,Overdue,2025-12-16,2025-12-31,,10,12,Testing,Internal,Medium,Sprint 12,70,Medium,Documentation updated
+TSK-0887,Conduct Interview,HR Recruitment,Human Resources,Ruth Nyambura,Medium,Not Started,2025-04-27,2025-05-14,,15,0,Design,External,Hard,Sprint 5,0,Medium,Client feedback pending
+TSK-0888,Invoice Validation,Finance Automation,Finance,Eric Kiprono,High,Completed,2025-03-13,2025-03-22,2025-03-25,7,9,HR,External,Medium,Sprint 4,100,Medium,Documentation updated
+TSK-0889,Fix Bugs,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-04-04,2025-04-18,2025-04-19,15,18,Testing,External,Hard,Sprint 9,100,Medium,High priority follow-up
+TSK-0890,SEO Optimization,Website Redesign,Marketing,Sarah Wambui,High,Completed,2025-02-04,2025-02-18,2025-02-19,12,14,HR,External,Medium,Sprint 9,100,Low,Ready for review
+TSK-0891,Accessibility Testing,Website Redesign,Marketing,Cynthia Mutiso,Medium,Completed,2025-04-03,2025-04-08,2025-04-06,8,12,Development,External,Medium,Sprint 2,100,Low,Requires testing
+TSK-0892,Accessibility Testing,Website Redesign,Marketing,Allan Mwangi,High,Overdue,2025-06-22,2025-07-02,,11,15,Design,Internal,Medium,Sprint 10,55,Low,Requires testing
+TSK-0893,Build Dashboard,Mobile App Development,IT,Brian Otieno,High,In Progress,2025-07-16,2025-07-27,,21,20,HR,External,Hard,Sprint 8,35,Low,Awaiting approval
+TSK-0894,Migrate Customer Records,CRM Implementation,IT,Diana Wanjiku,High,In Progress,2025-05-24,2025-06-05,,15,12,Support,External,Hard,Sprint 8,67,High,Client feedback pending
+TSK-0895,Accessibility Testing,Website Redesign,Marketing,Sarah Wambui,Medium,Completed,2025-11-11,2025-11-19,2025-11-18,6,9,Marketing,External,Medium,Sprint 9,100,Low,High priority follow-up
+TSK-0896,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-12-24,2026-01-03,2026-01-02,7,6,Testing,External,Medium,Sprint 7,100,Medium,Requires testing
+TSK-0897,Accessibility Testing,Website Redesign,Marketing,Grace Chebet,Medium,Completed,2025-05-05,2025-05-07,2025-05-08,2,4,Testing,External,Easy,Sprint 7,100,High,On track
+TSK-0898,Keyword Research,Marketing Campaign,Marketing,Cynthia Mutiso,High,Completed,2025-05-14,2025-05-20,2025-05-22,5,8,HR,Internal,Easy,Sprint 1,100,Low,Ready for review
+TSK-0899,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,Medium,Completed,2025-05-09,2025-05-22,2025-05-21,10,10,Design,External,Medium,Sprint 5,100,Medium,Blocked by dependency
+TSK-0900,Content Review,Website Redesign,Marketing,Grace Chebet,High,Overdue,2025-04-01,2025-04-13,,10,12,Development,Internal,Medium,Sprint 10,55,Medium,Awaiting approval
+TSK-0901,Migrate Customer Records,CRM Implementation,IT,Kevin Kiptoo,Medium,In Progress,2025-04-02,2025-04-11,,10,10,Support,Internal,Medium,Sprint 5,50,Low,On track
+TSK-0902,UI Testing,Mobile App Development,IT,James Mwangi,High,Completed,2025-11-08,2025-11-15,2025-11-16,4,3,Marketing,Internal,Easy,Sprint 12,100,Low,Awaiting approval
+TSK-0903,Create Chatbot,Customer Support Automation,Customer Support,Victor Kiptoo,High,Completed,2025-09-08,2025-09-17,2025-09-19,5,6,Finance,External,Easy,Sprint 10,100,Low,Ready for review
+TSK-0904,Automate Payroll,Finance Automation,Finance,Eric Kiprono,Medium,Completed,2025-11-04,2025-11-14,2025-11-16,16,17,Marketing,External,Hard,Sprint 5,100,Low,High priority follow-up
+TSK-0905,Configure CRM Database,CRM Implementation,IT,Brian Otieno,High,In Progress,2025-10-30,2025-11-16,,24,21,Design,Internal,Hard,Sprint 4,45,Low,Documentation updated
+TSK-0906,Prepare Offer Letter,HR Recruitment,Human Resources,Dennis Maina,Medium,Completed,2025-05-06,2025-05-12,2025-05-12,3,1,Testing,External,Easy,Sprint 7,100,High,Ready for review
+TSK-0907,Sales Process Mapping,CRM Implementation,IT,Kevin Kiptoo,Medium,Completed,2025-02-04,2025-02-16,2025-02-18,15,14,Development,Internal,Hard,Sprint 3,100,Medium,Requires testing
+TSK-0908,Sales Process Mapping,CRM Implementation,IT,Brian Otieno,Medium,Completed,2025-06-27,2025-07-07,2025-07-05,8,12,HR,Internal,Medium,Sprint 8,100,Medium,Documentation updated
+TSK-0909,Campaign Analysis,Marketing Campaign,Marketing,Sarah Wambui,Medium,Completed,2025-07-13,2025-07-23,2025-07-26,4,7,Finance,External,Easy,Sprint 3,100,High,Blocked by dependency
+TSK-0910,Financial Report,Finance Automation,IT,Faith Njeri,High,Completed,2025-03-10,2025-03-15,2025-03-16,3,7,Support,Internal,Easy,Sprint 7,100,Low,Requires testing
+TSK-0911,Update Homepage,Website Redesign,Marketing,Sarah Wambui,Low,Completed,2025-08-28,2025-09-04,2025-09-02,11,14,Marketing,External,Medium,Sprint 10,100,Low,High priority follow-up
+TSK-0912,Expense Review,Finance Automation,Finance,Sheila Atieno,Medium,Overdue,2025-12-07,2025-12-24,,14,19,Testing,Internal,Hard,Sprint 4,83,Low,On track
+TSK-0913,Campaign Analysis,Marketing Campaign,Marketing,Linda Atieno,High,Not Started,2025-10-30,2025-11-09,,16,0,Support,Internal,Hard,Sprint 9,0,Low,Client feedback pending
+TSK-0914,Financial Report,Finance Automation,Finance,Anne Muthoni,Low,Not Started,2025-07-31,2025-08-10,,9,0,Testing,Internal,Medium,Sprint 4,0,Medium,Blocked by dependency
+TSK-0915,Develop Login API,Mobile App Development,IT,Ian Kibet,Medium,Not Started,2025-08-10,2025-08-12,,3,0,Testing,External,Easy,Sprint 2,0,Low,Requires testing
+TSK-0916,Accessibility Testing,Website Redesign,Marketing,Cynthia Mutiso,Medium,Completed,2025-11-09,2025-11-26,2025-11-26,14,16,Marketing,Internal,Hard,Sprint 2,100,Low,Awaiting approval
+TSK-0917,Migrate Customer Records,CRM Implementation,IT,James Mwangi,Medium,Completed,2025-12-24,2026-01-02,2026-01-01,3,1,Design,External,Easy,Sprint 6,100,High,High priority follow-up
+TSK-0918,Update Knowledge Base,Customer Support Automation,Customer Support,Christine Auma,Low,Completed,2025-01-21,2025-01-27,2025-01-28,6,10,Marketing,Internal,Easy,Sprint 5,100,Medium,Requires testing
+TSK-0919,Deploy Beta Version,Mobile App Development,IT,Mercy Achieng,High,Completed,2025-11-26,2025-12-09,2025-12-08,6,9,Testing,Internal,Medium,Sprint 7,100,Low,High priority follow-up
+TSK-0920,Customer Survey,Customer Support Automation,Customer Support,Sharon Wairimu,Medium,Completed,2025-07-25,2025-08-01,2025-08-04,5,5,Design,Internal,Easy,Sprint 8,100,Medium,Blocked by dependency
+TSK-0921,Create Chatbot,Customer Support Automation,Customer Support,Christine Auma,Medium,Completed,2025-03-18,2025-03-25,2025-03-28,2,2,HR,Internal,Easy,Sprint 12,100,Low,Documentation updated
+TSK-0922,Campaign Analysis,Marketing Campaign,Marketing,Allan Mwangi,Medium,Completed,2025-12-02,2025-12-13,2025-12-12,8,8,Development,Internal,Medium,Sprint 1,100,High,Requires testing
+TSK-0923,Keyword Research,Marketing Campaign,Marketing,Cynthia Mutiso,Medium,Completed,2025-03-10,2025-03-22,2025-03-25,11,11,Support,Internal,Medium,Sprint 1,100,Low,Blocked by dependency
+TSK-0924,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,High,Overdue,2025-05-23,2025-05-31,,3,4,Development,External,Easy,Sprint 12,89,Medium,High priority follow-up
+TSK-0925,Prepare Budget Forecast,Finance Automation,Finance,Sheila Atieno,High,In Progress,2025-03-17,2025-04-06,,22,20,Marketing,Internal,Hard,Sprint 7,63,Low,On track
+TSK-0926,Design Banner,Marketing Campaign,Customer Support,Victor Kiptoo,Medium,In Progress,2025-07-28,2025-08-02,,6,3,Marketing,External,Easy,Sprint 10,83,Low,Client feedback pending
+TSK-0927,Conduct Interview,HR Recruitment,Marketing,Cynthia Mutiso,High,In Progress,2025-10-24,2025-10-27,,4,3,Design,External,Easy,Sprint 4,32,Low,Ready for review
+TSK-0928,Create User Roles,CRM Implementation,IT,James Mwangi,Medium,Overdue,2025-11-24,2025-12-05,,21,25,Design,External,Hard,Sprint 2,77,Low,Client feedback pending
+TSK-0929,Launch Email Campaign,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-11-28,2025-12-04,2025-12-03,9,12,Finance,External,Medium,Sprint 3,100,Low,Requires testing
+TSK-0930,Customer Survey,Customer Support Automation,Customer Support,Kelvin Ouma,High,Completed,2025-06-08,2025-06-13,2025-06-11,6,5,Support,Internal,Easy,Sprint 1,100,High,Client feedback pending
+TSK-0931,Create User Roles,CRM Implementation,IT,Mercy Achieng,Low,Completed,2025-10-01,2025-10-14,2025-10-17,10,12,Testing,Internal,Medium,Sprint 6,100,Low,Awaiting approval
+TSK-0932,Onboard Employee,HR Recruitment,Human Resources,Esther Kemunto,Low,In Progress,2025-02-14,2025-02-27,,14,13,Support,Internal,Hard,Sprint 8,63,Medium,High priority follow-up
+TSK-0933,CRM Testing,CRM Implementation,IT,Diana Wanjiku,High,Completed,2025-04-08,2025-04-27,2025-04-30,19,22,Development,Internal,Hard,Sprint 11,100,Low,Documentation updated
+TSK-0934,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,Medium,Completed,2025-01-02,2025-01-11,2025-01-14,6,6,Marketing,Internal,Easy,Sprint 6,100,Low,Documentation updated
+TSK-0935,Sales Process Mapping,CRM Implementation,IT,James Mwangi,Medium,In Progress,2025-10-11,2025-10-22,,11,11,Support,Internal,Medium,Sprint 11,69,Low,High priority follow-up
+TSK-0936,SEO Optimization,Website Redesign,Marketing,Cynthia Mutiso,High,Completed,2025-03-12,2025-03-24,2025-03-24,18,18,Support,External,Hard,Sprint 2,100,Medium,High priority follow-up
+TSK-0937,Create User Roles,CRM Implementation,IT,Ian Kibet,Medium,Completed,2025-02-17,2025-02-28,2025-02-26,3,3,Development,Internal,Easy,Sprint 5,100,Low,High priority follow-up
+TSK-0938,Schedule Interviews,HR Recruitment,Marketing,Peter Kariuki,Medium,Completed,2025-10-09,2025-10-21,2025-10-23,6,10,Finance,External,Easy,Sprint 9,100,Low,Requires testing
+TSK-0939,Create User Roles,CRM Implementation,Operations,Kelvin Mutua,Low,Completed,2025-01-27,2025-02-09,2025-02-07,6,4,Marketing,Internal,Medium,Sprint 8,100,Low,High priority follow-up
+TSK-0940,Launch Email Campaign,Marketing Campaign,Marketing,Linda Atieno,Medium,Completed,2025-03-28,2025-04-09,2025-04-12,21,25,Development,External,Hard,Sprint 4,100,Low,Blocked by dependency
+TSK-0941,Content Review,Website Redesign,Marketing,Allan Mwangi,High,Completed,2025-10-23,2025-10-31,2025-10-29,9,10,Design,External,Medium,Sprint 4,100,High,Requires testing
+TSK-0942,Onboard Employee,HR Recruitment,Human Resources,Dennis Maina,High,Completed,2025-08-04,2025-08-22,2025-08-20,21,19,Marketing,Internal,Hard,Sprint 12,100,Low,Requires testing
+TSK-0943,Automation Testing,Customer Support Automation,Customer Support,Kelvin Ouma,High,In Progress,2025-05-08,2025-05-16,,2,1,Testing,Internal,Easy,Sprint 10,43,Low,On track
+TSK-0944,Create Chatbot,Customer Support Automation,Customer Support,Christine Auma,Medium,Completed,2025-11-28,2025-12-10,2025-12-11,12,13,Finance,External,Medium,Sprint 8,100,Low,Client feedback pending
+TSK-0945,Financial Report,Finance Automation,Finance,Anne Muthoni,Medium,Overdue,2025-09-08,2025-09-18,,18,21,Marketing,External,Hard,Sprint 3,40,Medium,On track
+TSK-0946,Financial Report,Finance Automation,IT,Ian Kibet,Medium,Completed,2025-05-26,2025-05-29,2025-05-30,4,8,Support,Internal,Easy,Sprint 10,100,Low,Documentation updated
+TSK-0947,Prepare Offer Letter,HR Recruitment,Human Resources,Esther Kemunto,High,Overdue,2025-05-19,2025-06-03,,15,17,Support,Internal,Hard,Sprint 11,41,High,Documentation updated
+TSK-0948,Campaign Analysis,Marketing Campaign,Marketing,Peter Kariuki,Medium,Completed,2025-05-11,2025-05-21,2025-05-21,2,5,Marketing,Internal,Easy,Sprint 2,100,Low,Awaiting approval
+TSK-0949,Content Review,Website Redesign,Human Resources,Esther Kemunto,Low,Completed,2025-11-18,2025-11-27,2025-11-25,12,12,Support,External,Hard,Sprint 10,100,High,High priority follow-up
+TSK-0950,Configure CRM Database,CRM Implementation,IT,Brian Otieno,Medium,In Progress,2025-05-20,2025-05-30,,7,5,Marketing,External,Medium,Sprint 10,36,Medium,Client feedback pending
+TSK-0951,SEO Optimization,Website Redesign,Marketing,Linda Atieno,Medium,Completed,2025-10-15,2025-10-22,2025-10-24,11,10,Design,External,Medium,Sprint 1,100,Low,Client feedback pending
+TSK-0952,Create Social Media Posts,Marketing Campaign,Marketing,Allan Mwangi,High,Not Started,2025-04-24,2025-04-29,,7,0,Development,External,Medium,Sprint 1,0,Medium,Ready for review
+TSK-0953,CRM Testing,CRM Implementation,Sales,Dennis Oloo,Low,Completed,2025-02-17,2025-03-08,2025-03-11,21,24,Support,Internal,Hard,Sprint 1,100,Medium,Documentation updated
+TSK-0954,Create Chatbot,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Completed,2025-06-19,2025-07-09,2025-07-08,20,22,Testing,Internal,Hard,Sprint 7,100,Medium,High priority follow-up
+TSK-0955,Screen CVs,HR Recruitment,Human Resources,Esther Kemunto,Medium,Not Started,2025-04-09,2025-04-19,,12,0,Finance,Internal,Medium,Sprint 12,0,Medium,Blocked by dependency
+TSK-0956,SEO Optimization,Website Redesign,Marketing,Grace Chebet,Medium,In Progress,2025-03-02,2025-03-08,,3,0,Finance,Internal,Easy,Sprint 3,39,Low,Documentation updated
+TSK-0957,Create Social Media Posts,Marketing Campaign,Marketing,Linda Atieno,Medium,In Progress,2025-03-22,2025-04-05,,14,14,Design,Internal,Hard,Sprint 5,57,Low,High priority follow-up
+TSK-0958,Campaign Analysis,Marketing Campaign,Marketing,Peter Kariuki,Medium,Completed,2025-08-16,2025-08-30,2025-08-29,8,11,Support,Internal,Medium,Sprint 4,100,Low,Ready for review
+TSK-0959,Screen CVs,HR Recruitment,Human Resources,Dennis Maina,Low,Completed,2025-04-28,2025-05-13,2025-05-14,12,13,Finance,Internal,Medium,Sprint 1,100,High,Blocked by dependency
+TSK-0960,Build Dashboard,Mobile App Development,Operations,Winnie Chebet,Low,Completed,2025-05-04,2025-05-15,2025-05-17,10,12,Development,External,Medium,Sprint 5,100,High,High priority follow-up
+TSK-0961,Develop Login API,Mobile App Development,IT,Brian Otieno,Medium,Overdue,2025-04-23,2025-05-04,,2,6,Marketing,Internal,Easy,Sprint 12,44,Medium,High priority follow-up
+TSK-0962,Design Banner,Marketing Campaign,Marketing,Linda Atieno,High,In Progress,2025-12-20,2026-01-02,,24,24,Design,Internal,Hard,Sprint 2,50,Medium,Client feedback pending
+TSK-0963,Campaign Analysis,Marketing Campaign,IT,Diana Wanjiku,Medium,Completed,2025-01-14,2025-01-25,2025-01-28,8,6,Support,External,Medium,Sprint 5,100,High,Requires testing
+TSK-0964,Content Review,Website Redesign,Marketing,Grace Chebet,Medium,Completed,2025-02-09,2025-02-15,2025-02-17,3,5,Support,Internal,Easy,Sprint 6,100,Medium,Ready for review
+TSK-0965,Keyword Research,Marketing Campaign,Marketing,Cynthia Mutiso,High,In Progress,2025-05-06,2025-05-14,,5,5,Finance,External,Easy,Sprint 9,53,Low,Blocked by dependency
+TSK-0966,Launch Email Campaign,Marketing Campaign,Marketing,Sarah Wambui,Medium,In Progress,2025-07-09,2025-07-16,,8,5,Development,Internal,Medium,Sprint 11,76,High,Documentation updated
+TSK-0967,CRM Testing,CRM Implementation,IT,Brian Otieno,Medium,In Progress,2025-01-09,2025-01-24,,12,11,Development,Internal,Medium,Sprint 5,38,Low,On track
+TSK-0968,Sales Process Mapping,CRM Implementation,Human Resources,Ruth Nyambura,Low,In Progress,2025-11-26,2025-12-05,,3,2,Design,External,Easy,Sprint 12,63,Medium,Client feedback pending
+TSK-0969,Fix Bugs,Mobile App Development,IT,Diana Wanjiku,High,In Progress,2025-12-14,2025-12-25,,4,2,Testing,Internal,Easy,Sprint 1,56,Low,Client feedback pending
+TSK-0970,Design Banner,Marketing Campaign,Marketing,Grace Chebet,Medium,Overdue,2025-05-09,2025-05-20,,9,12,Marketing,Internal,Medium,Sprint 6,80,Low,High priority follow-up
+TSK-0971,Automate Payroll,Finance Automation,Finance,John Kamau,Medium,Completed,2025-12-16,2025-12-21,2025-12-24,8,6,Marketing,External,Medium,Sprint 5,100,Low,Ready for review
+TSK-0972,Expense Review,Finance Automation,Finance,Sheila Atieno,Medium,Overdue,2025-04-26,2025-05-09,,8,14,HR,Internal,Medium,Sprint 5,72,High,High priority follow-up
+TSK-0973,Resolve Tickets,Customer Support Automation,Finance,John Kamau,High,In Progress,2025-05-03,2025-05-10,,3,2,HR,External,Easy,Sprint 10,83,High,High priority follow-up
+TSK-0974,Update Knowledge Base,Customer Support Automation,Customer Support,Kelvin Ouma,Low,Completed,2025-08-27,2025-09-11,2025-09-10,10,9,HR,Internal,Medium,Sprint 11,100,Low,Client feedback pending
+TSK-0975,Design Banner,Marketing Campaign,Marketing,Cynthia Mutiso,Low,Completed,2025-02-09,2025-02-24,2025-02-25,12,16,Testing,External,Medium,Sprint 2,100,Low,Documentation updated
+TSK-0976,Develop Login API,Mobile App Development,Operations,Kelvin Mutua,Low,Completed,2025-10-28,2025-11-05,2025-11-03,2,4,Design,Internal,Easy,Sprint 4,100,Medium,Ready for review
+TSK-0977,Conduct Interview,HR Recruitment,Human Resources,Dennis Maina,Medium,Overdue,2025-08-01,2025-08-10,,10,14,HR,External,Medium,Sprint 3,63,High,On track
+TSK-0978,Configure CRM Database,CRM Implementation,IT,James Mwangi,Low,In Progress,2025-05-30,2025-06-11,,7,4,Support,Internal,Medium,Sprint 10,51,Low,Blocked by dependency
+TSK-0979,Automate Payroll,Finance Automation,Marketing,Grace Chebet,Low,In Progress,2025-08-20,2025-08-31,,8,8,Testing,Internal,Medium,Sprint 12,35,Low,Requires testing
+TSK-0980,Design Landing Page,Website Redesign,Marketing,Cynthia Mutiso,Low,In Progress,2025-09-10,2025-09-20,,18,18,Finance,Internal,Hard,Sprint 7,37,Low,On track
+TSK-0981,Sales Process Mapping,CRM Implementation,Operations,Kelvin Mutua,Low,Completed,2025-01-14,2025-01-25,2025-01-23,7,7,Finance,Internal,Medium,Sprint 2,100,Medium,Blocked by dependency
+TSK-0982,Invoice Validation,Finance Automation,Finance,Sheila Atieno,High,Completed,2025-02-25,2025-03-09,2025-03-11,11,14,Design,Internal,Medium,Sprint 9,100,Low,Requires testing
+TSK-0983,Screen CVs,HR Recruitment,Human Resources,Ruth Nyambura,High,Overdue,2025-08-18,2025-08-23,,3,7,Finance,Internal,Easy,Sprint 7,95,Medium,On track
+TSK-0984,Content Review,Website Redesign,Marketing,Linda Atieno,Medium,Completed,2025-12-22,2026-01-05,2026-01-05,10,12,HR,Internal,Medium,Sprint 5,100,Low,Requires testing
+TSK-0985,UI Testing,Mobile App Development,IT,James Mwangi,Low,In Progress,2025-12-28,2026-01-07,,6,3,Support,External,Easy,Sprint 9,85,Medium,Documentation updated
+TSK-0986,Sales Process Mapping,CRM Implementation,Human Resources,Esther Kemunto,Medium,Completed,2025-03-17,2025-03-27,2025-03-25,10,14,HR,External,Medium,Sprint 10,100,Medium,Client feedback pending
+TSK-0987,Update Homepage,Website Redesign,IT,Brian Otieno,High,Completed,2025-10-14,2025-10-25,2025-10-27,21,22,Design,External,Hard,Sprint 11,100,Low,Awaiting approval
+TSK-0988,Keyword Research,Marketing Campaign,Marketing,Sarah Wambui,High,Completed,2025-04-27,2025-05-08,2025-05-11,10,13,HR,External,Medium,Sprint 11,100,High,Client feedback pending
+TSK-0989,Develop Login API,Mobile App Development,IT,Faith Njeri,Low,Not Started,2025-07-28,2025-08-18,,23,0,HR,External,Hard,Sprint 6,0,High,On track
+TSK-0990,UI Testing,Mobile App Development,Operations,Winnie Chebet,Medium,Completed,2025-05-17,2025-05-30,2025-06-01,12,13,Testing,External,Medium,Sprint 11,100,Low,Awaiting approval
+TSK-0991,Financial Report,Finance Automation,Finance,Eric Kiprono,High,Overdue,2025-09-28,2025-10-08,,17,20,Design,External,Hard,Sprint 7,93,Medium,Blocked by dependency
+TSK-0992,Content Review,Website Redesign,Marketing,Linda Atieno,High,Overdue,2025-03-26,2025-04-03,,15,16,Support,External,Hard,Sprint 10,82,Medium,Ready for review
+TSK-0993,Create Social Media Posts,Marketing Campaign,Marketing,Sarah Wambui,Low,In Progress,2025-12-09,2025-12-21,,12,12,Development,External,Medium,Sprint 9,33,Low,On track
+TSK-0994,Fix Bugs,Mobile App Development,IT,James Mwangi,Medium,Completed,2025-07-28,2025-08-12,2025-08-11,12,16,HR,External,Medium,Sprint 11,100,Low,Ready for review
+TSK-0995,Update Knowledge Base,Customer Support Automation,Customer Support,Lucy Moraa,Medium,Completed,2025-11-03,2025-11-11,2025-11-14,14,15,Design,External,Hard,Sprint 7,100,Low,Blocked by dependency
+TSK-0996,Deploy Beta Version,Mobile App Development,IT,James Mwangi,Medium,In Progress,2025-08-31,2025-09-13,,6,6,Support,External,Medium,Sprint 1,79,Medium,Ready for review
+TSK-0997,Develop Login API,Mobile App Development,IT,Kevin Kiptoo,Low,Completed,2025-03-09,2025-03-16,2025-03-15,8,8,Marketing,Internal,Medium,Sprint 8,100,Low,Awaiting approval
+TSK-0998,Create Social Media Posts,Marketing Campaign,Marketing,Grace Chebet,High,Completed,2025-08-05,2025-08-17,2025-08-16,12,13,Marketing,External,Medium,Sprint 7,100,Low,Awaiting approval
+TSK-0999,Content Review,Website Redesign,Marketing,Sarah Wambui,High,Completed,2025-10-24,2025-11-02,2025-11-02,4,6,Development,Internal,Easy,Sprint 7,100,High,Requires testing
+TSK-1000,Schedule Interviews,HR Recruitment,Marketing,Cynthia Mutiso,Medium,Overdue,2025-03-14,2025-03-27,,11,17,Design,Internal,Medium,Sprint 2,72,Medium,On track
