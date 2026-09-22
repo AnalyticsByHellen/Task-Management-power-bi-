@@ -1,0 +1,311 @@
+DEFINE
+
+//---------------------------------------------
+// CORE TASK MEASURES
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Total Tasks] =
+COUNTROWS('NovaTech')
+
+MEASURE 'NovaTech'[Completed Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Status] = "Completed"
+)
+
+MEASURE 'NovaTech'[In Progress Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Status] = "In Progress"
+)
+
+MEASURE 'NovaTech'[Overdue Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Status] = "Overdue"
+)
+
+MEASURE 'NovaTech'[Not Started Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Status] = "Not Started"
+)
+
+MEASURE 'NovaTech'[Completion Rate %] =
+DIVIDE(
+    [Completed Tasks],
+    [Total Tasks],
+    0
+)
+
+MEASURE 'NovaTech'[Open Tasks] =
+[In Progress Tasks] + [Overdue Tasks] + [Not Started Tasks]
+
+MEASURE 'NovaTech'[Open Task Rate %] =
+DIVIDE(
+    [Open Tasks],
+    [Total Tasks],
+    0
+)
+
+
+//---------------------------------------------
+// HOURS
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Total Estimated Hours] =
+SUM('NovaTech'[Estimated Hours])
+
+MEASURE 'NovaTech'[Total Actual Hours] =
+SUM('NovaTech'[Actual Hours])
+
+MEASURE 'NovaTech'[Average Estimated Hours] =
+AVERAGE('NovaTech'[Estimated Hours])
+
+MEASURE 'NovaTech'[Average Actual Hours] =
+AVERAGE('NovaTech'[Actual Hours])
+
+MEASURE 'NovaTech'[Hours Variance] =
+[Total Actual Hours] - [Total Estimated Hours]
+
+MEASURE 'NovaTech'[Hours Variance %] =
+DIVIDE(
+    [Hours Variance],
+    [Total Estimated Hours],
+    0
+)
+
+
+//---------------------------------------------
+// COMPLETION
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Average Completion %] =
+AVERAGE('NovaTech'[Completion %])
+
+MEASURE 'NovaTech'[Completed Estimated Hours] =
+CALCULATE(
+    SUM('NovaTech'[Estimated Hours]),
+    'NovaTech'[Status] = "Completed"
+)
+
+MEASURE 'NovaTech'[Completed Actual Hours] =
+CALCULATE(
+    SUM('NovaTech'[Actual Hours]),
+    'NovaTech'[Status] = "Completed"
+)
+
+
+//---------------------------------------------
+// PROJECT METRICS
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Projects] =
+DISTINCTCOUNT('NovaTech'[Project])
+
+MEASURE 'NovaTech'[Average Tasks per Project] =
+DIVIDE(
+    [Total Tasks],
+    [Projects],
+    0
+)
+
+
+//---------------------------------------------
+// EMPLOYEE METRICS
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Employees] =
+DISTINCTCOUNT('NovaTech'[Assigned To])
+
+MEASURE 'NovaTech'[Average Tasks per Employee] =
+DIVIDE(
+    [Total Tasks],
+    [Employees],
+    0
+)
+
+MEASURE 'NovaTech'[Average Hours per Employee] =
+DIVIDE(
+    [Total Actual Hours],
+    [Employees],
+    0
+)
+
+
+//---------------------------------------------
+// DEPARTMENT
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Departments] =
+DISTINCTCOUNT('NovaTech'[Department])
+
+
+//---------------------------------------------
+// PRIORITY
+//---------------------------------------------
+
+MEASURE 'NovaTech'[High Priority Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Priority] = "High"
+)
+
+MEASURE 'NovaTech'[Medium Priority Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Priority] = "Medium"
+)
+
+MEASURE 'NovaTech'[Low Priority Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Priority] = "Low"
+)
+
+MEASURE 'NovaTech'[High Priority %] =
+DIVIDE(
+    [High Priority Tasks],
+    [Total Tasks],
+    0
+)
+
+
+//---------------------------------------------
+// RISK
+//---------------------------------------------
+
+MEASURE 'NovaTech'[High Risk Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Risk Level] = "High"
+)
+
+MEASURE 'NovaTech'[Medium Risk Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Risk Level] = "Medium"
+)
+
+MEASURE 'NovaTech'[Low Risk Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Risk Level] = "Low"
+)
+
+
+//---------------------------------------------
+// COMPLEXITY
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Hard Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Complexity] = "Hard"
+)
+
+MEASURE 'NovaTech'[Medium Complexity Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Complexity] = "Medium"
+)
+
+MEASURE 'NovaTech'[Easy Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Complexity] = "Easy"
+)
+
+
+//---------------------------------------------
+// CLIENT
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Internal Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Client] = "Internal"
+)
+
+MEASURE 'NovaTech'[External Tasks] =
+CALCULATE(
+    COUNTROWS('NovaTech'),
+    'NovaTech'[Client] = "External"
+)
+
+
+//---------------------------------------------
+// PRODUCTIVITY
+//---------------------------------------------
+
+MEASURE 'NovaTech'[Productivity Score %] =
+DIVIDE(
+    [Completed Tasks],
+    [Completed Tasks] + [Overdue Tasks],
+    0
+)
+
+MEASURE 'NovaTech'[Task Efficiency %] =
+DIVIDE(
+    [Total Estimated Hours],
+    [Total Actual Hours],
+    0
+)
+
+
+//---------------------------------------------
+// EVALUATE
+//---------------------------------------------
+
+EVALUATE
+
+SUMMARIZECOLUMNS(
+
+"Total Tasks",[Total Tasks],
+"Completed Tasks",[Completed Tasks],
+"In Progress Tasks",[In Progress Tasks],
+"Overdue Tasks",[Overdue Tasks],
+"Not Started Tasks",[Not Started Tasks],
+"Completion Rate %",[Completion Rate %],
+"Open Tasks",[Open Tasks],
+"Open Task Rate %",[Open Task Rate %],
+
+"Total Estimated Hours",[Total Estimated Hours],
+"Total Actual Hours",[Total Actual Hours],
+"Average Estimated Hours",[Average Estimated Hours],
+"Average Actual Hours",[Average Actual Hours],
+"Hours Variance",[Hours Variance],
+"Hours Variance %",[Hours Variance %],
+
+"Average Completion %",[Average Completion %],
+"Completed Estimated Hours",[Completed Estimated Hours],
+"Completed Actual Hours",[Completed Actual Hours],
+
+"Projects",[Projects],
+"Average Tasks per Project",[Average Tasks per Project],
+
+"Employees",[Employees],
+"Average Tasks per Employee",[Average Tasks per Employee],
+"Average Hours per Employee",[Average Hours per Employee],
+
+"Departments",[Departments],
+
+"High Priority Tasks",[High Priority Tasks],
+"Medium Priority Tasks",[Medium Priority Tasks],
+"Low Priority Tasks",[Low Priority Tasks],
+"High Priority %",[High Priority %],
+
+"High Risk Tasks",[High Risk Tasks],
+"Medium Risk Tasks",[Medium Risk Tasks],
+"Low Risk Tasks",[Low Risk Tasks],
+
+"Hard Tasks",[Hard Tasks],
+"Medium Complexity Tasks",[Medium Complexity Tasks],
+"Easy Tasks",[Easy Tasks],
+
+"Internal Tasks",[Internal Tasks],
+"External Tasks",[External Tasks],
+
+"Productivity Score %",[Productivity Score %],
+"Task Efficiency %",[Task Efficiency %]
+)
